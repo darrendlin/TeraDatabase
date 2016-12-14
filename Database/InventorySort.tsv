@@ -1,0 +1,8 @@
+id	category
+0	All
+1	axe, blaster, bodyLeather, bodyMail, bodyRobe, bow, chain, circle, dual, earring, feetLeather, feetMail, feetRobe, gauntlet, handLeather, handMail, handRobe, lance, necklace, ring, rod, staff, shuriken, twohand, underwear
+2	accessoryFace, accessoryHair, style_axe, style_back, style_blaster, style_body, style_bow, style_chain, style_circle, style_dual, style_face, style_gauntlet, style_hair, style_lance, style_rod, style_staff, style_shuriken, style_twohand
+3	Combat, charm, magical, customize_weapon, customize_armor, customize_accessory
+4	alchemy, alchemyMaterial, armorComponent, armorMaterial, combatRecipe, fiber, fireworkMaterial, generalMaterial, leather, metal, recipe, weaponComponent, weaponMaterial, keyItem, extractRecipe, union
+5	document, quest
+6	crest, crestPoint, dyeItem, dyeRaw, dyeRecipe, enchantComponent, etc, medal, order, petAdult, petOrb, pkitem, service, skillbook, token, TOKEN

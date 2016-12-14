@@ -1,0 +1,93 @@
+displayText	eng	displayText2	eng3	displayText4	eng5	displayText6	eng7	displayText8	eng9	displayText10	eng11
+Common	0										
+Uncommon	1										
+Rare	2										
+Superior	3										
+Legendary	9										
+		Warrior	WARRIOR								
+		Lancer	LANCER								
+		Slayer	SLAYER								
+		Berserker	BERSERKER								
+		Reaper	SOULLESS								
+		Sorcerer	SORCERER								
+		Archer	ARCHER								
+		Priest	PRIEST								
+		Mystic	ELEMENTALIST								
+		Gunner	ENGINEER								
+		Brawler	FIGHTER								
+		Ninja	ASSASSIN								
+				@ui:102067	WEAPON						
+				@ui:102069	BODY						
+				@ui:102070	LEG						
+				@ui:102071	ARM						
+						Male	male				
+						Female	female				
+								Leather	leather		
+								Essence	alchemy		
+								Ore	metal		
+								Alchemical	alchemyMaterial		
+								Fiber	fiber		
+								Weapon Rune	weaponMaterial		
+								Weapon Component	weaponComponent		
+								Armor Rune	armorMaterial		
+								Armor Component	armorComponent		
+								Crafting Reagent	generalMaterial		
+								Design	recipe		
+								Extraction Lesson	extractRecipe		
+								Arcane Supplies	magical		
+								Combat Supplies	combat		
+								Enhancement Crystal	custormaize		
+								Twin Swords	dual		
+								Lance	lance		
+								Greatsword	twohand		
+								Axe	axe		
+								Scythes	chain		
+								Disc	circle		
+								Bow	bow		
+								Staff	staff		
+								Scepter	rod		
+								Arcannon	blaster		
+								Powerfists	gauntlet		
+								Shuriken	shuriken		
+								Hauberk	bodyMail		
+								Gauntlets	handMail		
+								Greaves	feetMail		
+								Cuirass	bodyLeather		
+								Gloves	handLeather		
+								Boots	feetLeather		
+								Robes	bodyRobe		
+								Sleeves	handRobe		
+								Shoes	feetRobe		
+								Pet Egg	petEgg		
+								Supply Shop	petAdult		
+								Pet Training	petOrb		
+								Miscellaneous	etc		
+								Quest Item	quest		
+								Ring	ring		
+								Earring	earring		
+								Training Manual	skillbook		
+								Medal	medal		
+								Glyph	crest		
+								Points	crestPoint		
+								Necklace	necklace		
+								Innerwear	underware		
+								Document	document		
+								Boss Rune	keyItem		
+								Outfitters' Item	service		
+								Charm	charm		
+								Dye	dyeItem		
+								Dye material	dyeRaw		
+								Dyeing kit	dyeRecipe		
+								Shadow merchandise	pkitem		
+								Token	token		
+								Battleground Token	order		
+								Etching	enchantScroll		
+								Brooch	brooch		
+								{EnchantableParts} Enchanting Material	enchantComponent		
+										Human	human
+										Castanic	castanic
+										Aman	aman
+										High Elf	highelf
+										Baraka	Baraka
+										Popori	popori
+										Elin	elin

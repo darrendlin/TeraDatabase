@@ -1,0 +1,61 @@
+id	id2	name	compensation	icon	needRate	id3	name4	desc	id5	name6	startDate	point	id7	needRate8
+100	1	bronze			0,2									
+100	2	silver			0,4									
+100	3	gold			0,6									
+100	4	diamond			0,8									
+100	5	champion			0,95									
+200	1	bronze			0,2									
+200	2	silver			0,4									
+200	3	gold			0,6									
+200	4	diamond			0,8									
+200	5	champion			0,95									
+300	1	bronze			0,2									
+300	2	silver			0,4									
+300	3	gold			0,6									
+300	4	diamond			0,8									
+300	5	champion			0,95									
+400	1	bronze			0,2									
+400	2	silver			0,4									
+400	3	gold			0,6									
+400	4	diamond			0,8									
+400	5	champion			0,95									
+500	1	bronze			0,2									
+500	2	silver			0,4									
+500	3	gold			0,6									
+500	4	diamond			0,8									
+500	5	champion			0,95									
+600	1	bronze			0,2									
+600	2	silver			0,4									
+600	3	gold			0,6									
+600	4	diamond			0,8									
+600	5	champion			0,95									
+						1	@AchievementGradeInfo:101	@AchievementGradeInfo:201						
+						2	@AchievementGradeInfo:102	@AchievementGradeInfo:202						
+						3	@AchievementGradeInfo:103	@AchievementGradeInfo:203						
+						4	@AchievementGradeInfo:104	@AchievementGradeInfo:204						
+						5	@AchievementGradeInfo:105	@AchievementGradeInfo:205						
+									1	@AchievementGradeInfo:1	20150226		1	0,1911
+									1	@AchievementGradeInfo:1	20150226		2	0,383
+									1	@AchievementGradeInfo:1	20150226		3	0,5749
+									1	@AchievementGradeInfo:1	20150226		4	0,7668
+									1	@AchievementGradeInfo:1	20150226		5	0,9106
+									2	@AchievementGradeInfo:2	20150707		1	0,2
+									2	@AchievementGradeInfo:2	20150707		2	0,4
+									2	@AchievementGradeInfo:2	20150707		3	0,6
+									2	@AchievementGradeInfo:2	20150707		4	0,8
+									2	@AchievementGradeInfo:2	20150707		5	0,95
+									3	@AchievementGradeInfo:3	20151201	13730	1	0,2
+									3	@AchievementGradeInfo:3	20151201	13730	2	0,4
+									3	@AchievementGradeInfo:3	20151201	13730	3	0,6
+									3	@AchievementGradeInfo:3	20151201	13730	4	0,8
+									3	@AchievementGradeInfo:3	20151201	13730	5	0,95
+									4	@AchievementGradeInfo:4	20160516	11675	1	0,2
+									4	@AchievementGradeInfo:4	20160516	11675	2	0,4
+									4	@AchievementGradeInfo:4	20160516	11675	3	0,6
+									4	@AchievementGradeInfo:4	20160516	11675	4	0,8
+									4	@AchievementGradeInfo:4	20160516	11675	5	0,95
+									5	@AchievementGradeInfo:5	20160713	12995	1	0,2
+									5	@AchievementGradeInfo:5	20160713	12995	2	0,4
+									5	@AchievementGradeInfo:5	20160713	12995	3	0,6
+									5	@AchievementGradeInfo:5	20160713	12995	4	0,8
+									5	@AchievementGradeInfo:5	20160713	12995	5	0,95

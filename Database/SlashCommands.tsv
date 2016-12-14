@@ -1,0 +1,85 @@
+id	socialMotionId	command	paramCount	useInteractionMenu	autofillupparam	canUseWhenPolymorph	adminOnly
+16	16	social	0	False			
+17	17	social	0	False			
+18	18	social	0	False			
+19	19	social	0	False			
+20	20	social	0	False			
+21	21	social	0	False			
+22	22	social	0	False			
+23	23	social	0	False			
+24	24	social	0	False			
+25	25	social	0	False			
+26	26	social	0	False			
+27	27	social	0	False			
+28	28	social	0	False			
+29	29	social	0	False			
+30	30	social	0	False			
+38	38	social	0	False			
+39	39	social	0	False			
+101		trade	1	True	True		
+102		profile	0	False			
+104		duel	1	True	True		
+105		withdraw	0	False			
+107		pos	0	False			
+201		invite	1	True	True	False	
+202		leave	0	False			
+203		kick	1	False	True		
+205		delegate	1	False	True		
+206		partypr	1	False			
+207		partyapply	1	False	True		
+208		partyunitinvite	1	True	True	False	
+209		inviteauthorization	1	True	True		
+210		deprivedauthorityinviting	1	True	True		
+301		guildleave	0	False			
+302		guildkick	1	False	True		
+303		guildmaster	1	False	True		
+304		guildjoin	1	False			
+305		guilddismiss	0	False			
+307		guildlist	0	False			
+308		guildinvite	1	True	True	False	
+310		guildjointouser	1	False			
+311		guildRecommend	1	False			
+312		guildRecommendtouser	1	False			
+403		help	0	False			
+451		groupDuelJoin	1	True		False	
+452		groupDuelInvite	1	True		False	
+453		groupDuelBan	1	False			
+454		groupDuelLeave	0	False			
+501		friendlist	0	False			
+502		friendadd	1	True	True	False	
+504		unblockuser	1	False	True		
+506		friendremove	1	False			
+507		addgroup	1	False			
+508		changegroup	0	False			
+509		removegroup	1	False			
+701		jailhold	1	False			
+702		jailfree	1	False			
+801		createChatChannel	2	False			
+802		joinChatChannel	2	False			
+803		leaveChatChannel	1	False			
+806		changeChatChannelPassword	3	False			
+807		kickChatChannelMember	2	False			
+901		playtime	0	False			
+902		commandList	1	False			
+903		dbtime	0	False			
+904		serverTime	0	False			
+1001		follow	1	True	True	False	
+1002		whisper	1	False			
+1101		resetAllDungeon	0	False			
+1102		petition	0	False			
+1103		otherUserPaperDoll	1	True	True	False	
+1104		SetUserTarget	1	False			
+1105		otherUserAchievement	1	True	True	False	
+1201		dice	1	False			
+2001		adminLookIntoUserInfo	1	False			True
+2002		vendingMachineShutDown	1	False			True
+3001		reportplayer	1	True			
+3002		reportchat	1	False	False		
+3003		blockuser	1	True	True	False	
+3004		support	0				
+3005		emote	0	False			
+3006		bug	0				
+3007		controller	0				
+3008		summonFriend	1	True	True		
+3009		raidChatBan	1	False			
+3010		raidChatBanOff	1	False			
