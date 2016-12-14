@@ -1,0 +1,15 @@
+id	string
+1	Noctenium infusion effect: Starts critical?consumes {Num} noctenium infusion each time this skill is used.
+2	Noctenium infusion effect: Reduces Resolve?consumes {Num} noctenium infusion each time this skill is used.
+3	Noctenium infusion effect: Speeds casting?consumes {Num} noctenium infusion each time this skill is used.
+4	Noctenium infusion effect: Increases damage?consumes {Num} noctenium infusion each time this skill is used.
+5	Noctenium infusion effect: Increases healing?consumes {Num} noctenium infusion each time this skill is used.
+6	Noctenium infusion effect: Increases aggro?consumes {Num} noctenium infusion each time this skill is used.
+7	Noctenium infusion effect: Increases effect duration?consumes {Num} noctenium infusion each time this skill is used.
+8	Noctenium infusion effect: Stronger effect?consumes {Num} noctenium infusion each time this skill is used.
+9	Noctenium infusion effect: Bonus effect?consumes {Num} noctenium infusion each time this skill is used.
+10	Noctenium infusion effect: Auto target?consumes {Num} noctenium infusion each time this skill is used.
+11	Noctenium infusion effect: Increases MP recovery?consumes {Num} noctenium infusion each time this skill is used.
+12	Noctenium infusion effect: Reduces MP for maintaining aura?consumes {Num} noctenium infusion each time this skill is used.
+13	Noctenium infusion effect: Increases overcharging?consumes {Num} when overcharged.
+16	Noctenium infusion effect: Increases Edge by 1?consumes {Num} noctenium infusion each time this skill is used.
