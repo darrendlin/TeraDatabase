@@ -1,0 +1,376 @@
+id	name	string	tooltip	arg1	arg2	arg3	arg4	uiString1	uiString2	uiString3	uiString4
+101010	Mighty Phoenix	Damage from enemies decrease by 50% for certain period of time upon resurrecting	Received damage decreases by 50% fof {value1} seconds after resurrection	Duration				{value1}seconds			
+101020	Agile Phoenix	Movement Speed increases for certain period of time upon resurrecting	Movement Speed increases by {value1} for {value2} seconds after resurrection. Ends in combat mode	Movement Speed Increases	Lasting Period			{value1}	{value2}seconds		
+102010	Empowered Speed	Increases Movement Speed of any mount by 20. Effect will not be activated within 5 minutes.	Movement Speed increases by 20 for {value1} when traveling on mounts. Effect cooldown is 5minutes	Duration				{value1}seconds			
+111000	Mighty Attack	Increases Power	Power increases by {value1}	Power Increases				{value1}			
+112000	Mighty Defense	Increases Endurance	Endurance increases by {value1}	Endurance Increases				{value1}			
+112010	Lethal Lesson	Crit Resist Factor increases for 5 seconds when hit by critical attack. Crit Resist Factor increases on each critical attack from enemies	Increases Crit Resist for 5 seconds by {value3}% chance when critically attacked. Crit Resist increases by {value2} when critically attacked for the first time, and increases by {value4} with each attacks from enemy. Can increase {value1} in total maximum	Resist Max Increase	Initial Resist Increase	Probability of Activation	Immunity Burst when Hit	{value1}	{value2}	{value3}%	{value4}
+810210	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increase by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+810220	Ready Pummel	Crit Factor for your first attack increases for 5 seconds upon casting spell	Crit Factor for first attack increases by {value2} for {value1}% chance	Probability of Activation	Crit Factor Increases			{value1}%	{value2}		
+810230	Concentration	RE consumption decreases upon casting skill<BR>Recovers additional RE when RE is below 20%	RE consumption decreases by {value1}. Recovers additional RE when RE is below 20%	Reduced RE Consumption				{value1}			
+810300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+810310	Vigorous Charge	Replenishes MP when successfully hitting target. Replenishes RE when target has aggro on you	Restores RE by {value2} when successfully hitting target with aggro on you, and restores MP by {value1} when successfully hitting target without aggro on you	MP Recovery	RE Recovery			{value1}	{value2}		
+810400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+811000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+811110	Amplification	Damage from poison increases by {value1}%	Damage from poison increases by {value1}%	Incoming Damage Increase Rate				{value1}%			
+811210	Trample	EP Attack Power increases when hitting knocked-down target<br>EP Attack Power triples when hitting knocked-down target with critical hit	EP Attack Power increases by {value1} when successfully hitting knocked-down target. EP Attack Power triples when successfully hitting target with critical hit	EP Attack Power				{value1}			
+811310	Turning Tables	Resets Cooldown when knocked-down.	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+811600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+811610	Reload	Resets Skill Cooldown when successfully hitting target with your next skill within 2 seconds when successfully hitting target	Resets Skill Cooldown by {value1}% chance when successfully hitting target with your next skill within 2 seconds	Reset Rate				{value1}%			
+811700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+811800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+811900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+811910	Chained Speed Skating	Increases Casting Speed of second Punch	Increases Casting Speed of your next Punch by {value1}%	Casting Speed Increase Percentage				{value1}%			
+812010	Force	Increases Power for 10 seconds upon casting. Increases Power by 1 upon each successful hit by certain chance	Power increases by {value2} for 10 seconds, and Power increases by 1 in {value3}% chance when skill successfully hits the target. Power can increase by {value1} in maximum	Power Max Increase	Initial Power Increase	Additional Increase Rate		{value1}	{value2}	{value3}%	
+812020	Extra-Force	Increases Duration of Force	Force effect duration increases by {value1}seconds	Duration Increases				{value1}seconds			
+812100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+812420	Combat Dash	Combat Movement Speed increases for 5 seconds upon casting skill	Combat Movement Speed increases by {value1} for 5 seconds	Movement Speed Increases				{value1}			
+812700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+812710	Impact	Knocks down target when successfully hitting target	Knocks down monsters by {value1}% chance, and knocks down players by {value2}% chance when successfully hitting target	Probability of Monster Knock-down	Player Knock-down Percentage			{value1}%	{value2}%		
+812800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+812820	Blood Leech	Recovers HP when successfully hitting target with maximum decrease of Endurance due to Shield Counter	Recovers total HP by {value1} when successfully hitting target with maximum decrease of Endurance due to Shield Counter	Total HP Recovery				{value1}			
+812900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+812920	Wound	Decreases Movement Speed for 3 seconds and constantly decreases total HP when successfully hitting target.	Movement Speed decreases by  {value1}% and gives periodic damage of {value2}%( {value3} max) of max HP every second by {value4}% chance when successfully hitting target	Movement Speed Decrease Rate	HP Periodic Damage	Maximum Periodic HP Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+813000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+813110	Reload	Resets Cooldown when successfully hitting target	Resets cooldown by {value1}% chance when successfully hitting target	Reset Rate				{value1}%			
+813210	Recharge	Replenishes partial MP on a successful block	Restores MP by {value1}% on successful block	MP Recovery				{value1}%			
+813220	Vigor	Reovers RE on a successful block	Restores RE by {value1} on successful block	RE Recovery				{value1}			
+813310	Constancy	Increases duration of summoned shadow	Duration of summoned shadow increases by {value1}%	Increase Rate				{value1}%			
+813420	Velocity	Increases Casting Speed	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+820210	Vengeful Pummel	Increases Crit Factor for 3 seconds on a successful block	Crit Factor increases by {value2} in {value1}% chance on successful block	Probability of Activation	Crit Factor Increases			{value1}%	{value2}		
+820230	Speed Skating: Retribution	Casting Speed of [Shield Counter] increases upon successful block	Casting Speed for Shield Counter increases by {value2}% in {value1}% chance upon successful block	Probability of Activation	Casting Speed Increases			{value1}%	{value2}%		
+820300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+820310	Impact	Knocks-down target when successfully hitting target	Knocks down monster by {value1}% chance and knocks down player by {value2}% chance	Probability of Monster Knock-down	Player Knock-down Percentage			{value1}%	{value2}%		
+820320	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+820410	Amplification	Gain additional Aggro	Gain {value1}% more aggro	Aggro Increase Rate				{value1}%			
+820420	Protection	Creates Shield upon casting	Creates barrier that absorbs {value3} damage for {value2} seconds by {value1}% chance	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+820500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+820510	Reload	Resets skill cooldown when successfully hitting target	Resets cooldown by {value1}% chance	Reset Rate				{value1}%			
+820710	Turning Tables	Skill cooldown decreases when hit by a player while being knocked-down	Decreases Skill Cooldown by {value1} when attacked by player while being knocked-down	Decrease Amount				{value1}seconds			
+820800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+820810	Fatal Blow	Crit Factor increases	Critical Damage increases by x {value2} when successfully hitting target with critical hit	Probability of Activation	Crit Factor Multiplier			{value1}%	x{value2}		
+821000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+821010	Insult	Gain additional Aggro	Gain additional aggro by {value1}%	Aggro Increase Rate				{value1}%			
+821110	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets Skill Cooldown by {value1}% chance when knocked-down	Reset Rate				{value1}%			
+821300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+821310	Trample	EP Attack Power increases when hitting stunned enemy	EP Attack Power increases by {value1} when successfully hitting knocked-down target	EP Attack Power				{value1}			
+821500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+821610	Purification	Deactivates Debuff upon casting skill	Deactivates Debuff by {value1}% chance	Probability of Activation				{value1}%			
+821710	Constancy	Increases duration time	Duration time increases by {value1} seconds	Duration Increases				{value1}seconds			
+821720	Force	Increases power and gains power by 1 on each successful hit on targets for 10 seconds	Power increases by {value2} for 10 seconds, and Power increases by 1 in {value3}% chance when skill successfully hits the target. Power can increase by {value1} in maximum	Power Max Increase	Initial Power Increase	Additional Increase Rate		{value1}	{value2}	{value3}%	
+821730	Extra-Force	Increases duration time of Force	Duration of Force increases by {value1} seconds	Duration Increases				{value1}seconds			
+821800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+821910	Spirit of Iron	Increase Endurance upon casting skill	Increases Endurance by {value2} for {value1} seconds	Duration	Endurance Increases			{value1}seconds	{value2}		
+822100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+822210	Recovery	Constantly replenishes HP for 10 seconds upon casting. Ends when Iron Will ends	Replenishes HP by {value1} for 10 seconds. Ends when Iron Will effect ends	HP Recovery Every Second				{value1}			
+822220	Recycle	Resets Skill Cooldown when Iron Will lasts more than 10 seconds	Resets Skill Cooldown by {value1}% when Iron Will lasts more than 10 seconds	Reset Rate				{value1}%			
+822500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+822510	Wound	Decreases Movement Speed for 3 seconds and constantly decreases total HP when successfully hitting target	Decreases Movement Speed by {value1}% for 3 seconds in {value4}% chance and decreases total HP by {value2}%({value3} second) every second when successfully hitting target	Movement Speed Decrease Rate	HP Periodic Damage	Maximum HP Periodic Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+822610	Reload	Resets Skill Cooldonw upon casting skill	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+822620	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement Speed increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+822710	Spirit of Iron	Increases Endurance of allies for 5 seconds upons casting skill	Increases Endurance of allies by {value2} for 5 seconds in {value1}% chance	Probability of Activation	Endurance Increases			{value1}%	{value2}		
+830200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+830210	Finish	Increases Crit Rate of [Leaping Strike] when target is knocked-down	Increases Crit Factor of [Leaping Strike] by {value1}% chance when the target is knocked-down	Chance to Crit Increases				{value1}%			
+830220	Wound	Decreases Movement Speed for 3 seconds and constantly decreases total HP when successfully hitting target	Decreases Movement Speed by {value1}% for 3 seconds in {value4}% chance and decreases total HP by {value2}%({value3} second) every second when successfully hitting target	Movement Speed Decrease Rate	HP Periodic Damage	Maximum HP Periodic Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+830300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+830320	Propulsion	Decreases Skill Cooldown of [Measured Slice] when successfully hitting target with critical hit	Cooldown of [Measured Slice] decreases by {value1} seconds	Decrease Amount				{value1}seconds			
+830330	Reload	Resets Skill Cooldown when successfully hitting target with [Overhand Strike] and [Eviscerate]	Cooldown of Whirlwind decreases by {value1} seconds when successfully hitting target with [Overhand Strike], [Eviscerate]	Decrease Amount				{value1}seconds			
+830420	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement Speed increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+830800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+830910	Trample	EP Attack Power increases when successfully hitting knocked-down target<br>EP Attack Power triples when hitting knocked-down target with critical hit	EP Attack Power increases by {value1} when successfully hitting knocked-down target, when the attack is critical hit, Attack Power triples	EP Attack Power				{value1}			
+831030	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+831200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+831210	Wound	Decreases Movement Speed for 3 seconds and constantly decreases total HP when successfully hitting target	Movement Speed decreases by  {value1}% and gives periodic damage of {value2}%( {value3} max) of max HP every second by {value4}% chance when successfully hitting target	Movement Speed Decrease Rate	HP Periodic Damage	Maximum HP Periodic Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+831300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+831310	Chained Speed Skating	Increases Casting Speed of your next skill within 5 seconds when successfully hitting target	Casting Speed for your next speed in 5 seconds increases by {value1}%	Casting Speed Increase Percentage				{value1}%			
+831400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+831440	Recharge	Replenishes MP when successfully hitting target. Double recovery of MP upon 3rd hit.	Recovers total MP by {value1} when successfully hitting target. Double recovery when hitting target 3 times	Total MP Recovery				{value1}			
+831500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+831510	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+831520	Chained Speed Skating	Increases Casting Speed of your next skill within 5 seconds when successfully hitting target	Casting Speed for your next skill increases by {value1}%  for 5 seconds when successfully hitting target	Casting Speed Increase Percentage				{value1}%			
+831530	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+831600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+831610	Desperate Pummel	Increases Crit Rate of your next skill within 3 seconds when HP is below 20% and when successfully hitting target	Critical Factor increases by {value1} in 3 seconds when your HP is under 20% and when the skill successfully hits target	Chance to Crit Increases				{value1}			
+831620	Spirit of Iron	Decreases damage from enemies while casting skill when HP is below 20%	Damage received while casting spell decreases by {value1}% when your HP is under 20%	Damage Reduction Rate				{value1}%			
+831700	Amplification	Attack Speed increases	Attack Speed increases by {value1}%	Increase Rate				{value1}%			
+831820	Reload	Resets Skill Cooldown upon casting skill	Resets cooldown by {value1}% chance	Reset Rate				{value1}%			
+832300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+832320	Fresh Start	Decrease Skill Cooldown of [Overhand Strike] and [Eviscerate] when target is killed	Cooldown of [Overhand Strike], [Eviscerate] skills decreases {value1} seconds each when the target dies	Decrease Amount				{value1}seconds			
+832340	Recharge	Repenishes MP when successfully hitting target with critical hit	Replenishes MP by  {value1} with successful critical hit to target	Total MP Recovery				{value1}			
+832400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+832420	Propulsion	Decreases Skill Cooldown of [Measured Slice] upon successful critical hit	Cooldown of Measured Slice decreases by {value1} seconds with successful critical hit to target	Decrease Rate				{value1}seconds			
+832510	Force	Increases Power for 5 seconds when successfully hitting target with [Ultimate Overhand Strike]. Increases Power by 1 upon each successful  [Ultimate Overhand Strike]	Activates Force for 5 seconds by {value3}% chance when successfully hitting target with [Ultimate Overhand Strike]. Increases Power by {value2}. Increases Power by 1 every second and can increase up to {value1} maximum	Power Max Increase	Initial Power Increase	Additional Increase Rate		{value1}	{value2}	{value3}%	
+832520	Extra-Force	Increases duration and number of stacks of Force	Duration of Force increases by {value1} seconds. Number of stacks increases by {value2}	Duration Increases	Number of Stacks Increase			{value1}seconds	{value2}		
+840210	Speed Skating: Axe Counter	Increases Casting Speed of [Axe Counter] upon successful block	Casting Speed of chained Axe Counter increases by {value2}% upon successful block	Probability of Activation	Casting Speed Increases			{value1}%	{value2}%		
+840300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+840320	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement Speed increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+840330	Speed Skating	Charging Speed increases during Fiery Rage	Increases charging speed by {value1}% during Fiery Rage	Charging Speed Increase Rate				{value1}%			
+840400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+840610	Constancy	Increases duration of stun effect when successfully hitting target	Effect duration increases by {value1}% when successfully hitting target	Increase Rate				{value1}%			
+840620	Chained Speed Skating	Casting Speed of [Flatten] increases for 3 seconds when successfully hitting target	Increases Casting Speed of [Staggering Strike] by {value1}% for 3 seconds when successfully hitting target	Casting Speed Increase Percentage				{value1}%			
+840710	Insult	Increases Aggro from attack upon casting skill during Intimidation	Aggro due to enemy attack increases by {value1}% during duration of Mocking Shout while Intimidation effect lasts	Increase Rate				{value1}%			
+841000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+841010	Acceleration	Movement Speed increases while charging	Movement Speed while charging increases by {value1}%	Movement Speed Increase Rate				{value1}%			
+841030	Blood Leech	Replenishes HP on each successful hit on target. Double recovery when HP is below 20%	Replenishes HP by {value1}, HP restoration doubles when total HP is below 20%	HP Recovery				{value1}			
+841110	Trample	EP Attack Power increases when successfully hitting knocked-down/staggered target<br>EP Attack Power triples when successfully hitting knocked-down/staggered target	EP Attack Power increases by {value1} when successfully hitting the knocked-down or stunned target. When crit, EP Attack Power triples	EP Attack Power				{value1}			
+841310	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+841500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+841520	Over-Recharge	Creates barrier when successfully hitting target while your HP is full	Creates barrier that absorbs {value3} damage by {value1}%  chance for {vaule2} seconds when your HP is full	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+841800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+841810	Constant Recharge	Constantly replenishes MP while charging	Constantly replenishes MP by {value1} while charging	MP Recovery Every Second				{value1}			
+841820	Speed Skating	Charging Speed increases during Fiery Rage	Increases charging speed by {value1}% during Fiery Rage	Charging Speed Increase Rate				{value1}%			
+841910	Constant Recharge	Constantly replenishes MP upon casting skill. Ends when successfully attacking target or being attacked	Constantly replenishes MP by {value2} every second in {value1}% chance. Ends when successfully attacking target or receiving damage	Probability of Activation	MP Recovery Every Second			{value1}%	{value2}		
+841920	Spirit of Iron	Increases Endurance for 5 seconds upon casting skill	Endurance increases by {value2} in {value1}% chance. Ends when knocked down	Probability of Activation	Endurance Increases			{value1}%	{value2}		
+842100	Mental Strength	Decreases MP consumption upon casting skill	Decreases MP consumption by {value1}	MP Consumption Decreases				{value1}			
+842400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+842420	Reload	Resets skill cooldown when successfully hitting target	Resets Skill Cooldown by {value1}% chance	Reset Rate				{value1}%			
+842430	Combat Speed Up	Combat Movement Speed increases for 3 seconds when successfully hitting target	Increases Combat Movement Speed by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+842500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+842600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+842610	Chained Speed Skating	Increases Casting Speed of [Leaping Strike] when casting [Leaping Strike] within 3 seconds	Casting Speed of [Leaping Strike] increases by {value1}% for 3 seconds	Casting Speed Increase Percentage				{value1}%			
+843000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+843020	Reload	Resets skill cooldown when successfully hitting target	Resets cooldown by {value1}% chance	Reset Rate				{value1}%			
+843100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+843120	Wound	Decreases Movement Speed for 3 seconds and constantly decreases total HP when successfully hitting target	Movement Speed decreases by  {value1}% and gives periodic damage of {value2}%( {value3} max) of max HP every second by {value4}% chance when successfully hitting target	Movement Speed Decrease Rate	HP Periodic Damage	Maximum HP Periodic Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+843200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+850200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+850210	Frostbite	Activates Frostbite that decreases Movement Speed by 10% for 6 secodns.<br/>Movement Speed decreases by 25% when stacked up to 5 times	Activates Frostbite that decreases Movement Speed by 10% for 6 seconds in {value1}% chance. Movement Speed decreases by 25% when stacked 5 times	Rate				{value1}%			
+850310	Constancy	Increases duration of stun effect when successfully hitting target	Effect duration increases by {value2}% in {value1}% chance	Probability of Activation	Increase Rate			{value1}%	{value2}%		
+850400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+850510	Recharge	Replenishes MP when successfully hitting target during Mana Infusion	Replenishes total MP by {value1} when successfully hitting target during Mana Infusion	Total MP Recovery when successfully hitting target				{value1}			
+850600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+850610	Burnt Wound	Activates Burnt Wound that constantly decreases 0.5% of total HP (1000 max) every second when successfully hitting target	Decreases 0.5% of total HP (1000 max) every second by {value1}% chance for 6 seconds	Rate				{value1}%			
+850630	Finish	Crit Rate increases when successfully hitting knocked-down target	Crit Factor increases by {value1}% when successfully hitting the knocked-down target	Chance to Crit Increases				{value1}%			
+850800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+850810	Burnt Wound	Activates Burnt Wound that constantly decreases 0.5% of total HP (1000 max) every second when successfully hitting target	Decreases 0.5% of total HP (1000 max) every second by {value1}% chance for 6 seconds	Rate				{value1}%			
+850910	Amplification	Damage increases by {value1}% when activated with Burst of Celerity	Damage increases by {value1}% when activated with Burst of Celerity	Increase Rate				{value1}%			
+850921								{value1}			
+851010	Amplification	Increases amount of maximum damage absorption	Maximum damage absorption increases by {value1}%	Additional Damage Absorption Increase Rate				{value1}%			
+851020	Recycle	Resets Skill Cooldown when Mana Barrier lasts more than 30 seconds	Resets cooldown by {value1}% chance if Mana Barrier lasts more than 30 seconds	Reset Rate				{value1}%			
+851100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+851110											
+851200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+851210	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+851410	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+851420	Speed Skating: Traps	Increases Casting Speed of [Trap Skills] within 5 seconds	Increases Casting Speed of [Trap Skills] by {value1}% when casting [Trap Skills] within 5 seconds	Increase Rate				{value1}%			
+851700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+851800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+851810	Frostbite	Activates Frostbite that decreases Movement Speed by 10% for 6 secodns.<br/>Movement Speed decreases by 25% when stacked up to 5 times	Activates Frostbite that decreases Movement Speed by 10% for 6 seconds in {value1}% chance. Movement Speed decreases by 25% when stacked 5 times	Rate				{value1}%			
+852000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+852010	Burnt Wound	Activates Burnt Wound that constantly decreases 0.5% of total HP (1000 max) every second when successfully hitting target	Decreases 0.5% of total HP (1000 max) every second by {value1}% chance for 6 seconds	Rate				{value1}%			
+852210	Burnt Wound	Activates Burnt Wound that constantly decreases 0.5% of total HP (1000 max) every second when successfully hitting target	Decreases 0.5% of total HP (1000 max) every second by {value1}% chance for 6 seconds	Rate				{value1}%			
+852220	Burning Flame	Increases Skill Damage when successfully hitting monster affected with Burnt Wound<br/>Reduces Crit Rate of player when successfully hitting player affected with Burnt Wound	Increases Skill Damage by {value1} times when successfully hitting monster with Burnt Wound. Decreases Crit Resist by {value2} when successfully hitting player with Burnt Wound.	Skill Damage increases when successfully hitting monster	Crit Resist Decreases when successfully hitting player			x{value1}	{value2}		
+852420	Constanct Recharge	Constantly replenishes MP every second upon casting skill. Ends when attacked	Constantly replenishes MP by {value1} every second upon casting skill. Ends when attacked	MP Recovery Every Second				{value1}			
+852700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+852710	Frostbite	Decreases Movement Speed by 10% for 6 seconds.<br/>Movement Speed decreases by 25% when Frostbite stacks up to 5 times	Activates Frostbite that decreases Movement Speed by 10% for 6 seconds in {value1}% chance. Movement Speed decreases by 25% when stacked 5 times	Rate				{value1}%			
+852720	Reload	Decreases Skill Cooldown when successfully hitting target with [Ice Needle] and [Glacial Retreat]	Decreases Skill Cooldown of Hail Storm by {value1} when successfully hitting target with [Ice Needle] and [Glacial Retreat]	Decrease Rate				{value1}seconds			
+852730	Combat Dash	Increases Combat Movement Speed for 5 seconds	Increases Combat Movement Speed by {value1} for 5 seconds	Movement Speed Increases				{value1}			
+853000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+853020	Velocity	Casting Speed Increases	Increases Casting Speed by {value1}%	Increase Rate				{value1}%			
+860200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+860300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+860310	Combo Drive	Resets skill cooldown when successfully hitting target. Charging Speed increases when using skill within 3 seconds	Resets Skill Cooldown by {value1}% chance. Increases charging speed by {value2}% when using the skill within 3 seconds	Reset Rate	Charging Speed Increases			{value1}%	{value2}%		
+860320	Wound	Decreases Movement Speed for 3 seconds when successfully hitting target. Constantly decreases total HP	Movement Speed decreases by  {value1}% and gives periodic damage of {value2}%( {value3} max) of max HP every second by {value4}% chance when successfully hitting target	Movement Speed Decrease Rate	HP Periodic Damage	Maximum HP Periodic Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+860400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+860410	Recovery	Replenishes HP on each successful hit on target. Double replenishment on HP when target dies in PVP	Replenishes HP by {value1} with each successful hit. Doubles HP replenishment when target dies in PVP	HP Recovery				{value1}			
+860430	Reload	Resets Skill Cooldown when target dies	Resets Skill Cooldown by {value1}% chance when target dies	Reset Rate				{value1}%			
+860500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+860510	Indomitable	Decreases percentage of being knocked-down/staggered by monsters	Percentage of being knocked-donw/staggered by monsters while casting skill decreases by {value1}%	Decrease Rate				{value1}%			
+860520	Spirit of Iron	Decreases damage from enemies while casting skill	Damage received while casting skill decreases by {value1}%	Damage Reduction Rate				{value1}%			
+860530	Trample	EP Attack Power increases when attacking knocked-down enemy<br>EP Attack Power triples when attacking knocked-down enemy with critical hit	EP Attack Power increases by {value1} when successfully hitting knocked-down target. EP Attack Power triples when successfully hitting enemy with critical hit	EP Attack Power				{value1}			
+860540	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+860610	Inescapable	Resets Skill Cooldown of Trap Skills when successfully when hitting target	Resets Cooldown by  {value1}% chance when successfully hitting target with Trap skills	Reset Rate				{value1}%			
+860620	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement Speed increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+860630	Reload	Resets Skill Cooldown upon casting skill	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+860710	Glorious	Will not be attacked upon casting skill	Invincible for {value1} seconds	Duration				{value1}seconds			
+860720	Reload	Resets Skill Cooldown upon casting skill	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+860800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+860810	Pummel Stack	Increases Chance to Crit for 3 seconds. Can be stacked up to 4 times	Crit Factor increases by {value2} for 3 seconds in {value1}% chance when successfully hitting target. Can be stacked up to 4 times.	Probability of Activation	Crit Factor Increases			{value1}%	{value2}		
+861410	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+861420	Speed Skating_Trap	Increases Casting Speed of [Trap Skills]	Casting Speed of [Trap Skills] increases by {value1}%	Increase Rate				{value1}%			
+861500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+861510	Combat Speed Up	Combat Movement Speed increases for 3 seconds when successfully hitting target	Combat Movement increases by {value1} for 3 seconds when successfully hitting target	Movement Speed Increases				{value1}			
+861600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+861610	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance when successfully hitting target	Reset Rate				{value1}%			
+861800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+861810	Chained Breaking Pummel	Increases Chance to Crit of [Breakaway Bolt] for 7 seconds when successfully hitting target. Can be stacked up to 2 times	Crit Factor of Breakaway Bolt increases by {value2}% in {value1}% chance when successfully hitting target. Can be stacked up to 2 times	Probability of Activation	Chance to Crit Increases			{value1}%	{value2}%		
+861820	Speed Skating: Traps	Increases Casting Speed of [Trap Skills] upon casting skill	Casting Speed of [Trap Skills] increases by {value1}%	Increase Rate				{value1}%			
+862900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+862920	Reload	Skill Cooldown decreases with each successful hit on target	Cooldown decreases by {value1} seconds every successful hit	Decrease Rate				{value1}seconds			
+863110	Constant Recharge	Constantly replenishes MP upon casting skill. Ends when successfully attacking target or being attacked	Replenishes MP by {value2} every second in {value1}% chance. Ends when attacked or successfully hitting target	Probability of Activation	MP Recovery Every Second			{value1}%	{value2}		
+863120	Spirit of Iron	Increases Endurance for 5 seconds	Endurance increases by {value2} in {value1}% chance. Ends when knocked-down	Probability of Activation	Endurance Increases			{value1}%	{value2}		
+870100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+870310	Recovery	Replenishes HP	Replenishes maximum of  {value1} HP	Total HP Recovery				{value1}			
+870610	Protection	Creates Power Shield when successfully hitting target	Creates barrier that absorbs {value3} damage for {value2} seconds in {value1}% chance	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+870810	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+871100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+871210	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+871600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+871610	Impact	Knocks down monsters and stuns player when successfully hitting target	Knocks down monsters by {value1}% chance, and stuns player for {value3} seconds by {value2}% when successfully hitting target	Probability of Monster Knock-down	Player Knock-down Percentage	Player Stun Period		{value1}%	{value2}%	{value3}seconds	
+872110	Pummel Defense	Increases Crit Resist of target for 10 seconds	Increases Crit Resist by {value2} for 10 seconds in {value1}% chance	Probability of Activation	Crit Resist Increases			{value1}%	{value2}		
+872210	Spirit of Iron	Increases target's Endurance for 12 seconds when Kaia's Shield lasts for more than 12 seconds	Increases Endurance by {value2} for 12 seconds in {value1}% chance when Kaia's Shield duration lasts more than 12 seconds	Probability of Activation	Endurance Increases			{value1}%	{value2}		
+872510	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+872600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+872610	Mana Volley	Constantly decreases opponent's MP for 5 seconds	Constantly decreases MP by {value2} each second in {value1}% chance when successfully hitting target	Rate	MP Decrease Every Second			{value1}%	{value2}		
+872620	Recovery Curse	Constantly decreases opponent's HP replenishment for 5 seconds	Decreases HP replenishment by {value2}% in {value1}% chance when successfully hitting target	Rate	HP Recovery Decrease Rate			{value1}%	{value2}%		
+872700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+872810	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+872820	Constancy Recharge	Constantly replenishes MP by 80 every second when successfully hitting target	Constantly increases MP by 80 for {value2} seconds in {value1}% chance when successfully hitting target	Probability of Activation	MP Recovery Duration			{value1}%	{value2}seconds		
+872900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+872910	Stigma	Decreases Crit Resist for 5 seconds when successfully hitting target 3 times	Decreases Crit Resist by {value1} for 5 seconds when successfully hitting target for 3 times	Crit Resist Decrease Rate				{value1}			
+873110	Escape	Decreases Skill Cooldown of [Backstep] when attacked by player of BAM during effect duration	Cooldown for [Backstep] decreases by {value1} when hit by a player or BAM	Decrease Rate				{value1}seconds			
+873120	Combat Speed Up	Increases Combat Movement Speed for 3 seconds when attacked by player or BAM during effect duration	Combat Movement increases by {value1} when hit by a player or BAM	Movement Speed Increases				{value1}			
+873310	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+873320	Nightmare	Activates Aftermath of Nightmare when unable to wake up within effect duration	If unable to wake up before duration time ends, Movement Speed decreases by {value1}%  for 3 seconds in {value4}% chance, and decreases total HP by {value2}%({value3} max) every second	Movement Speed Decrease Rate	HP Periodic Damage	Maximum HP Periodic Damage	Rate	{value1}%	{value2}%	{value3}	{value4}%
+873500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+873510	Protection	Creates Shield for nearby allies when successfully hitting target	Creates barrier that absorbs {value3} damage for {value2} seconds for nearby allies by {value1}% chance	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+873520	Curse	Deactivates Buff on target when successfully hitting target	Deactivates Buff on target by {value1}% chance when successfully hitting target	Probability of Activation				{value1}%			
+873810	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+874000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+880010	Wrath of Spirits	Decreases Skill Cooldown for all summoning skills when attacked by player and BAM	Decreases Cooldown of all summoning skills by {value2} seconds in {value1}% chance	Probability of Activation	Decrease Amount			{value1}%	{value2}seconds		
+880100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+880200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+880210	Over-Absorption	Replenishes MP when successfully hitting target while your HP is full	Replenishes total of {value1} MP when your HP is full and when successfully hitting target	Total MP Recovery				{value1}			
+880510	Propulsion	Decreaes Skill Cooldown of [Thrall of Life] when successfully hitting party member who has HP below 50%	Decreases Skill Cooldown of Thrall of Life by 1 second when successfully hitting ally with less than 50% HP	Probability of Activation				{value1}%			
+880800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+880810	Propulsion	Resets Skill Cooldown of [Metamorphic Smite] when successfully hitting target	Resets Cooldown of [Metamorphic Smite]  by {value1}% chance when successfully hitting target	Reset Rate				{value1}%			
+880820	Decelerate	Decreases Movement Speed for 5 seconds when successfully hitting target. Duration and effect decreases by half when the target is a player	Decreases Movement Speed by {value2}% in {value1}% chance when successfully hitting target. If the target is a player, the effect and duration will decrease in half	Rate	Movement Speed Decreases			{value1}%	{value2}%		
+881210	Reload	Resets Cooldown upon resurrecting	Resets Cooldown by {value1}% chance upon resurrection	Reset Rate				{value1}%			
+881710	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+882300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+882310	Propulsion	Resets Skill Cooldown and increases Skill Damage of Metamorphic Blast when successfully hitting target	Resets Cooldown of Metamorphic Blast and increases Skill Damage by {value2}% in {value1}% chance when successfully hitting target	Reset Rate	Damage Increase Rate			{value1}%	{value2}%		
+882330	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+882510	Synergy	Increases Attack Speed of nearby allies for 5 seconds upon summoning	Attack Speed of allies increase by {value2} in {value1}% chance. Ends when knocked down	Probability of Activation	Attack Speed Increase			{value1}%	{value2}		
+882710	Protection	Creates barrier for nearby allies upon summoning	Creates barrier to allies that absorbs {value3} damage for {value2} seconds in {value1}% chance	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+882720	Blessing	Activates Blessed Health for nearby allies when the summoned thrall survives for 9 seconds	Activates Chain of Recovery to allies by {value1}% chance if summoned thrall survives for more than 9 seconds	Probability of Activation				{value1}%			
+882810	Combat Dash	Increases Combat Movement Speed for 5 seconds upon casting skill	Combat Movement Speed increases by {value1} for 5 seconds	Movement Speed Increases				{value1}			
+882910	Mana Volley	Constantly decreases targety MP for 5 seconds when successfully hitting target	Constantly decreases MP by {value2} each second in {value1}% chance upon casting skill	Rate	MP Decrease Every Second			{value1}%	{value2}		
+882920	Recovery Curse	Constantly decreases targety HP for 5 seconds when successfully hitting target	Decreases HP replenishment by {value2}% in {value1}% chance when successfully hitting target	Rate	HP Periodic Damage			{value1}%	{value2}%		
+883310	Strengthened Summon	Increases Attack Power of Thrall of Vengeance	Strengthen thrall's attack power by {value1}%	Attack Power Increase Rate				{value1}%			
+883320	Combat Dash	Increases Combat Movement Speed of all party members for 5 seconds upon summoning	Combat Movement Speed for all party members increases by {value1} for 5 seconds	Movement Speed Increases				{value1}			
+883410	Strengthened Summon	Strengthens Attack Power of Thrall of Wrath	Strengthen thrall's attack power by {value1}%	Attack Power Increase Rate				{value1}%			
+883420	Group Pummel	Increases Crit Rate of nearby allies for 5 seconds upon summoning	Increases Chance to Crit by {value1} for the party memebers' next skills within 5 seconds	Chance to Crit Increases				{value1}			
+883710	Acceleration Effect	Constantly recovers Combat Movement Speed of nearby allies upon summoning	Increases Combat Movement Speed for allies by  {value2} in {value1}% chance	Probability of Activation	Movement Speed Increases			{value1}%	{value2}		
+883720	Charging Effect	Constantly recovers MP of nearby allies upon summoning	Increases MP for allies by {value1} in {value2}% chance	MP Recovery Every Second	Probability of Activation			{value1}	{value2}%		
+884100	Trample	EP Attack Power increases when attacking target infected with Plague	EP Attack Power increases by {value1} when attacking target infected with Death Plague	EP Attack Power				{value1}			
+884200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900310	Propulsion	Resets Skill Cooldown of [Sundering Strike] when successfully hitting target	Resets Cooldown of [Sundering Strike] by {value1}% chance	Reset Rate				{value1}%			
+900400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900410	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+900500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900610	Combat Speed Up	Combat Movement Speed increases for 3 seconds when successfully hitting target	Increases Combat Movement Speed by {value1} for 3 seconds when successfully hitting target	Movement Speed Increases				{value1}			
+900800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900810	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+900900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+900910	Trample	EP Attack Power increases when successfully hitting knocked-down target<br> EP Attack Power triples when hitting knocked-down taret with critical hit	EP Attack Power increases by {value1} when successfully hitting knocked-down target. EP Attack Power triples when successfully hitting knocked-down target with critical hit	EP Attack Power				{value1}			
+900920	Constancy	Increases duration of stun effect when successfully hitting target	Increases Effecut Duration by {value1}% when successfully hitting target	Increase Rate				{value1}%			
+901000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+901010	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+901020	Combat Speed Up	Combat Movement Speed increases for 3 seconds when successfully hitting target	Increases Combat Movement Speed by {value1} for 3 seconds when successfully hitting target	Movement Speed Increases				{value1}			
+901100	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+901110	Velocity	Increases Casting Speed of your first attack	Casting Speed of first attack increases by {value1}%	Increase Rate				{value1}%			
+901130	Critical Pummel	Increases Crit Rate of your next skill for 3 seconds when successfully hitting target 4 times	Increases Crit Rate by  {value1} for 3 seconds when successfully hitting target 4 times	Chance to Crit Increases				{value1}			
+901200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+901210	Velocity	Casting Speed Increases	Casting Speed increases by {value1}%	Increase Rate				{value1}%			
+901300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+901310	Chained Speed Skating	Increases Casting Speed of  your next skill within 5 seconds upon successful Soul Reversal	Casting Speed increases by {value1}% for your next skill within 5 seconds upon casting Soul Reversal	Casting Speed Increase Percentage				{value1}%			
+901410	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+901500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+901510	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+901520	Chained Speed Skating	Increases Casting Speed of your next skill within 5 seconds	Casting Speed increases by {value1}% for your next skill within 5 seconds	Casting Speed Increase Percentage				{value1}%			
+901610	Force	Increases Power for 10 seconds upon casting skill. Also increases Power by 1 with each successful attack on taret	Increases Power by {value2} for 10 seconds upon casting skill. Increases Power by 1 by {value3}% chance and increases total Power by {value1} maximum when successfully hitting target	Power Max Increase	Initial Power Increase	Additional Increase Rate		{value1}	{value2}	{value3}%	
+901620	Extra-Force	Increases duration time of Force	Duration of Force increases by {value1}	Duration Increases				{value1}seconds			
+901810	Protection	Creastes Shield upon casting skill	Creates barrier that absorbs {value3} damage for {value2} seconds by {value1}% chance	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+901820	Combat Dash	Combat Movement Speed increases for 5 seconds	Combat Movement Speed increases by {value1} for 5 seconds	Movement Speed Increases				{value1}			
+902010	Protection	Creates powerful barrier when successfully hitting target	Creates barrier that absorbs {value3} damage for {value2} seconds by {value1}% chance when successfully hitting target	Probability of Activation	Barrier Duration	Damage Absorption		{value1}%	{value2}seconds	{value3}	
+902020	Chained Speed Skating	Casting Speed of [Shadow Burst] increases within 5 seconds when successfully hitting target	Casting Speed of [Shadow Burst] increases by {value2}% in {value1}% chance when successfully hitting target	Probability of Activation	Casting Speed Increases			{value1}%	{value2}%		
+910200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+910210	Outrage	Fully charges Willpower when successfully hitting target	Recovers all Willpower by {value1}% chance when successfully hitting target	Probability of Activation				{value1}%			
+910300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+910310	Propulsion	Resets Skill Cooldown of [Replenishment] when successfully hitting target	Resets cooldown for [Replenishment] by {value1}% chance when successfully hitting target	Reset Rate				{value1}%			
+910400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+910500	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+910510	Force	Increases Power by 1 every 5 seconds when successfully hitting target	Increases Power by 1 in {value2}% chance when successfully hitting target. Increase amount can be stacked up to {value1}	Power Max Increase	Probability of Activation			{value1}	{value2}%		
+910520	Extra-Force	Increases duration time of Force	Increases duration of Force by {value1} seconds	Duration Increases				{value1}seconds			
+910600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+910610	Fatal Blow	Crit Factor Increases	Crit Factor increases by {value1} when critically hitting target successfully	Crit Factor Multiplier				x{value1}			
+910700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+910710	Fatal Blow	Crit Factor Increases	Crit Factor increases by {value1} when critically hitting target successfully	Crit Factor Multiplier				x{value1}			
+910720	Reload	Resets Skill Cooldown when successfully killing target with Arcane Barrage	Resets Skill Cooldown by {value1}% when target dies from Arcane Barrage	Reset Rate				{value1}%			
+910900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+911000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+911010	Constancy	Increases duration of stun effect when successfully hitting target	Increases Effecut Duration by {value1}%	Increase Rate				{value1}%			
+911110	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+911300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+911510	Propulsion	Decreases Skill Cooldown of [Arc Bomb], [Time Bomb], [Mana Missiles] when successfully hitting target	Decreases Skill Cooldown of [Arc Bomb], [Time Bomb], and [Mana Missiles] by {value1} seconds upon casting skill	Decrease Rate				{value1}seconds			
+911520	Amplification	Resets probability of Skill Cooldown for [Arcane Barrage], [Fire Salvo] upon casting spell	Skill Reset percentage of [Arcane Barrage], [Scattershot]  increases by {value1}% upon casting skill	Reset Rate				{value1}%			
+912010	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+912110	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+914010	Chained Speed Skating	Increases Casting Speed of next skill within 5 seconds	Increases Casting Speed by {value1}% upon casting skill of your next skill within 5 seconds	Casting Speed Increase Percentage				{value1}%			
+920110	Propulsion	Skill Cooldown of [Roundhouse Kick ], [Piledriver], [Jackhammer], [Haymaker] decreases when successfully hitting target with critical hit	Skill Cooldown of [Roundhouse Kick], [Piledriver], [Jackhammer], and [Haymaker] reduces by {value1} when successfully hitting target with critical hit	Decrease Rate				{value1}seconds			
+920200	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+920210	Complete Counter	EP Attack Power increases for 3 seconds upon successful Perfect Defense	EP Attack Power of all attacks increase by {value1} for 3 seconds when successfully defending yourself	EP Attack Power				{value1}			
+920300	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+920310	Reload	Resets Skill Cooldown when the target dies	Resets Cooldown by {value1}% chance when the target dies	Reset Rate				{value1}%			
+920400	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+920600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+920610	Reload	Decreases Skill Cooldown when successfully hitting target with critical hit	Skill Cooldown decreases by {value1} seconds when successfully hitting target with critical hit	Decrease Rate				{value1}seconds			
+920710	Reload	Resets skill cooldown when successfully hitting target	Resets Cooldown by {value1}% chance	Reset Rate				{value1}%			
+920800	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+920810	Fatal Blow	Increases Crit Factor when successfully hitting target suspended in air	Crit Factor increases by {value1} times when attacking enemies suspended in air	Crit Factor Multiplier				x{value1}			
+920900	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+920910	Propulsion	Skill cooldown of Divine Wrath decreases with each successful critical hit	Skill Cooldown of Divine Wrath decreases by {value1} seconds per critical hit	Decrease Rate				{value1}seconds			
+921000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+921010	Pummel	Chance to Crit becomes 100% for 5 seconds upon successful Perfect Defense	Guarentees Critical Hits for 5 seconds by {value1}% chance when defending yourself successfully	Probability of Activation				{value1}%			
+921220	Turning Tables	Resets Skill Cooldown when kncoked-down	Resets cooldown by  {value1}% chance when knocked-down	Reset Rate				{value1}%			
+921310	Amplification	Gain additional Aggro	Gain {value1}% more aggro	Aggro Increase Rate				{value1}%			
+921510	Trample	EP Attack Power increases when successfully hitting knocked-down enemy. EP Attack Power triples when hitting knocked-down enemy with critical hit	EP Attack Power increases by {value1} when successfully hitting knocked-down enemy. EP Attack Power triples when hitting knocked-down enemy with critical hit	EP Attack Power				{value1}			
+921600	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+921610	Chained Fatal Blow	Increases all skill damage for 5 seconds when successfully hitting target with critical hit	All skill damage increases by {value1}% for 5 seconds when successfully hitting target with critical hit	Skill Damage Increase Rate				{value1}%			
+921700	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+921710	Almighty	Increases Power for 5 seconds upon successful Perfect Defense	Power increases by {value1} for 5 seconds when successfully defending yourself	Power Increases				{value1}			
+922000	Strengthen	EP Attack Power increases	EP Attack Power increases by {value1}	EP Attack Power				{value1}			
+922010	Reload	Decreases Skill Cooldown when successfully hitting target with critical hit	Skill Cooldown decreases by {value1} when successfully hitting target with critical hit	Decrease Rate				{value1}seconds			
+922110	Outrage	Fully charges Rage upon casting skill	Fully charges Rage by {value1}% chance upon casting skill	Probability of Activation				{value1}%			
+924010	Combat Speed Up	Combat Movement Speed increases for 3 seconds upon casting skill	Combat Movement increases by {value1} for 3 seconds	Movement Speed Increases				{value1}			
+930100								{value1}			
+930110								{value1}			
+930200								{value1}			
+930300								{value1}			
+930310								{value1}%			
+930320											
+930400								{value1}			
+930410											
+930500								{value1}			
+930600								{value1}			
+930610											
+930620											
+930700								{value1}			
+930710								{value1}%			
+930800								{value1}			
+930810								{value1}%			
+930820								{value1}%			
+930900								{value1}%		{value3}	
+931000								{value1}%			
+931110											
+931200								{value1}			
+931210											
+931220								{value1}%			
+931300								{value1}			
+931310								{value1}			
+931400								{value1}			
+931410								{value1}%			
+931420								{value1}	{value2}%		
+931430											
+931500								{value1}			
+931510								{value1}%			
+931520											
+931600								{value1}			
+931610								{value1}			
+931620								{value1}%	{value2}%	{value3}	{value4}%
+931700								{value1}%			
+931800								{value1}			
+931810								{value1}%			
+931900								{value1}			

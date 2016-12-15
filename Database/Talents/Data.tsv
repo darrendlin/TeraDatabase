@@ -1,0 +1,17 @@
+titleText	maxEp	maxEpLevel	iconName	index	iconAttrList	from	to	effectId	delay	effectId2	name	maxEpLevel3	epGrade	minEpLevel	parameter
+1	2000	999	Icon_Status.plusmove_Tex	0	0,1,2,3,4,5,6				0,5						
+1	2000	999	Icon_Status.plusmove_Tex	1	0				0,5						
+1	2000	999	Icon_Status.plusmove_Tex	2	1				0,5						
+1	2000	999	Icon_Status.plusmove_Tex	3	2				0,5						
+1	2000	999	Icon_Status.plusmove_Tex	4	3				0,5						
+1	2000	999	Icon_Status.plusmove_Tex	5	4,5,6				0,5						
+1	2000	999	Icon_Status.plusmove_Tex			0	5	8200	0,5						
+1	2000	999	Icon_Status.plusmove_Tex			5	20	8201	0,5						
+1	2000	999	Icon_Status.plusmove_Tex			20	100	8202	0,5						
+1	2000	999	Icon_Status.plusmove_Tex			20	100	8203	0,5						
+1	2000	999	Icon_Status.plusmove_Tex						0,5	7222	Icon_Ep.EpLv_0000_Tex	9	0	0	Tex
+1	2000	999	Icon_Status.plusmove_Tex						0,5	7222	Icon_Ep.EpLv_0010_Tex	19	1	10	Tex
+1	2000	999	Icon_Status.plusmove_Tex						0,5	7222	Icon_Ep.EpLv_0020_Tex	29	2	20	Tex
+1	2000	999	Icon_Status.plusmove_Tex						0,5	7222	Icon_Ep.EpLv_0030_Tex	39	3	30	Tex
+1	2000	999	Icon_Status.plusmove_Tex						0,5	7222	Icon_Ep.EpLv_0040_Tex	49	4	40	Tex
+1	2000	999	Icon_Status.plusmove_Tex						0,5	7222	Icon_Ep.EpLv_0050_Tex	999	5	50	Tex
