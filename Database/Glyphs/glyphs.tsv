@@ -1,0 +1,1010 @@
+id	class	skill	name	tooltip	passivityLink	level	grade	parentId	recommendationPriority	takePoint	recommendationMargin	showCrestRemainedInfoIfGreaterThan
+21000	warrior	Evasive Roll	Swift Evasive Roll	$prob chance to increase Attack Speed by 15% for 10 seconds.	21000	20	0	0	500	4	0	6
+21001	warrior	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	21001	20	0	0	400	4	0	6
+21002	warrior	Death From Above	Energetic Death From Above	Decreases cooldown by $value.	21002	26	0	0	400	3	0	6
+21003	warrior	Mangle	Test	No Effect	21003		0	0		1000	0	6
+21004	warrior	Combo Attack	Threatening Combo Attack	Increases aggro by $value.	21004	25	0	0	400	5	0	6
+21005	warrior	Torrent of Blows	Threatening Torrent of Blows	Increases aggro by $value.	21005	20	0	0	400	3	0	6
+21006	warrior	Rain of Blows	Empowered Rain of Blows	Increases skill damage by $value.	21006	20	0	0	400	5	0	6
+21007	warrior	Leaping Strike	Empowered Leaping Strike	Increases skill damage by $value.	21007	24	0	0	400	5	0	6
+21008	warrior	Poison Blade	Virulent Poison Blade	Increases poison damage by $value.	21008	22	0	0	400	6	0	6
+21009	warrior	Defensive Stance	Grounded Defensive Stance	Increases Endurance by $value.	21009	20	0	0	400	6	0	6
+21010	warrior	Retaliate	Empowered Retaliate	Increases skill damage by $value.	21010	20	0	0	400	3	0	6
+21011	warrior	Torrent of Blows	Influential Torrent of Blows	Reduces MP cost of Rain of Blows by 88 for a few seconds.	21011	20	0	0	400	3	0	6
+21012	warrior	Retaliate	Influential Retaliate	Reduces MP cost of Leaping Strike by 75 for a few seconds.	21012	20	0	0	400	2	0	6
+21013	warrior	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	21013	25	0	0	400	3	0	6
+21014	warrior	Death From Above	Swift Death From Above	$prob chance to increase Attack Speed by 15% for 10 seconds.	21014	26	0	0	400	3	0	6
+21015	warrior	Evasive Roll	Affirmative Evasive Roll	Reduces RE cost by 100.	21015	20	0	0	500	4	0	6
+21016	warrior	Battle Cry	Energetic Battle Cry	Decreases cooldown by $value.	21016	20	0	0	400	4	0	6
+21017	warrior	Rain of Blows	Restorative Rain of Blows	Recovers $value of total HP per successful hit.	21017	25	0	0	400	5	0	6
+21018	warrior	Combative Strike	Sanative Combative Strike	Decreases HP consumption by $value.	21018	20	0	0	400	3	0	6
+21019	warrior	Vortex Slash	Empowered Vortex Slash	Increases skill damage by $value.	21019	20	0	0	400	5	0	6
+21020	warrior	Charging Slash	Energetic Charging Slash	Decreases cooldown by $value.	21020	30	0	0	400	3	0	6
+21021	warrior	Assault Stance	Test	No Effect	21021		0	0		1000	0	6
+21022	warrior	Rising Fury	Persistent Rising Fury	$prob chance to eliminate cooldown.	21022	20	0	0	400	5	0	6
+21023	warrior	Smoke Aggressor	Energetic Smoke Aggressor	Decreases cooldown by $value.	21023	20	0	0	400	4	0	6
+21024	warrior	Backstab	Lingering Backstab	Increases effect duration by $value.	21024	42	0	0	400	3	0	6
+21025	warrior	Deadly Gamble	Energetic Deadly Gamble	Decreases cooldown by $value.	21025	48	0	0	400	4	0	6
+21026	warrior	Staggering Counter	Empowered Staggering Counter	Increases skill damage by $value.	21026	54	0	0	400	3	0	6
+21027	warrior	Cascade of Stuns	Brilliant Cascade of Stuns	Reduces MP cost by $value.	21027	58	0	0	400	4	0	6
+21028	warrior	Combative Strike	Powerlinked Combative Strike	Increases skill damage of Rising Fury by 20% for a few seconds.	21028	20	0	0	400	5	0	6
+21029	warrior	Charging Slash	Influential Charging Slash	Reduces MP cost of Poison Blade by 50 for a few seconds.	21029	30	0	0	400	3	0	6
+21030	warrior	Cascade of Stuns	Influential Cascade of Stuns	Reduces MP cost of Rain of Blows by 88 for a few seconds.	21030	58	0	0	400	3	0	6
+21031	warrior	Cascade of Stuns	Powerlinked Cascade of Stuns	Increases skill damage of Rain of Blows by 20% for a few seconds.	21031	58	0	0	400	3	0	6
+21032	warrior	Cascade of Stuns	Energetic Cascade of Stuns	Decreases cooldown by $value.	21032	58	0	0	400	4	0	6
+21033	warrior	Rising Fury	Numbing Rising Fury	$prob chance to decrease an opponent's Attack Speed by 15% for 7 seconds.	21033	20	0	0	400	4	0	6
+21034	warrior	Torrent of Blows	Binding Torrent of Blows	$prob chance to immobilize target for 4 seconds.	21034	20	0	0	400	6	0	6
+21035	warrior	Charging Slash	Powerlinked Charging Slash	Increases skill damage of Combative Strike by 20% for a few seconds.	21035	30	0	0	500	4	0	6
+21036	warrior	Backstab	Energetic Backstab	Decreases cooldown by $value.	21036	42	0	0	400	5	0	6
+21037	warrior	Staggering Counter	Lingering Staggering Counter	Increases effect duration by $value.	21037	54	0	0	400	5	0	6
+21038	warrior	Staggering Counter	Energetic Staggering Counter	Decreases cooldown by $value.	21038	54	0	0	400	4	0	6
+21039	warrior	Combo Attack	Sapping Combo Attack	$prob chance to stun target for 2 seconds.	21039	20	0	0	400	5	0	6
+21040	warrior	Battle Cry	Hastened Battle Cry	Speeds casting by $value.	21040	20	0	0	400	3	0	6
+21041	warrior	Battle Cry	Lucky Battle Cry	Increases chance of effect by $value.	21041	20	0	0	400	2	0	6
+21042	warrior	Battle Cry	Threatening Battle Cry	Increases aggro by $value.	21042	20	0	0	400	3	0	6
+21043	warrior	Combative Strike	Lingering Combative Strike	Increases effect duration by $value.	21043	20	0	0	400	2	0	6
+21044	warrior	Combative Strike	Powerlinked Combative Strike	Increases skill damage of Leaping Strike by 35% for a few seconds.	21044	20	0	0	400	3	0	6
+21045	warrior	Vortex Slash	Persistent Vortex Slash	$prob chance to eliminate cooldown.	21045	20	0	0	400	4	0	6
+21046	warrior	Evasive Roll	Mending Evasive Roll	Recovers 3% of total HP when you follow up with Poison Blade.	21046	20	0	0	400	4	0	6
+21047	warrior	Death From Above	Test	No Effect	21047		0	0		1000	0	6
+21048	warrior	Pounce	Hastened Pounce	Speeds casting by $value.	21048	22	0	0	400	3	0	6
+21049	warrior	Pounce	Energetic Pounce	Decreases cooldown by $value.	21049	22	0	0	400	2	0	6
+21050	warrior	Traverse Cut	Lingering Traverse Cut	Increases effect duration by $value.	21050	28	0	0	500	2	0	6
+21051	warrior	Traverse Cut	Brilliant Traverse Cut	Reduces MP cost by $value.	21051	28	0	0	400	2	0	6
+21052	warrior	Blade Draw	Empowered Blade Draw	Increases skill damage by $value.	21052	28	0	0	500	4	0	6
+21053	warrior	Blade Draw	Brilliant Blade Draw	Reduces MP cost by $value.	21053	28	0	0	400	2	0	6
+21054	warrior	Blade Draw	Persistent Blade Draw	$prob chance to eliminate cooldown.	21054	28	0	0	500	5	0	6
+21064	warrior	Rain of Blows	Empowered Rain of Blows	Increases skill damage by $value.	21064		1	21006	500	4	0	6
+21065	warrior	Death From Above	Energetic Death From Above	Decreases cooldown by $value.	21065		1	21002	400	2	0	6
+21066	warrior	Rain of Blows	Restorative Rain of Blows	Recovers $value of total HP per successful hit.	21066		1	21017	400	4	0	6
+21067	warrior	Evasive Roll	Affirmative Evasive Roll	Reduces RE cost by 100.	21067		1	21015	400	3	0	6
+21068	warrior	Defensive Stance	Grounded Defensive Stance	Increases Endurance by $value.	21068		1	21009	400	5	0	6
+21069	warrior	Combative Strike	Sanative Combative Strike	Decreases HP consumption by $value.	21069		1	21018	500	2	0	6
+21070	warrior	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	21070		1	21013	400	2	0	6
+21071	warrior	Smoke Aggressor	Energetic Smoke Aggressor	Decreases cooldown by $value.	21071		1	21023	400	4	0	6
+21072	warrior	Combative Strike	Powerlinked Combative Strike	Increases skill damage of Leaping Strike by 45% for a few seconds.	21072		1	21044	400	2	0	6
+21073	warrior	Charging Slash	Powerlinked Charging Slash	Increases skill damage of Combative Strike by 50% for a few seconds.	21073		1	21035	600	4	0	6
+21074	warrior	Death From Above	Grounded Death From Above	Increases Endurance by 25 for 8 seconds.	21074		1	0	400	5	0	6
+21075	warrior	Backstab	Advantageous Backstab	Increases Edge generation by $value.	21075		1	0	400	2	0	6
+21076	warrior	Cascade of Stuns	Empowered Cascade of Stuns	Increases skill damage by $value.	21076		1	0	400	4	0	6
+21077	warrior	Cascade of Stuns	Lingering Cascade of Stuns	Increases effect duration by $value.	21077		1	0	400	3	0	6
+21078	warrior	Staggering Counter	Powerlinked Staggering Counter	Increases skill damage of Cascade of Stuns by 10% for a few seconds.	21078		1	0	400	4	0	6
+21079	warrior	Scythe	Carving Scythe	Doubles the chance to crit.	21079	60	0	0	500	5	0	6
+21080	warrior	Scythe	Empowered Scythe	Increases Edge damage by 25%.	21080		1	0	500	4	0	6
+21081	warrior	Backstab	Lingering Backstab	Increases effect duration by $value.	21081		1	21024	400	2	0	6
+21082	warrior	Pounce	Hastened Pounce	Speeds casting by $value.	21082		1	21048	600	2	0	6
+21083	warrior	Poison Blade	Cumulative Poison Blade	Poison Blade's damage stacks up to 2 times.	21083		1	0	400	3	0	6
+21084	warrior	Blade Draw	Advantageous Blade Draw	Increases Edge generation by $value per hit.	21084		1	0	500	3	0	6
+21085	warrior	Reaping Slash	Empowered Reaping Slash	Increases skill damage by $value.	21085	60	0	0	400	5	0	6
+21086	warrior	Cross Parry	Pumped Cross Parry	$prob chance to increase Power by 15% for 10 seconds on a successful block.	21086	60	0	0	400	4	0	6
+21087	warrior	Smoke Flanker	Threatening Smoke Flanker	Increases aggro by $value.	21087	60	0	0	400	6	0	6
+21088	warrior	Binding Sword	Empowered Binding Sword	Increases skill damage by $value.	21088	61	0	0	500	5	0	6
+21089	warrior	Binding Sword	Empowered Binding Sword	Increases skill damage by $value.	21089		1	21088	600	4	0	6
+21090	warrior	Binding Sword	Energetic Binding Sword	Decreases cooldown by $value.	21090	61	0	0	400	5	0	6
+21091	warrior	Deadly Gamble	Lingering Deadly Gamble	Increases effect duration by $value.	21091		1	0	500	4	0	6
+21092	warrior	Binding Sword	Energetic Binding Sword	Decreases cooldown by $value.	21092		1	21090	400	4	0	6
+21093	warrior	Infuriate	Slowing Infuriate	Decreases opponent's Movement Speed by 50% for 5 seconds.	21093	65	0	0	400	4	0	6
+21094	warrior	Infuriate	Energetic Infuriate	Decreases cooldown by $value.	21094	65	0	0	400	6	0	6
+21095	warrior	Evasive Roll	Swift Evasive Roll	$prob chance to increase attack speed by 15% for 10 seconds.	21095		1	21000	500	3	0	6
+21096	warrior	Torrent of Blows	Threatening Torrent of Blows	Increases aggro by $value.	21096		1	21005	400	3	0	6
+21097	warrior	Vortex Slash	Empowered Vortex Slash	Increases skill damage by $value.	21097		1	21019	400	4	0	6
+21098	warrior	Cascade of Stuns	Powerlinked Cascade of Stuns	Increases skill damage of Rain of Blows by 20% for a few seconds.	21098		1	21031	400	2	0	6
+21099	warrior	Rising Fury	Numbing Rising Fury	$prob chance to decrease an opponent's Attack Speed by 15% for 7 seconds.	21099		1	21033	400	4	0	6
+21100	warrior	Backstab	Energetic Backstab	Decreases cooldown by $value.	21100		1	21036	400	4	0	6
+21101	warrior	Evasive Roll	Affirmative Evasive Roll	Reduces RE cost by 120.	21101		2	21015	400	3	0	6
+21102	warrior	Defensive Stance	Grounded Defensive Stance	Increases Endurance by $value.	21102		2	21009	400	4	0	6
+21103	warrior	Charging Slash	Powerlinked Charging Slash	Increases skill damage of Combative Strike by 50% for a few seconds.	21103		2	21035	600	3	0	6
+21104	warrior	Scythe	Carving Scythe	Doubles the chance to crit.	21104		1	21079	500	4	0	6
+21105	warrior	Scythe	Empowered Scythe	Increases Edge damage by 30%.	21105		2	21080	500	4	0	6
+21106	warrior	Deadly Gamble	Lingering Deadly Gamble	Increases effect duration by $value.	21106		2	21091	500	3	0	6
+21107	warrior	Blade Draw	Carving Blade Draw	Doubles the chance to crit when attacking monsters.	21107	65	0	0	500	4	0	6
+22000	lancer	Stand Fast	Pumped Stand Fast	$prob chance to increase Power by 15% for 10 seconds on a successful block.	22000	20	0	0	500	4	0	6
+22001	lancer	Stand Fast	Powerlinked Stand Fast	Increases skill damage of Shield Counter by 25% for a few seconds.	22001	26	0	0	500	3	0	6
+22002	lancer	Stand Fast	Influential Stand Fast	Reduces MP cost of Shield Counter by 115 for a few seconds.	22002	26	0	0	435	2	0	6
+22003	lancer	Combo Attack	Threatening Combo Attack	Increases aggro by $value.	22003	20	0	0	500	4	0	6
+22004	lancer	Challenging Shout	Threatening Challenging Shout	Increases aggro by $value.	22004	20	0	0	500	3	0	6
+22005	lancer	Challenging Shout	Brilliant Challenging Shout	Reduces MP cost by $value.	22005	20	0	0	205	6	0	6
+22006	lancer	Infuriate	Slowing Infuriate	Decreases opponent's Movement Speed by 50% for 5 seconds.	22006	50	0	0	170	4	0	6
+22007	lancer	Onslaught	Empowered Onslaught	Increases skill damage by $value.	22007	32	0	0	325	5	0	6
+22008	lancer	Shield Counter	Test	No Effect	22008		0	0		1000	0	6
+22009	lancer	Shield Bash	Lingering Shield Bash	Increases effect duration by $value.	22009	22	0	0	340	5	0	6
+22010	lancer	Guardian Shout	Brilliant Guardian Shout	Reduces MP cost by $value.	22010	22	0	0	165	3	0	6
+22012	lancer	Retaliate	Empowered Retaliate	Increases skill damage by $value.	22012	20	0	0	225	3	0	6
+22013	lancer	Shield Barrage	Brilliant Shield Barrage	Reduces MP cost by $value.	22013	20	0	0	275	4	0	6
+22015	lancer	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	22015	20	0	0	370	4	0	6
+22016	lancer	Debilitate	Impelling Debilitate	$prob chance to eliminate MP cost.	22016	28	0	0	230	4	0	6
+22017	lancer	Leash	Energetic Leash	Decreases cooldown by $value.	22017	26	0	0	375	5	0	6
+22018	lancer	Infuriate	Energetic Infuriate	Decreases cooldown by $value.	22018	50	0	0	250	6	0	6
+22019	lancer	Shield Bash	Energetic Shield Bash	Decreases cooldown by $value.	22019	22	0	0	360	4	0	6
+22020	lancer	Charging Lunge	Empowered Charging Lunge	Increases skill damage by $value.	22020	20	0	0	300	4	0	6
+22021	lancer	Second Wind	Energetic Second Wind	Decreases cooldown by $value.	22021	20	0	0	310	6	0	6
+22022	lancer	Adrenaline Rush	Swift Adrenaline Rush	Increases Attack Speed by an additional $value.	22022	58	0	0	345	3	0	6
+22023	lancer	Spring Attack	Brilliant Spring Attack	Reduces MP cost by $value.	22023	20	0	0	315	4	0	6
+22024	lancer	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	22024	20	0	0	265	4	0	6
+22025	lancer	Menacing Wave	Brilliant Menacing Wave	Reduces MP cost by $value.	22025	32	0	0	160	3	0	6
+22026	lancer	Iron Will	Lingering Iron Will	Increases effect duration by $value.	22026	36	0	0	425	4	0	6
+22027	lancer	Master's Leash	Persistent Master's Leash	$prob chance to eliminate cooldown.	22027	42	0	0	320	3	0	6
+22028	lancer	Lockdown Blow	Empowered Lockdown Blow	Increases skill damage by $value.	22028	46	0	0	500	4	0	6
+22029	lancer	Pledge of Protection	Energetic Pledge of Protection	Decreases cooldown by $value.	22029	56	0	0	225	3	0	6
+22030	lancer	Spring Attack	Empowered Spring Attack	Increases skill damage by $value.	22030	20	0	0	500	5	0	6
+22031	lancer	Challenging Shout	Test	No Effect	22031		0	0		1000	0	6
+22032	lancer	Onslaught	Brilliant Onslaught	Reduces MP cost by $value.	22032	32	0	0	200	3	0	6
+22033	lancer	Shield Counter	Threatening Shield Counter	Increases aggro by $value.	22033	26	0	0	500	3	0	6
+22034	lancer	Debilitate	Lingering Debilitate	Increases effect duration by $value.	22034	28	0	0	500	6	0	6
+22035	lancer	Shield Bash	Blazing Shield Bash	Speeds casting of Onslaught by 25% for a few seconds.	22035	22	0	0	285	4	0	6
+22036	lancer	Pledge of Protection	Restorative Pledge of Protection	Increases amount of caster's HP recovery by 20% for 20 seconds.	22036	56	0	0	175	5	0	6
+22037	lancer	Guardian Shout	Energetic Guardian Shout	Decreases cooldown by $value.	22037	22	0	0	180	5	0	6
+22038	lancer	Menacing Wave	Lingering Menacing Wave	Increases effect duration by $value.	22038	32	0	0	240	3	0	6
+22039	lancer	Charging Lunge	Energetic Charging Lunge	Decreases cooldown by $value.	22039	20	0	0	405	4	0	6
+22040	lancer	Charging Lunge	Fleetfooted Charging Lunge	Increases Combat Movement Speed by 10 for 7 seconds.	22040	20	0	0	270	5	0	6
+22041	lancer	Iron Will	Warding Iron Will	Increases damage absorption by $value.	22041	36	0	0	440	5	0	6
+22042	lancer	Lockdown Blow	Slowing Lockdown Blow	Decreases opponent's Movement Speed by an additional $value.	22042	46	0	0	215	5	0	6
+22043	lancer	Leash	Longshot Leash	Increases range by 3 meters.	22043	26	0	0	335	4	0	6
+22044	lancer	Leash	Slowing Leash	Decreases opponent's Movement Speed by 50% for 4 seconds.	22044	26	0	0	245	4	0	6
+22045	lancer	Shield Bash	Lingering Shield Bash	Increases effect duration by $value.	22045		1	22009	355	4	0	6
+22046	lancer	Shield Bash	Energetic Shield Bash	Decreases cooldown by $value.	22046		1	22019	420	3	0	6
+22047	lancer	Leash	Energetic Leash	Decreases cooldown by $value.	22047		1	22017	395	4	0	6
+22048	lancer	Combo Attack	Threatening Combo Attack	Increases aggro by $value.	22048		1	22003	450	3	0	6
+22049	lancer	Challenging Shout	Brilliant Challenging Shout	Reduces MP cost by $value.	22049		1	22005	195	4	0	6
+22050	lancer	Lockdown Blow	Slowing Lockdown Blow	Decreases opponent's Movement Speed by an additional $value.	22050		1	22042	255	4	0	6
+22051	lancer	Onslaught	Brilliant Onslaught	Reduces MP cost by $value.	22051		1	22032	210	3	0	6
+22052	lancer	Guardian Shout	Energetic Guardian Shout	Decreases cooldown by $value.	22052		1	22037	195	5	0	6
+22053	lancer	Infuriate	Slowing Infuriate	Decreases opponent's speed by 50% for 5 seconds.	22053		1	22006	185	3	0	6
+22054	lancer	Leash	Numbing Leash	Decreases opponent's Attack Speed by 40% for 4 seconds.	22054		1	0	280	4	0	6
+22055	lancer	Leash	Threatening Leash	Increases aggro by $value.	22055		1	0	350	5	0	6
+22056	lancer	Challenging Shout	Hastened Challenging Shout	Speeds casting by $value.	22056		1	0	500	3	0	6
+22057	lancer	Challenging Shout	Grounded Challenging Shout	Increases Endurance by 21 upon successful hit.	22057		1	0	430	5	0	6
+22058	lancer	Onslaught	Carving Onslaught	Doubles the chance to crit.	22058		1	0	260	4	0	6
+22059	lancer	Lockdown Blow	Threatening Lockdown Blow	Increases aggro by $value.	22059		1	0	500	3	0	6
+22060	lancer	Chained Leash	Energetic Chained Leash	Decreases cooldown by $value.	22060	60	0	0	385	4	0	6
+22061	lancer	Chained Leash	Lingering Chained Leash	Increases effect duration by $value.	22061		1	0	305	4	0	6
+22062	lancer	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	22062		1	22015	290	3	0	6
+22063	lancer	Shield Counter	Threatening Shield Counter	Increases aggro by $value.	22063		1	22033	415	2	0	6
+22064	lancer	Shield Barrage	Threatening Shield Barrage	Increases aggro by $value.	22064		1	0	500	3	0	6
+22065	lancer	Spring Attack	Numbing Spring Attack	$prob chance to decrease opponent's Attack Speed by 30% for 7 seconds.	22065		1	0	295	3	0	6
+22066	lancer	Wallop	Empowered Wallop	Increases skill damage by $value.	22066	60	0	0	500	5	0	6
+22067	lancer	Backstep	Affirmative Backstep	Reduces RE cost by 100.	22067	60	0	0	445	3	0	6
+22068	lancer	Challenging Shout	Ardent Challenging Shout	Increases RE generation by $value.	22068	20	0	0	330	3	0	6
+22069	lancer	Shield Counter	Ardent Shield Counter	Increases RE generation by $value.	22069	26	0	0	380	3	0	6
+22070	lancer	Second Wind	Ardent Second Wind	Increases RE generation by 20%.	22070	20	0	0	235	4	0	6
+22071	lancer	Stand Fast	Reinforced Stand Fast	Increases maximum RE by $value.	22071	20	0	0	365	4	0	6
+22072	lancer	Front Defense	Energetic Rallying Cry	Decreases cooldown by $value.	22072	61	0	0	290	4	0	6
+22073	lancer	Front Defense	Lingering Rallying Cry	Increases effect duration by $value.	22073	61	0	0	490	5	0	6
+22074	lancer	Front Defense	Brilliant Rallying Cry	Reduces MP cost by $value.	22074	61	0	0	200	3	0	6
+22075	lancer	Front Defense	Threatening Rallying Cry	Increases aggro by $value.	22075	61	0	0	470	4	0	6
+22076	lancer	Front Defense	Threatening Rallying Cry	Increases aggro by $value.	22076		1	22075	470	3	0	6
+22077	lancer	Front Defense	Lingering Rallying Cry	Increases effect duration by $value.	22077		1	22073	450	4	0	6
+22078	lancer	Front Defense	Energetic Rallying Cry	Decreases cooldown by $value.	22078		1	22072	490	3	0	6
+22079	lancer	Challenging Shout	Threatening Challenging Shout	Increases aggro by $value.	22079		2	22004	500	3	0	6
+22080	lancer	Onslaught	Empowered Onslaught	Increases skill damage by $value.	22080		1	22007	325	4	0	6
+22081	lancer	Spring Attack	Empowered Spring Attack	Increases skill damage by $value.	22081		2	22030	500	4	0	6
+22082	lancer	Debilitate	Lingering Debilitate	Increases effect duration by $value.	22082		1	22034	500	5	0	6
+22083	lancer	Charging Lunge	Energetic Charging Lunge	Decreases cooldown by $value.	22083		1	22039	405	3	0	6
+22084	lancer	Challenging Shout	Brilliant Challenging Shout	Reduces MP cost by $value.	22084		2	22005	195	3	0	6
+22085	lancer	Challenging Shout	Hastened Challenging Shout	Speeds casting by $value.	22085		2	22056	500	2	0	6
+22086	lancer	Shield Counter	Threatening Shield Counter	Increases aggro by $value.	22086		2	22033	415	2	0	6
+22087	lancer	Shield Barrage	Threatening Shield Barrage	Increases aggro by $value.	22087		2	22064	500	2	0	6
+22088	lancer	Wallop	Empowered Wallop	Increases skill damage by $value.	22088		1	22066	500	4	0	6
+22089	lancer	Backstep	Affirmative Backstep	Reduces RE cost by 100.	22089		1	22067	445	2	0	6
+22090	lancer	Rallying Cry	Threatening Rallying Cry	Increases aggro by $value.	22090		2	22075	470	3	0	6
+23000	slayer	Evasive Roll	Fleetfooted Evasive Roll	$prob chance to increase Combat Movement Speed by 15% for 10 seconds.	23000	20	0	0	330	4	0	6
+23001	slayer	Combo Attack	Swift Combo Attack	$prob chance to increase Attack Speed 15% for 10 seconds.	23001	20	0	0	390	5	0	6
+23002	slayer	Combo Attack	Empowered Combo Attack	Increases skill damage by $value.	23002	20	0	0	385	4	0	6
+23003	slayer	Overpower	Brilliant Overpower	Reduces MP cost by $value.	23003	50	0	0	230	3	0	6
+23004	slayer	Knockdown Strike	Empowered Knockdown Strike	Increases skill damage by $value.	23004	20	0	0	430	5	0	6
+23005	slayer	Retaliate	Empowered Retaliate	Increases skill damage by $value.	23005	25	0	0	275	3	0	6
+23007	slayer	Knockdown Strike	Powerlinked Knockdown Strike	Increases skill damage of Whirlwind by 25% for a few seconds.	23007	20	0	0	380	3	0	6
+23008	slayer	Retaliate	Powerlinked Retaliate	Increases skill damage of Leaping Strike by 25% for a few seconds.	23008	24	0	0	185	5	0	6
+23009	slayer	Overhand Strike	Persistent Overhand Strike	$prob chance to eliminate cooldown.	23009	20	0	0	600	5	0	6
+23010	slayer	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	23010	20	0	0	350	4	0	6
+23011	slayer	Triumphant Shout	Spirited Triumphant Shout	Increases MP replenishment by $value.	23011	20	0	0	305	3	0	6
+23012	slayer	Whirlwind	Brilliant Whirlwind	Reduces MP cost by $value.	23012	20	0	0	270	4	0	6
+23013	slayer	Dash	Energetic Dash	Decreases cooldown by $value.	23013	32	0	0	365	4	0	6
+23014	slayer	Backstab	Energetic Backstab	Decreases cooldown by $value.	23014	56	0	0	340	5	0	6
+23015	slayer	Triumphant Shout	Energetic Triumphant Shout	Decreases cooldown by $value.	23015	20	0	0	255	3	0	6
+23016	slayer	Heart Thrust	Empowered Heart Thrust	Increases skill damage by $value.	23016	38	0	0	500	5	0	6
+23017	slayer	Fury Strike	Empowered Fury Strike	Increases skill damage by $value.	23017	30	0	0	355	5	0	6
+23018	slayer	Stunning Backhand	Empowered Stunning Backhand	Increases skill damage by $value.	23018	26	0	0	500	4	0	6
+23019	slayer	Headlong Rush	Energetic Headlong Rush	Decreases cooldown by $value.	23019	20	0	0	380	5	0	6
+23020	slayer	Leaping Strike	Brilliant Leaping Strike	Reduces MP cost by $value.	23020	24	0	0	205	4	0	6
+23021	slayer	Distant Blade	Brilliant Distant Blade	Reduces MP cost by $value.	23021	22	0	0	215	4	0	6
+23022	slayer	Startling Kick	Brilliant Startling Kick	Reduces MP cost by $value.	23022	20	0	0	180	4	0	6
+23023	slayer	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	23023	20	0	0	250	4	0	6
+23024	slayer	Overhand Strike	Restorative Overhand Strike	Recovers $value of total HP per successful hit.	23024	20	0	0	420	5	0	6
+23025	slayer	Tenacity	Energetic Tenacity	Decreases cooldown by $value.	23025	20	0	0	245	4	0	6
+23026	slayer	Exhausting Blow	Empowered Exhausting Blow	Increases skill damage by $value.	23026	44	0	0	260	4	0	6
+23027	slayer	In Cold Blood	Brilliance In Cold Blood	Reduces MP cost by $value.	23027	58	0	0	175	3	0	6
+23028	slayer	Heart Thrust	Persistent Heart Thrust	$prob chance to eliminate cooldown.	23028	38	0	0	500	4	0	6
+23029	slayer	Triumphant Shout	Grounded Triumphant Shout	Increases Endurance by 20% for 10 seconds.	23029	20	0	0	265	5	0	6
+23030	slayer	Backstab	Blazing Backstab	Speeds casting of Heart Thrust by 25% for a few seconds.	23030	56	0	0	235	4	0	6
+23031	slayer	Backstab	Blazing Backstab	Speeds casting of Knockdown Strike by 25% for a few seconds.	23031	56	0	0	220	4	0	6
+23032	slayer	Fury Strike	Blazing Fury Strike	Speeds casting of Whirlwind by 25% for a few seconds.	23032	30	0	0	320	4	0	6
+23033	slayer	Fury Strike	Mending Fury Strike	Recovers 4% of total HP when you follow up with Stunning Backhand.	23033	30	0	0	290	4	0	6
+23034	slayer	Exhausting Blow	Energetic Exhausting Blow	Decreases cooldown by $value.	23034	44	0	0	190	6	0	6
+23035	slayer	Distant Blade	Numbing Distant Blade	$prob chance to decrease opponent's attack speed by 15% for 5 seconds.	23035	22	0	0	285	6	0	6
+23036	slayer	Tenacity	Balancing Tenacity	Increases balance by 50% for 15 seconds.	23036	20	0	0	195	4	0	6
+23037	slayer	In Cold Blood	Blazing In Cold Blood	Speeds casting of Heart Thrust by 25% for a few seconds.	23037	58	0	0	310	2	0	6
+23038	slayer	Evasive Roll	Persistent Evasive Roll	$prob chance to eliminate cooldown.	23038	20	0	0	425	4	0	6
+23039	slayer	Evasive Roll	Powerlinked Evasive Roll	Increases skill damage of Fury Strike by 25% for a few seconds.	23039	20	0	0	295	4	0	6
+23040	slayer	Knockdown Strike	Powerlinked Knockdown Strike	Increases skill damage of Overhand Strike by 20% for a few seconds.	23040	20	0	0	450	3	0	6
+23041	slayer	Knockdown Strike	Strengthened Knockdown Strike	Increases chance of knockdown and stagger by $value.	23041	20	0	0	400	5	0	6
+23042	slayer	Startling Kick	Lingering Startling Kick	Increases effect duration by $value.	23042	20	0	0	410	4	0	6
+23043	slayer	Startling Kick	Blazing Startling Kick	Speeds casting of Heart Thrust by 25% for a few seconds.	23043	38	0	0	360	4	0	6
+23044	slayer	Startling Kick	Blazing Startling Kick	Speeds casting of Knockdown Strike by 25% for a few seconds.	23044	20	0	0	300	4	0	6
+23046	slayer	Overhand Strike	Persistent Overhand Strike	$prob chance to eliminate cooldown.	23046		1	23009	475	4	0	6
+23047	slayer	Knockdown Strike	Empowered Knockdown Strike	Increases skill damage by $value.	23047		1	23004	435	4	0	6
+23048	slayer	Stunning Backhand	Empowered Stunning Backhand	Increases skill damage by $value.	23048		1	23018	455	3	0	6
+23049	slayer	Overhand Strike	Restorative Overhand Strike	Recovers $value of total HP per successful hit.	23049		1	23024	395	4	0	6
+23050	slayer	Combo Attack	Swift Combo Attack	$prob chance to increase attack speed by 15% for 10 seconds.	23050		1	23001	405	4	0	6
+23051	slayer	Exhausting Blow	Energetic Exhausting Blow	Decreases cooldown by $value.	23051		1	23034	200	6	0	6
+23052	slayer	Tenacity	Balancing Tenacity	Doubles balance for 15 seconds.	23052		1	23036	210	4	0	6
+23053	slayer	Tenacity	Energetic Tenacity	Decreases cooldown by $value.	23053		1	23025	325	3	0	6
+23054	slayer	Backstab	Blazing Backstab	Speeds casting of Heart Thrust by 35% for a few seconds.	23054		1	23030	335	3	0	6
+23055	slayer	Whirlwind	Keen Whirlwind	Triples Crit Factor.	23055		1	0	500	5	0	6
+23056	slayer	Evasive Roll	Powerlinked Evasive Roll	Increases skill damage of Backstab by 25% for a few seconds.	23056		1	0	315	4	0	6
+23057	slayer	Heart Thrust	Keen Heart Thrust	Triples Crit Factor.	23057		1	0	500	5	0	6
+23058	slayer	Overpower	Keen Overpower	Doubles Crit Factor for the next attack.	23058		1	0	500	5	0	6
+23059	slayer	Overpower	Powerlinked Overpower	Increases skill damage by 10% for the next attack.	23059		1	0	500	5	0	6
+23060	slayer	Startling Kick	Hastened Startling Kick	Speeds casting by $value.	23060		1	0	370	3	0	6
+23061	slayer	Measured Slice	Carving Measured Slice	Doubles the chance to crit.	23061	60	0	0	500	5	0	6
+23062	slayer	Measured Slice	Empowered Measured Slice	Increases skill damage by $value.	23062		1	0	500	4	0	6
+23063	slayer	Fury Strike	Empowered Fury Strike	Increases skill damage by $value.	23063		1	23017	280	4	0	6
+23064	slayer	Backstab	Energetic Backstab	Decreases cooldown by $value.	23064		1	23014	345	5	0	6
+23065	slayer	Distant Blade	Numbing Distant Blade	$prob chance to decrease opponent's attack speed by 15% for 5 seconds.	23065		1	23035	240	5	0	6
+23066	slayer	Headlong Rush	Powerlinked Headlong Rush	Increases skill damage of Knockdown Strike by 25% for a few seconds.	23066		1	0	230	4	0	6
+23067	slayer	Eviscerate	Empowered Eviscerate	Increases skill damage by $value.	23067	63	0	0	500	5	0	6
+23068	slayer	Eviscerate	Empowered Eviscerate	Increases skill damage by $value.	23068		1	23067	600	4	0	6
+23069	slayer	Eviscerate	Powerlinked Eviscerate	Increases skill damage of Overhand Strike by 25% for a few seconds.	23069	63	0	0	500	4	0	6
+23070	slayer	Eviscerate	Energetic Eviscerate	Decreases cooldown by $value.	23070		1	0	490	4	0	6
+23071	slayer	Eviscerate	Powerlinked Eviscerate	Increases skill damage of Measured Slice by 25% for a few seconds	23071		1	0	450	3	0	6
+23072	slayer	Tenacity	Spirited Tenacity	$prob chance to replenish 6% of your total MP every second.	23072		1	0	500	3	0	6
+23073	slayer	Evasive Roll	Fleetfooted Evasive Roll	$prob chance to increase Movement Speed by 15% for 10 seconds.	23073		1	23000	330	3	0	6
+23074	slayer	Heart Thrust	Empowered Heart Thrust	Increases skill damage by $value.	23074		2	23016	500	4	0	6
+23075	slayer	Fury Strike	Empowered Fury Strike	Increases skill damage by $value.	23075		2	23017	355	3	0	6
+23076	slayer	Startling Kick	Blazing Startling Kick	Speeds casting of Heart Thrust by 25% for a few seconds.	23076		1	23043	360	3	0	6
+23077	slayer	Overhand Strike	Persistent Overhand Strike	$prob chance to eliminate cooldown.	23077		2	23009	475	4	0	6
+23078	slayer	Knockdown Strike	Empowered Knockdown Strike	Increases skill damage by $value.	23078		2	23004	435	4	0	6
+23079	slayer	Whirlwind	Keen Whirlwind	Triples Crit Factor.	23079		2	23055	500	4	0	6
+23080	slayer	Overpower	Keen Overpower	Doubles Crit Factor for the next attack.	23080		2	23058	500	4	0	6
+23081	slayer	Measured Slice	Carving Measured Slice	Triples the chance to crit.	23081		1	23061	500	4	0	6
+23082	slayer	Measured Slice	Empowered Measured Slice	Increases skill damage by $value.	23082		2	23062	500	4	0	6
+23083	slayer	Eviscerate	Empowered Eviscerate	Increases skill damage by $value.	23083		2	23067	600	3	0	6
+23084	slayer	Eviscerate	Powerlinked Eviscerate	Increases skill damage of Overhand Strike by 25% for a few seconds.	23084		1	23069	500	3	0	6
+24000	berserker	Axe Block	Mindsparked Axe Block	Replenishes 3% of MP on a successful block.	24000	20	0	0	425	3	0	6
+24001	berserker	Axe Block	Pumped Axe Block	$prob chance to increase Power by 20% for 5 seconds on a successful block.	24001	20	0	0	360	4	0	6
+24002	berserker	Thunder Strike	Carving Thunder Strike	Doubles the chance to crit.	24002	20	0	0	500	5	0	6
+24003	berserker	Cyclone	Carving Cyclone	Doubles the chance to crit.	24003	20	0	0	500	6	0	6
+24004	berserker	Combo Attack	Keen Combo Attack	Increases Crit Factor by 10%.	24004	20	0	0	320	6	0	6
+24005	berserker	Thunder Strike	Slick Thunder Strike	Eliminates slowed movement restriction.	24005	26	0	0	450	7	0	6
+24006	berserker	Cyclone	Empowered Cyclone	Increases additional overcharge damage by $value.	24006	20	0	0	480	6	0	6
+24007	berserker	Thunder Strike	Sanative Thunder Strike	Decreases HP consumption by $value when overcharged.	24007	20	0	0	500	3	0	6
+24008	berserker	Flatten	Hastened Flatten	Speeds casting by $value.	24008	20	0	0	410	4	0	6
+24009	berserker	Cyclone	Hastened Cyclone	Speeds charging by $value.	24009	20	0	0	500	4	0	6
+24010	berserker	Mocking Shout	Blazing Mocking Shout	Speeds charging of Cyclone by 30% for a few seconds	24010	26	0	0	230	3	0	6
+24011	berserker	Fiery Rage	Pumped Fiery Rage	$prob chance to increase Power by additional 10% for 20 seconds.	24011	22	0	0	500	5	0	6
+24012	berserker	Staggering Strike	Influential Staggering Strike	Reduces MP cost of Flatten by 63 for a few seconds.	24012	40	0	0	265	3	0	6
+24013	berserker	Flatten	Empowered Flatten	Increases skill damage by $value.	24013	20	0	0	400	4	0	6
+24015	berserker	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	24015	20	0	0	335	4	0	6
+24016	berserker	Triumphant Shout	Spirited Triumphant Shout	Increases MP replenishment by $value.	24016	20	0	0	315	3	0	6
+24017	berserker	Unchained Anger	Sanative Unchained Anger	Decreases HP consumption by $value.	24017	30	0	0	295	4	0	6
+24018	berserker	Dash	Energetic Dash	Decreases cooldown by $value.	24018	32	0	0	500	4	0	6
+24019	berserker	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	24019	20	0	0	300	3	0	6
+24020	berserker	Staggering Strike	Energetic Staggering Strike	Decreases cooldown by $value.	24020	40	0	0	390	4	0	6
+24021	berserker	Leaping Strike	Empowered Leaping Strike	Increases skill damage by $value.	24021	24	0	0	305	5	0	6
+24022	berserker	Vampiric Blow	Empowered Vampiric Blow	Increases skill damage by $value.	24022	20	0	0	435	5	0	6
+24023	berserker	Fiery Rage	Lingering Fiery Rage	Increases duration of Flurry of Blows effect by $value.	24023	56	0	0	375	5	0	6
+24024	berserker	Fearsome Shout	Test	No Effect	24024		0	0		1000	0	6
+24026	berserker	Triumphant Shout	Energetic Triumphant Shout	Decreases cooldown by $value.	24026	20	0	0	260	4	0	6
+24027	berserker	Retaliate	Empowered Retaliate	Increases skill damage by $value.	24027	20	0	0	240	4	0	6
+24028	berserker	Bloodlust	Brilliant Bloodlust	Reduces MP cost by $value.	24028	52	0	0	210	4	0	6
+24029	berserker	Tenacity	Energetic Tenacity	Decreases cooldown by $value.	24029	20	0	0	355	3	0	6
+24030	berserker	Inescapable Doom	Energetic Inescapable Doom	Decreases cooldown by $value.	24030	58	0	0	195	4	0	6
+24031	berserker	Triumphant Shout	Influential Triumphant Shout	Reduces MP cost of Dash by 75 for a few seconds.	24031	32	0	0	190	3	0	6
+24032	berserker	Lethal Strike	Empowered Lethal Strike	Increases skill damage by $value.	24032	36	0	0	310	3	0	6
+24033	berserker	Inescapable Doom	Influential Inescapable Doom	Reduces MP cost of Flatten by 63 for a few seconds.	24033	58	0	0	180	3	0	6
+24034	berserker	Mocking Shout	Test	No Effect	24034		0	0		1000	0	6
+24035	berserker	Mocking Shout	Powerlinked Mocking Shout	Increases skill damage of Staggering Strike by 25% for a few seconds.	24035	40	0	0	280	2	0	6
+24036	berserker	Unchained Anger	Strengthened Unchained Anger	Increases knockdown by 10% for 20 seconds.	24036	30	0	0	225	5	0	6
+24037	berserker	Unchained Anger	Raging Unchained Anger	$prob chance to activate Flurry of Blows I.	24037	56	0	0	285	5	0	6
+24038	berserker	Fiery Rage	Fleetfooted Fiery Rage	Increases Combat Movement Speed by 20 for 15 seconds.	24038	22	0	0	385	5	0	6
+24039	berserker	Fearsome Shout	Powerlinked Fearsome Shout	Increases skill damage of Staggering Strike by 25% for a few seconds.	24039	46	0	0	205	3	0	6
+24040	berserker	Leaping Strike	Persistent Leaping Strike	$prob chance to eliminate cooldown.	24040	24	0	0	245	4	0	6
+24041	berserker	Inescapable Doom	Lingering Inescapable Doom	Increases effect duration by $value.	24041	58	0	0	200	5	0	6
+24042	berserker	Inescapable Doom	Blazing Inescapable Doom	Speeds casting of Flatten by 25% for a few seconds.	24042	58	0	0	185	4	0	6
+24043	berserker	Inescapable Doom	Test	No Effect	24043		0	0		1000	0	6
+24044	berserker	Tenacity	Balancing Tenacity	Increases balance by 50% for 15 seconds.	24044	20	0	0	215	5	0	6
+24045	berserker	Lethal Strike	Slick Lethal Strike	Eliminates slowed movement restriction.	24045	48	0	0	250	6	0	6
+24046	berserker	Leaping Strike	Blazing Leaping Strike	Speeds casting of Lethal Strike by 30% for a few seconds.	24046	36	0	0	220	3	0	6
+24047	berserker	Staggering Strike	Blazing Staggering Strike	Speeds charging of Thunder Strike by 30% for a few seconds.	24047	40	0	0	365	4	0	6
+24048	berserker	Thunder Strike	Carving Thunder Strike	Doubles the chance to crit.	24048		1	24002	550	4	0	6
+24049	berserker	Thunder Strike	Slick Thunder Strike	Eliminates slowed movement restriction.	24049		1	24005	550	6	0	6
+24050	berserker	Flatten	Hastened Flatten	Speeds casting by $value.	24050		1	24008	440	3	0	6
+24051	berserker	Thunder Strike	Sanative Thunder Strike	Decreases HP consumption by $value.	24051		1	24007	550	2	0	6
+24052	berserker	Cyclone	Hastened Cyclone	Speeds charging by $value.	24052		1	24009	470	3	0	6
+24053	berserker	Flatten	Empowered Flatten	Increases skill damage by $value.	24053		1	24013	430	3	0	6
+24054	berserker	Tenacity	Balancing Tenacity	Doubles Balance for 15 seconds.	24054		1	24044	235	5	0	6
+24055	berserker	Mocking Shout	Blazing Mocking Shout	Speeds charging of Cyclone by 30% for a few seconds	24055		1	24010	230	2	0	6
+24056	berserker	Inescapable Doom	Blazing Inescapable Doom	Speeds casting of Flatten by 30% for a few seconds.	24056		1	24042	275	2	0	6
+24057	berserker	Triumphant Shout	Grounded Triumphant Shout	Increases Endurance by 16 for 12 seconds.	24057		1	0	325	3	0	6
+24058	berserker	Dash	Persistent Dash	$prob chance to eliminate cooldown.	24058		1	0	340	4	0	6
+24059	berserker	Leaping Strike	Keen Leaping Strike	Doubles Crit Factor.	24059		1	0	290	3	0	6
+24060	berserker	Tenacity	Restorative Tenacity	Recovers $value of your total HP.	24060		1	0	350	4	0	6
+24061	berserker	Tenacity	Spirited Tenacity	$prob chance to replenish 6% of your total MP every second.	24061		1	0	405	3	0	6
+24062	berserker	Retaliate	Furious Retaliate	Increases your damage as your HP decreases (up to 4 times).	24062		1	0	255	3	0	6
+24063	berserker	Evasive Smash	Empowered Evasive Smash	Increases skill damage by $value.	24063	60	0	0	500	5	0	6
+24064	berserker	Evasive Smash	Carving Evasive Smash	Doubles the chance to crit.	24064		1	0	500	4	0	6
+24065	berserker	Axe Block	Mindsparked Axe Block	Restores 3% of MP on a successful block.	24065		1	24000	380	2	0	6
+24066	berserker	Cyclone	Carving Cyclone	Doubles the chance to crit.	24066		1	24003	395	5	0	6
+24067	berserker	Thunder Strike	Hastened Thunder Strike	Speeds charging by $value.	24067		1	0	550	4	0	6
+24068	berserker	Staggering Strike	Persistent Staggering Strike	$prob chance to eliminate cooldown.	24068		1	0	330	4	0	6
+24069	berserker	Unbreakable	Energetic Unbreakable	Decreases cooldown by $value.	24069	65	0	0	290	4	0	6
+24070	berserker	Unbreakable	Energetic Unbreakable	Decreases cooldown by $value.	24070		1	24069	290	3	0	6
+24071	berserker	Unbreakable	Lingering Unbreakable	Increases effect duration by $value.	24071	65	0	0	490	5	0	6
+24072	berserker	Raze	Blazing Raze	Speeds charging of Thunder Strike by 25% for a few seconds.	24072	61	0	0	300	4	0	6
+24073	berserker	Raze	Spirited Raze	Increases MP replenishment by $value.	24073	61	0	0	335	3	0	6
+24074	berserker	Raze	Energetic Raze	Decreases cooldown by $value.	24074	61	0	0	475	4	0	6
+24075	berserker	Tackle	Brilliant Tackle	Reduces MP cost by $value.	24075	63	0	0	210	4	0	6
+24076	berserker	Tackle	Fleetfooted Tackle	Increases Combat Movement Speed by 20 for 15 seconds.	24076	63	0	0	385	5	0	6
+24077	berserker	Tackle	Keen Tackle	Doubles Crit Factor.	24077		1	0	500	4	0	6
+24078	berserker	Raze	Hastened Raze	Speeds casting by $value.	24078		1	0	450	4	0	6
+24080	berserker	Axe Block	Powerlinked Axe Block	Increases skill damage of Axe Counter by 25% for a few seconds.	24080	65	0	0	500	6	0	6
+24081	berserker	Axe Block	Influential Axe Block	Reduces MP cost of Axe Counter by 115 for a few seconds.	24081	65	0	0	435	2	0	6
+24082	berserker	Axe Counter	Threatening Axe Counter	Increases aggro by $value.	24082	65	0	0	500	3	0	6
+24083	berserker	Punishing Strike	Brilliant Punishing Strike	Reduces MP cost by $value.	24083	65	0	0	275	4	0	6
+24084	berserker	Punishing Strike	Threatening Punishing Strike	Increases aggro by $value.	24084	65	0	0	500	3	0	6
+24085	berserker	Evasive Smash	Energetic Evasive Smash	Decreases cooldown by $value.	24085	65	0	0	445	3	0	6
+24086	berserker	Fiery Rage	Threatening Fiery Rage	Increases aggro by $value.	24086	65	0	0	500	6	0	6
+24087	berserker	Fiery Rage	Brilliant Fiery Rage	Reduces MP cost by $value.	24087	65	0	0	195	6	0	6
+24088	berserker	Overwhelm	Empowered Overwhelm	Increases skill damage by $value.	24088	65	0	0	300	4	0	6
+24089	berserker	Unchained Anger	Energetic Unchanged Anger	Decreases cooldown by $value.	24089	65	0	0	310	6	0	6
+24090	berserker	Overwhelm	Energetic Overwhelm	Decreases cooldown by $value.	24090	65	0	0	405	4	0	6
+24091	berserker	Overwhelm	Fleetfooted Overwhelm	Increases Combat Movement Speed by 10 for 7 seconds.	24091	65	0	0	270	5	0	6
+24092	berserker	Fiery Rage	Pumped Fiery Rage	$prob chance to increase Power by additional 10% for 20 seconds.	24092		1	24011	500	4	0	6
+24093	berserker	Fiery Rage	Lingering Fiery Rage	Increases duration of Flurry of Blows effect by $value.	24093		1	24023	375	4	0	6
+24094	berserker	Lethal Strike	Empowered Lethal Strike	Increases skill damage by $value.	24094		1	24032	310	3	0	6
+24095	berserker	Thunder Strike	Slick Thunder Strike	Eliminates slowed movement restriction.	24095		2	24005	550	5	0	6
+24096	berserker	Cyclone	Hastened Cyclone	Speeds charging by $value.	24096		2	24009	470	3	0	6
+24097	berserker	Flatten	Empowered Flatten	Increases skill damage by $value.	24097		2	24013	430	3	0	6
+24098	berserker	Evasive Smash	Empowered Evasive Smash	Increases skill damage by $value.	24098		1	24063	500	4	0	6
+24099	berserker	Cyclone	Carving Cyclone	Doubles the chance to crit.	24099		2	24003	395	4	0	6
+24100	berserker	Unbreakable	Energetic Unbreakable	Decreases cooldown by $value.	24100		2	24069	290	3	0	6
+24101	berserker	Raze	Blazing Raze	Speeds casting of Thunder Strike by 25% for a few seconds.	24101		1	24072	300	3	0	6
+24102	berserker	Overwhelm	Energetic Overwhelm	Decreases cooldown by $value.	24102		1	24090	405	3	0	6
+24103	berserker	Overwhelm	Fleetfooted Overwhelm	Increases Combat Movement Speed by 10 for 7 seconds.	24103		1	24091	270	4	0	6
+25000	sorcerer	Fireball	Longshot Fireball	Increases range by 3 meters.	25000	20	0	0	315	3	0	6
+25001	sorcerer	Flaming Barrage	Hastened Flaming Barrage	Speeds casting by $value	25001	20	0	0	490	3	0	6
+25003	sorcerer	Meteor Strike	Hastened Meteor Strike	Speeds casting by $value.	25003	26	0	0	500	3	0	6
+25004	sorcerer	Mana Barrier	Pumped Mana Barrier	Increases Power by 10% for 15 seconds.	25004	40	0	0	500	1000	0	6
+25005	sorcerer	Mana Barrier	Grounded Mana Barrier	Increases Endurance by 20% for 15 seconds.	25005	40	0	0	370	4	0	6
+25006	sorcerer	Lightning Trap	Powerlinked Lightning Trap	Increases skill damage of Meteor Strike by 20% for a few seconds.	25006		0	0	500	1000	0	6
+25009	sorcerer	Mana Infusion	Spirited Mana Infusion	Increases MP replenishment by $value.	25009	20	0	0	350	4	0	6
+25010	sorcerer	Mana Boost	Energetic Mana Boost	Decreases cooldown by $value.	25010	32	0	0	500	2	0	6
+25011	sorcerer	Mana Barrier	Energetic Mana Barrier	Decreases cooldown by $value.	25011	40	0	0	500	2	0	6
+25012	sorcerer	Void Pulse	Energetic Void Pulse	Decreases cooldown by $value.	25012	36	0	0	500	4	0	6
+25013	sorcerer	Frost Sphere	Energetic Frost Sphere	Decreases cooldown by $value.	25013	20	0	0	360	3	0	6
+25014	sorcerer	Lightning Trap	Brilliant Lightning Trap	Reduces MP cost by $value.	25014	28	0	0	500	4	0	6
+25015	sorcerer	Void Pulse	Carving Void Pulse	Doubles the chance to crit when attacking monsters.	25015	36	0	0	500	4	0	6
+25016	sorcerer	Arcane Pulse	Empowered Arcane Pulse	Increases skill damage by $value.	25016	20	0	0	355	3	0	6
+25017	sorcerer	Meteor Strike	Brilliant Meteor Strike	Reduces MP cost by $value.	25017	26	0	0	500	4	0	6
+25018	sorcerer	Painblast	Lingering Painblast	Increases effect duration by $value.	25018	20	0	0	170	6	0	6
+25019	sorcerer	Flame Pillar	Empowered Flame Pillar	Increases skill damage by $value.	25019	20	0	0	300	5	0	6
+25021	sorcerer	Mana Extraction	Past Glyph Shard	This old fragmented glyph is no longer used.	25021		0	0		2	0	6
+25022	sorcerer	Mindblast	Lingering Mindblast	Increases effect duration by $value.	25022	24	0	0	275	4	0	6
+25023	sorcerer	Mana Siphon	Spirited Mana Siphon	Increases MP replenishment by $value.	25023	20	0	0	290	3	0	6
+25025	sorcerer	Flaming Barrage	Brilliant Flaming Barrage	Reduces MP cost by $value.	25025	20	0	0	500	4	0	6
+25026	sorcerer	Lightning Strike	Brilliant Lightning Strike	Reduces MP cost by $value.	25026	20	0	0	500	2	0	6
+25027	sorcerer	Painful Trap	Brilliant Painful Trap	Reduces MP cost by $value.	25027	20	0	0	100	4	0	6
+25028	sorcerer	Glacial Retreat	Lingering Glacial Retreat	Increases effect duration by $value.	25028	20	0	0	270	4	0	6
+25029	sorcerer	Arcane Pulse	Powerlinked Arcane Pulse	Increases damage of Frost Sphere by 25% for a few seconds.	25029	20	0	0	295	3	0	6
+25030	sorcerer	Painful Trap	Influential Painful Trap	Reduces MP cost of Flame Pillar by 80 for a few seconds.	25030	20	0	0	95	4	0	6
+25031	sorcerer	Lightning Strike	Carving Lightning Strike	Doubles the chance to crit when attacking monsters.	25031	20	0	0	320	4	0	6
+25032	sorcerer	Mana Infusion	Energetic Mana Infusion	Decreases cooldown by $value.	25032	32	0	0	110	4	0	6
+25033	sorcerer	Time Gyre	Energetic Time Gyre	Decreases cooldown by $value.	25033	20	0	0	200	4	0	6
+25034	sorcerer	Burning Breath	Lingering Burning Breath	Increases effect duration by $value.	25034	44	0	0	150	5	0	6
+25035	sorcerer	Mana Boost	Lingering Mana Boost	Increases effect duration by $value.	25035	48	0	0	425	4	0	6
+25036	sorcerer	Nerve Exhaustion	Energetic Nerve Exhaustion	Decreases cooldown by $value.	25036	56	0	0	140	4	0	6
+25037	sorcerer	Mana Volley	Lingering Mana Volley	Increases effect duration by $value.	25037	58	0	0	105	5	0	6
+25038	sorcerer	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	25038	20	0	0	220	4	0	6
+25039	sorcerer	Retaliate	Shielding Retaliate	$prob chance to activate Mana Barrier II.	25039	52	0	0	325	5	0	6
+25040	sorcerer	Mana Siphon	Energetic Mana Siphon	Decreases cooldown by $value.	25040	20	0	0	500	3	0	6
+25041	sorcerer	Mana Barrier	Lingering Mana Barrier	Increases effect duration by $value.	25041	40	0	0	390	4	0	6
+25042	sorcerer	Mana Siphon	Blazing Mana Siphon	Speeds casting of Flaming Barrage by 25% for a few seconds.	25042	20	0	0	500	2	0	6
+25043	sorcerer	Lightning Trap	Blazing Lightning Trap	Speeds casting of Flame Pillar by 25% for a few seconds.	25043	28	0	0	120	4	0	6
+25044	sorcerer	Burning Breath	Powerlinked Burning Breath	Increases skill damage of Flaming Barrage by 35% for a few seconds.	25044	44	0	0	260	4	0	6
+25045	sorcerer	Glacial Retreat	Blazing Glacial Retreat	Speeds casting of Lightning Trap by 40% for a few seconds.	25045	28	0	0	250	4	0	6
+25046	sorcerer	Time Gyre	Multiplicative Time Gyre	Increases number of lock-on targets by $value.	25046	20	0	0	125	4	0	6
+25047	sorcerer	Time Gyre	Blazing Time Gyre	Speeds casting of Meteor Strike by 25% for a few seconds.	25047	26	0	0	255	2	0	6
+25048	sorcerer	Mindblast	Hastened Mindblast	Speeds casting by $value.	25048	24	0	0	340	2	0	6
+25049	sorcerer	Mindblast	Persistent Mindblast	$prob chance to eliminate cooldown.	25049	24	0	0	175	3	0	6
+25050	sorcerer	Frost Sphere	Lingering Frost Sphere	Increases effect duration by $value.	25050	20	0	0	345	3	0	6
+25051	sorcerer	Frost Sphere	Slowing Frost Sphere	Decreases opponent's Movement Speed by an additional $value.	25051	20	0	0	330	3	0	6
+25052	sorcerer	Frost Sphere	Blazing Frost Sphere	Speeds casting of Mindblast by 40% for a few seconds.	25052	20	0	0	310	2	0	6
+25053	sorcerer	Painblast	Blossoming Painblast	Increases periodic damage by $value.	25053	20	0	0	210	5	0	6
+25054	sorcerer	Painblast	Slowing Painblast	$prob chance to decrease opponent's Movement Speed by 50% for 7 seconds.	25054	20	0	0	265	4	0	6
+25055	sorcerer	Meteor Strike	Carving Meteor Strike	Doubles the chance to crit when attacking monsters.	25055	26	0	0	320	4	0	6
+25056	sorcerer	Flaming Barrage	Multiplicative Flaming Barrage	Increases number of lock-on targets by $value.	25056	20	0	0	305	4	0	6
+25057	sorcerer	Arcane Pulse	Test	No Effect	25057		0	0		1000	0	6
+25058	sorcerer	Lightning Strike	Persistent Lightning Strike	$prob chance to eliminate cooldown.	25058	20	0	0	395	4	0	6
+25059	sorcerer	Flame Pillar	Blazing Flame Pillar	Speeds casting of Lightning Trap by 40% for a few seconds.	25059	28	0	0	130	2	0	6
+25060	sorcerer	Mindblast	Shared Mindblast	Increases chance of debuff by 30% when hitting multiple targets.	25060	24	0	0	115	5	0	6
+25061	sorcerer	Meteor Strike	Energetic Meteor Strike	Decreases cooldown by $value.	25061	26	0	0	430	4	0	6
+25062	sorcerer	Glacial Retreat	Blazing Glacial Retreat	Speeds charging of Arcane Pulse by 30% for a few seconds.	25062	20	0	0	135	4	0	6
+25063	sorcerer	Teleport Jaunt	Energetic Teleport Jaunt	Decreases cooldown by $value.	25063	22	0	0	480	3	0	6
+25064	sorcerer	Flame Pillar	Energetic Flame Pillar	Decreases cooldown by $value.	25064	25	0	0	160	4	0	6
+25065	sorcerer	Hail Storm	Energetic Hail Storm	Decreases cooldown by $value.	25065	52	0	0	495	3	0	6
+25066	sorcerer	Hail Storm	Brilliant Hail Storm	Reduces MP cost by $value.	25066	52	0	0	500	2	0	6
+25068	sorcerer	Mana Boost	Lingering Mana Boost	Increases effect duration by $value.	25068		1	25035	500	4	0	6
+25069	sorcerer	Meteor Strike	Hastened Meteor Strike	Speeds casting by $value.	25069		1	25003	460	2	0	6
+25070	sorcerer	Meteor Strike	Energetic Meteor Strike	Decreases cooldown by $value.	25070		1	25061	435	3	0	6
+25071	sorcerer	Lightning Trap	Powerlinked Lightning Trap	Increases skill damage of Meteor Strike by 20% for a few seconds.	25071		1	25006	445	1000	0	6
+25072	sorcerer	Void Pulse	Carving Void Pulse	Doubles the chance to crit when attacking monsters.	25072		1	25015	410	3	0	6
+25073	sorcerer	Mindblast	Shared Mindblast	Increases chance of debuff by 30% when hitting multiple targets.	25073		1	25060	145	4	0	6
+25074	sorcerer	Nerve Exhaustion	Energetic Nerve Exhaustion	Decreases cooldown by $value.	25074		1	25036	245	3	0	6
+25075	sorcerer	Lightning Trap	Brilliant Lightning Trap	Reduces MP cost by $value.	25075		1	25014	335	2	0	6
+25076	sorcerer	Time Gyre	Multiplicative Time Gyre	Increases number of lock-on targets by $value.	25076		1	25046	155	3	0	6
+25077	sorcerer	Flame Pillar	Shielding Flame Pillar	$prob chance to activate Mana Barrier I.	25077		1	0	215	3	0	6
+25078	sorcerer	Painblast	Energetic Painblast	Decreases cooldown by $value.	25078		1	0	240	3	0	6
+25079	sorcerer	Burning Breath	Hindering Burning Breath	PvP: Decreases the effect of healing skills on foes by 30% for 10 seconds.	25079		1	0	185	2	0	6
+25080	sorcerer	Mana Barrier	Warding Mana Barrier	Increases damage absorption by 30%.	25080		1	0	375	4	0	6
+25081	sorcerer	Arcane Pulse	Keen Arcane Pulse	Doubles Crit Factor for 5 seconds.	25081		1	0	400	3	0	6
+25082	sorcerer	Arcane Pulse	Slick Arcane Pulse	Can move while charging.	25082		1	0	280	2	0	6
+25083	sorcerer	Stone Skin	Energetic Stone Skin	Decreases cooldown by $value.	25083	60	0	0	230	5	0	6
+25084	sorcerer	Stone Skin	Energetic Stone Skin	Decreases cooldown by $value.	25084		1	25083	195	3	0	6
+25085	sorcerer	Mana Barrier	Lingering Mana Barrier	Increases effect duration by $value.	25085		1	25041	320	3	0	6
+25086	sorcerer	Meteor Strike	Brilliant Meteor Strike	Reduces MP cost by $value.	25086		1	25017	380	3	0	6
+25087	sorcerer	Backstep	Fleetfooted Backstep	Increases Movement Speed by 20% for 2 seconds.	25087		1	0	165	4	0	6
+25088	sorcerer	Painblast	Powerlinked Painblast	Increases skill damage of Flaming Barrage by 25% for a few seconds.	25088		1	0	235	3	0	6
+25089	sorcerer	Nova	Keen Nova	Doubles Crit Factor for 4 seconds.	25089	61	0	0	450	4	0	6
+25090	sorcerer	Nova	Grounded Nova	Increases Endurance by 20% for 15 seconds.	25090	61	0	0	230	4	0	6
+25091	sorcerer	Nova	Energetic Nova	Decreases cooldown by $value.	25091		1	0	490	3	0	6
+25092	sorcerer	Nova	Hastened Nova	Speeds casting by $value.	25092		1	0	490	2	0	6
+25093	sorcerer	Warp Barrier	Energetic Warp Barrier	Decreases cooldown by $value.	25093	65	0	0	450	3	0	6
+25094	sorcerer	Warp Barrier	Energetic Warp Barrier	Decreases cooldown by $value.	25094		1	25093	500	2	0	6
+25095	sorcerer	Warp Barrier	Lingering Warp Barrier	Increases effect duration by $value.	25095		1	0	450	2	0	6
+25096	sorcerer	Flaming Barrage	Hastened Flaming Barrage	Speeds casting by $value.	25096		1	25001	490	3	0	6
+25097	sorcerer	Void Pulse	Energetic Void Pulse	Decreases cooldown by $value.	25097		1	25012	500	3	0	6
+25098	sorcerer	Flame Pillar	Empowered Flame Pillar	Increases skill damage by $value.	25098		1	25019	300	4	0	6
+25099	sorcerer	Burning Breath	Lingering Burning Breath	Increases effect duration by $value.	25099		1	25034	150	4	0	6
+25100	sorcerer	Glacial Retreat	Blazing Glacial Retreat	Speeds casting of Lightning Trap by 40% for a few seconds.	25100		1	25045	250	3	0	6
+25101	sorcerer	Lightning Strike	Persistent Lightning Strike	$prob chance to eliminate cooldown.	25101		1	25058	395	3	0	6
+25102	sorcerer	Glacial Retreat	Blazing Glacial Retreat	Speeds charging for Arcane Pulse by 30% for a few seconds.	25102		1	25062	135	3	0	6
+25103	sorcerer	Mana Boost	Lingering Mana Boost	Increases effect duration by $value.	25103		2	25035	500	3	0	6
+25104	sorcerer	Time Gyre	Multiplicative Time Gyre	Increases number of lock-on targets by $value.	25104		2	25046	155	2	0	6
+25105	sorcerer	Arcane Pulse	Keen Arcane Pulse	Increases Crit Factor by 2.5 times for 5 seconds	25105		2	25081	400	3	0	6
+25106	sorcerer	Stone Skin	Energetic Stone Skin	Decreases cooldown by $value.	25106		2	25083	195	3	0	6
+25107	sorcerer	Nova	Keen Nova	Increases Crit Factor by 2.5 times for 4 seconds	25107		2	25089	450	3	0	6
+26000	archer	Arrow Volley	Multiplicative Arrow Volley	Increases number of lock-on targets by $value.	26000	20	0	0	355	3	0	6
+26001	archer	Radiant Arrow	Longshot Radiant Arrow	Increases range by 3 meters.	26001	20	0	0	430	3	0	6
+26002	archer	Penetrating Arrow	Longshot Penetrating Arrow	Increases range by 3 meters.	26002	20	0	0	405	3	0	6
+26004	archer	Penetrating Arrow	Empowered Penetrating Arrow	Increases skill damage by $value.	26004	20	0	0	465	5	0	6
+26005	archer	Poison Trap	Test	No Effect	26005		0	0		1000	0	6
+26006	archer	Slow Trap	Lingering Slow Trap	Increases effect duration by $value.	26006	20	0	0	200	4	0	6
+26007	archer	Stunning Trap	Lingering Stunning Trap	Increases effect duration by $value.	26007	34	0	0	365	5	0	6
+26008	archer	Arrow	Slowing Arrow	$prob chance to decrease opponent's Movement Speed by 50% for 3 seconds.	26008	20	0	0	255	5	0	6
+26009	archer	Arrow	Sapping Arrow	$prob chance to stun opponent.	26009	20	0	0	280	5	0	6
+26010	archer	Arrow	Piercing Arrow	$prob chance to deal double damage.	26010	20	0	0	380	5	0	6
+26011	archer	Radiant Arrow	Slick Radiant Arrow	Eliminates slowed movement restriction.	26011	30	0	0	450	4	0	6
+26012	archer	Penetrating Arrow	Slick Penetrating Arrow	Eliminates slowed movement restriction.	26012	20	0	0	460	4	0	6
+26017	archer	Rapid Fire	Persistent Rapid Fire	$prob chance to eliminate cooldown.	26017	20	0	0	285	4	0	6
+26018	archer	Backstep	Energetic Backstep	Decreases cooldown by $value.	26018	20	0	0	500	3	0	6
+26019	archer	Feign Death	Energetic Feign Death	Decreases cooldown by $value.	26019	38	0	0	230	2	0	6
+26020	archer	Retaliate	Empowered Retaliate	Increases skill damage by $value.	26020	20	0	0	185	4	0	6
+26021	archer	Rain of Arrows	Energetic Rain of Arrows	Decreases cooldown by $value.	26021	58	0	0	500	3	0	6
+26022	archer	Breakaway Bolt	Energetic Breakaway Bolt	Decreases cooldown by $value.	26022	20	0	0	500	4	0	6
+26023	archer	Incendiary Trap	Empowered Incendiary Trap	Increases skill damage by $value.	26023	26	0	0	365	5	0	6
+26024	archer	Web Arrow	Lingering Web Arrow	Increases effect duration by $value.	26024	42	0	0	215	4	0	6
+26025	archer	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	26025	20	0	0	265	4	0	6
+26026	archer	Poison Trap	Test	No Effect	26026		0	0		1000	0	6
+26027	archer	Poison Arrow	Lingering Poison Arrow	Increases effect duration by $value.	26027	22	0	0	425	4	0	6
+26028	archer	Sniper's Eye	Influential Sniper's Eye	Reduces MP cost of Web Arrow by 13 for a few seconds.	26028	48	0	0	160	3	0	6
+26029	archer	Restraining Arrow	Lingering Restraining Arrow	Increases effect duration by $value.	26029	54	0	0	275	5	0	6
+26030	archer	Velik's Mark	Influential Velik's Mark	Reduces MP cost of Poison Arrow by 31 for a few seconds.	26030	30	0	0	175	3	0	6
+26031	archer	Arrow Volley	Influential Arrow Volley	Reduces MP cost of Incendiary Trap by 75 for a few seconds.	26031	26	0	0	165	3	0	6
+26032	archer	Breakaway Bolt	Powerlinked Breakaway Bolt	Increases skill damage of Penetrating Arrow by 25% for a few seconds.	26032	20	0	0	385	4	0	6
+26033	archer	Web Arrow	Fleetfooted Web Arrow	$prob chance to increase Combat Movement Speed by 10 for 12 seconds after a successful hit.	26033	42	0	0	205	3	0	6
+26034	archer	Restraining Arrow	Energetic Restraining Arrow	Decreases cooldown by $value.	26034	54	0	0	245	3	0	6
+26035	archer	Restraining Arrow	Sapping Restraining Arrow	$prob chance to stun target for 3 seconds.	26035	54	0	0	290	5	0	6
+26036	archer	Velik's Mark	Lingering Velik's Mark	Increases effect duration by $value.	26036	30	0	0	390	3	0	6
+26037	archer	Velik's Mark	Blazing Velik's Mark	Speeds casting of Poison Arrow by 25% for a few seconds.	26037	30	0	0	310	3	0	6
+26038	archer	Arrow Volley	Persistent Arrow Volley	$prob chance to eliminate cooldown.	26038	20	0	0	320	3	0	6
+26039	archer	Arrow Volley	Blazing Arrow Volley	Speeds casting of Stunning Trap by 40% for a few seconds.	26039	26	0	0	190	4	0	6
+26040	archer	Close Quarters	Empowered Close Quarters	Increases skill damage by $value.	26040	20	0	0	435	2	0	6
+26041	archer	Rapid Fire	Spirited Rapid Fire	Increases MP replenishment by $value per successful hit.	26041	20	0	0	270	4	0	6
+26042	archer	Sequential Fire	Energetic Sequential Fire	Decreases cooldown by $value.	26042	24	0	0	500	4	0	6
+26043	archer	Breakaway Bolt	Fleetfooted Breakaway Bolt	$prob chance to increase Combat Movement Speed by 10 for 8 seconds.	26043	20	0	0	195	3	0	6
+26044	archer	Breakaway Bolt	Test	No Effect	26044		0	0		1000	0	6
+26045	archer	Feign Death	Regenerating Feign Death	Heals 2% of total HP every 1 second for 10 seconds.	26045	38	0	0	155	6	0	6
+26046	archer	Incendiary Trap	Powerlinked Incendiary Trap	Increases skill damage of Arrow Volley by 25% for a few seconds.	26046	26	0	0	225	4	0	6
+26047	archer	Rain of Arrows	Empowered Rain of Arrows	Increases skill damage by $value.	26047	58	0	0	500	5	0	6
+26048	archer	Stunning Trap	Blazing Stunning Trap	Speeds casting of Penetrating Arrow by 30% for a few seconds.	26048	34	0	0	260	3	0	6
+26049	archer	Arrow Volley	Blazing Arrow Volley	Speeds casting of Penetrating Arrow by 30% for a few seconds.	26049	20	0	0	370	3	0	6
+26050	archer	Poison Arrow	Blazing Poison Arrow	Speeds casting of Radiant Arrow by 30% for a few seconds.	26050	22	0	0	400	4	0	6
+26051	archer	Sequential Fire	Blazing Sequential Fire	Speeds charging of Penetrating Arrow by 30% for a few seconds.	26051	24	0	0	335	3	0	6
+26053	archer	Penetrating Arrow	Empowered Penetrating Arrow	Increases skill damage by $value.	26053		1	26004	500	4	0	6
+26054	archer	Penetrating Arrow	Slick Penetrating Arrow	Eliminates slowed movement restriction.	26054		1	26012	550	3	0	6
+26055	archer	Radiant Arrow	Slick Radiant Arrow	Eliminates slowed movement restriction.	26055		1	26011	550	3	0	6
+26056	archer	Backstep	Energetic Backstep	Decreases cooldown by $value.	26056		1	26018	455	2	0	6
+26057	archer	Penetrating Arrow	Longshot Penetrating Arrow	Increases range by 3 meters.	26057		1	26002	420	2	0	6
+26058	archer	Slow Trap	Lingering Slow Trap	Increases effect duration by $value.	26058		1	26006	180	3	0	6
+26059	archer	Arrow Volley	Blazing Arrow Volley	Speeds casting of Penetrating Arrow by 40% for a few seconds.	26059		1	26049	500	3	0	6
+26060	archer	Arrow Volley	Blazing Arrow Volley	Speeds casting of Stunning Trap by 50% for a few seconds.	26060		1	26039	170	4	0	6
+26061	archer	Arrow Volley	Persistent Arrow Volley	$prob chance to eliminate cooldown.	26061		1	26038	330	2	0	6
+26062	archer	Feign Death	Regenerating Feign Death	Heals 3% of total HP every 1 second for 10 seconds.	26062		1	26045	240	4	0	6
+26063	archer	Radiant Arrow	Sanative Radiant Arrow	Decreases HP consumption by $value.	26063		1	0	315	4	0	6
+26064	archer	Radiant Arrow	Carving Radiant Arrow	Doubles the chance to crit.	26064		1	0	295	4	0	6
+26065	archer	Close Quarters	Fleetfooted Close Quarters	Increases Combat Movement Speed by 50 for 3 seconds.	26065		1	0	240	4	0	6
+26066	archer	Close Quarters	Lingering Close Quarters	Increases effect duration by $value.	26066		1	0	350	4	0	6
+26067	archer	Breakaway Bolt	Slowing Breakaway Bolt	$prob chance to decrease opponent's Movement Speed by 40% for 6 seconds.	26067		1	0	325	4	0	6
+26068	archer	Stunning Trap Arrow	Energetic Stunning Trap Arrow	Decreases cooldown by $value.	26068	60	0	0	300	4	0	6
+26069	archer	Snare	Energetic Snare	Decreases cooldown by $value.	26069	30	0	0	210	3	0	6
+26070	archer	Incendiary Trap Arrow	Empowered Incendiary Trap Arrow	Increases skill damage by $value.	26070	60	0	0	500	5	0	6
+26071	archer	Stunning Trap Arrow	Energetic Stunning Trap Arrow	Decreases cooldown by $value.	26071		1	26068	345	3	0	6
+26072	archer	Thunderbolt	Carving Thunderbolt	Doubles the chance to crit.	26072		1	0	250	4	0	6
+26073	archer	Incendiary Trap Arrow	Empowered Incendiary Trap Arrow	Increases skill damage by $value.	26073		1	26070	445	5	0	6
+26074	archer	Breakaway Bolt	Energetic Breakaway Bolt	Decreases cooldown by $value.	26074		1	26022	375	3	0	6
+26075	archer	Restraining Arrow	Energetic restraining Arrow	Decreases cooldown by $value.	26075		1	26034	305	2	0	6
+26076	archer	Rapid Fire	Empowered Rapid Fire	Increases skill damage by $value.	26076		1	0	220	4	0	6
+26077	archer	Rain of Arrows	Hastened Rain of Arrows	Speeds casting by $value.	26077		1	0	500	3	0	6
+26084	archer	Tenacity	Balancing Tenacity	Increases balance by 150% for 15 seconds.	26084	61	0	0	300	5	0	6
+26085	archer	Tenacity	Balancing Tenacity	Doubles balance for 15 seconds.	26085		1	26084	350	5	0	6
+26086	archer	Tenacity	Spirited Tenacity	$prob chance to replenish 6% of your total MP every second.	26086		1	0	450	3	0	6
+26087	archer	Tenacity	Energetic Tenacity	Decreases cooldown by $value.	26087	61	0	0	230	4	0	6
+26088	archer	Tenacity	Energetic Tenacity	Decreases cooldown by $value.	26088		1	26087	230	3	0	6
+26089	archer	Thunderbolt	Hastened Thunderbolt	Speeds casting time by $value.	26089		1	0	470	4	0	6
+26090	archer	Thunderbolt	Empowered Thunderbolt	Increases skill damage by $value.	26090		1	26091	550	4	0	6
+26091	archer	Thunderbolt	Empowered Thunderbolt	Increases skill damage by $value.	26091	65	0	0	500	5	0	6
+26092	archer	Radiant Arrow	Longshot Radiant Arrow	Increases range by 5 meters.	26092		2	26001	430	2	0	6
+26093	archer	Stunning Trap	Lingering Stunning Trap	Increases effect duration by $value.	26093		1	26007	365	4	0	6
+26094	archer	Web Arrow	Fleetfooted Web Arrow	$prob chance to increase Combat Movement Speed by 10 for 12 seconds after a successful hit.	26094		1	26033	205	3	0	6
+26095	archer	Sequential Fire	Energetic Sequential Fire	Decreases cooldown by $value.	26095		1	26042	500	3	0	6
+26096	archer	Rain of Arrows	Empowered Rain of Arrows	Increases skill damage by $value.	26096		1	26047	500	4	0	6
+26097	archer	Penetrating Arrow	Longshot Penetrating Arrow	Increases range by 5 meters.	26097		2	26002	420	2	0	6
+26098	archer	Arrow Volley	Persistent Arrow Volley	$prob chance to eliminate cooldown.	26098		2	26038	330	2	0	6
+26099	archer	Radiant Arrow	Carving Radiant Arrow	Triples the chance to crit.	26099		2	26064	295	3	0	6
+26100	archer	Thunderbolt	Carving Thunderbolt	Triples the chance to crit.	26100		2	26072	250	3	0	6
+26101	archer	Incendiary Trap Arrow	Empowered Incendiary Trap Arrow	Increases skill damage by $value.	26101		2	26070	445	4	0	6
+26102	archer	Thunderbolt	Hastened Thunderbolt	Speeds casting time by $value.	26102		2	26089	470	3	0	6
+26103	archer	Thunderbolt	Empowered Thunderbolt	Increases skill damage by $value.	26103		2	26091	550	3	0	6
+27000	elementalist	Titanic Favor	Multiplicative Titanic Favor	Increases number of lock-on targets by $value.	27000	20	0	0	500	2	0	6
+27002	elementalist	Vow of Rebirth	Energetic Vow of Rebirth	Decreases cooldown by $value.	27002	42	0	0	500	3	0	6
+27003	elementalist	Arun's Cleansing Touch	Multiplicative Arun's Cleansing	Increases number of lock-on targets by $value.	27003	20	0	0	500	2	0	6
+27005	elementalist	Shara's Lash	Lingering Shara's Lash	Increases effect duration by $value.	27005	50	0	0	345	5	0	6
+27006	elementalist	Ancient Binding	Lingering Ancient Binding	Increases effect duration by $value.	27006	42	0	0	200	5	0	6
+27007	elementalist	Aura of Rejuvenation	Test	No Effect	27007		0	0		1000	0	6
+27008	elementalist	Aura of Tenacity	Test	No Effect	27008		0	0		1000	0	6
+27009	elementalist	Aura of the Merciless	Brilliant Aura of the Merciless	Reduces MP cost by $value.	27009	50	0	0	200	5	0	6
+27010	elementalist	Aura of the Swift	Brilliant Aura of the Swift	Reduces MP cost by $value.	27010	20	0	0	190	2	0	6
+27011	elementalist	Sharan Bolt	Empowered Sharan Bolt	Increases skill damage by $value.	27011	20	0	0	330	3	0	6
+27012	elementalist	Metamorphic Blast	Empowered Metamorphic Blast	Increases skill damage by $value.	27012	20	0	0	285	5	0	6
+27013	elementalist	Corruption Ring	Test	No Effect	27013		0	0		1000	0	6
+27014	elementalist	Corruption Ring	Spirited Corruption Ring	Increases MP replenishment of Infusion Ring by 50%.	27014	20	0	0	175	3	0	6
+27015	elementalist	Corruption Ring	Grounding Corruption Ring	Reduces damage taken by $value while casting.	27015	20	0	0	295	4	0	6
+27016	elementalist	Teleport Jaunt	Energetic Teleport Jaunt	Decreases cooldown by $value.	27016	20	0	0	445	3	0	6
+27017	elementalist	Mana Infusion	Spirited Mana Infusion	Increases MP replenishment by $value.	27017	20	0	0	500	5	0	6
+27019	elementalist	Mana Extraction	Past Glyph Shard	This old fragmented glyph is no longer used.	27019		0	0		2	0	6
+27020	elementalist	Retaliate	Empowered Retaliate	Increases skill damage by $value.	27020	20	0	0	185	4	0	6
+27021	elementalist	Metamorphic Smite	Energetic Metamorphic Smite	Decreases cooldown by $value.	27021	20	0	0	275	3	0	6
+27022	elementalist	Thrall of Protection	Energetic Thrall of Protection	Decreases cooldown by $value.	27022	20	0	0	150	5	0	6
+27023	elementalist	Thrall of Wrath	Test	No Effect	27023		0	0		1000	0	6
+27024	elementalist	Thrall of Life	Energetic Thrall of Life	Decreases cooldown by $value.	27024	36	0	0	375	5	0	6
+27025	elementalist	Summon Party	Brilliant Summon Party	Reduces MP cost by $value.	27025	22	0	0	145	2	0	6
+27026	elementalist	Resurrect	Brilliant Resurrect	Reduces MP cost by $value.	27026	20	0	0	250	3	0	6
+27027	elementalist	Volley of Curses	Lingering Volley of Curses	Increases effect duration by $value.	27027	20	0	0	240	5	0	6
+27029	elementalist	Resurrect	Energetic Resurrect	Decreases cooldown by $value.	27029	20	0	0	365	5	0	6
+27030	elementalist	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	27030	20	0	0	350	4	0	6
+27031	elementalist	Sonorous Dreams	Brilliant Sonorous Dreams	Reduces MP cost by $value.	27031	20	0	0	155	5	0	6
+27032	elementalist	Regression	Energetic Regression	Decreases cooldown by $value.	27032	24	0	0	400	4	0	6
+27033	elementalist	Mire	Energetic Mire	Decreases cooldown by $value.	27033	32	0	0	265	6	0	6
+27034	elementalist	Curse of Exhaustion	Energetic Curse of Exhaustion	Decreases cooldown by $value.	27034	46	0	0	205	3	0	6
+27035	elementalist	Curse of Confusion	Lingering Curse of Confusion	Increases effect duration by $value.	27035	56	0	0	300	5	0	6
+27036	elementalist	Metamorphic Smite	Influential Metamorphic Smite	Reduces MP cost of Metamorphic Blast by 41 for a few seconds.	27036	20	0	0	160	4	0	6
+27037	elementalist	Volley of Curses	Influential Volley of Curses	Reduces MP cost of Volley of Curses by 33 for a few seconds.	27037	20	0	0	130	3	0	6
+27039	elementalist	Corruption Ring	Influential Corruption Ring	Reduces MP cost of Arun's Tears by 100 for a few seconds.	27039	28	0	0	135	3	0	6
+27040	elementalist	Volley of Curses	Multiplicative Volley of Curses	Increases number of lock-on targets by $value.	27040	20	0	0	175	3	0	6
+27041	elementalist	Ancient Binding	Numbing Ancient Binding	$prob chance to decrease opponent's Attack Speed by 30% for 6 seconds.	27041	42	0	0	180	5	0	6
+27042	elementalist	Metamorphic Smite	Empowered Metamorphic Smite	Increases skill damage by $value.	27042	20	0	0	270	4	0	6
+27043	elementalist	Summon Party	Energetic Summon Party	Decreases cooldown by $value.	27043	22	0	0	305	1	0	6
+27044	elementalist	Mana Infusion	Hastened Mana Infusion	Speeds casting by $value.	27044	20	0	0	360	3	0	6
+27045	elementalist	Arun's Tears	Blazing Arun's Tears	Speeds casting of Arun's Vitae by 25% for a few seconds.	27045	28	0	0	320	4	0	6
+27046	elementalist	Thrall of Vengeance	Empowered Thrall of Vengeance	Increases the thrall's damage by 25%.	27046	20	0	0	310	3	0	6
+27047	elementalist	Thrall of Vengeance	Fortified Thrall of Vengeance	Increases the thrall's Defense  by 25%.	27047	20	0	0	225	3	0	6
+27048	elementalist	Thrall of Vengeance	Lingering Thrall of Vengeance	Increases the thrall's duration by 25%.	27048	20	0	0	210	3	0	6
+27049	elementalist	Resurrect	Hastened Resurrect	Speeds casting by $value.	27049	20	0	0	440	5	0	6
+27051	elementalist	Thrall of Protection	Empowered Thrall of Protection	Increases the thrall's damage by 25%.	27051	20	0	0	260	4	0	6
+27052	elementalist	Thrall of Protection	Fortified Thrall of Protection	Increases the thrall's Defense  by 25%.	27052	20	0	0	245	3	0	6
+27053	elementalist	Teleport Jaunt	Blazing Teleport Jaunt	Speeds casting of Arun's Vitae by 25% for a few seconds.	27053	20	0	0	400	4	0	6
+27054	elementalist	Teleport Jaunt	Blazing Teleport Jaunt	Speeds casting of Thrall of Life by 25% for a few seconds.	27054	20	0	0	500	4	0	6
+27055	elementalist	Thrall of Wrath	Energetic Thrall of Wrath	Decreases cooldown by $value.	27055	38	0	0	355	5	0	6
+27056	elementalist	Thrall of Wrath	Empowered Thrall of Wrath	Increases the thrall's damage by 25%.	27056	38	0	0	335	4	0	6
+27057	elementalist	Thrall of Wrath	Hastened Thrall of Wrath	Speeds casting by $value.	27057	38	0	0	220	4	0	6
+27058	elementalist	Vow of Rebirth	Altruistic Vow of Rebirth	Caster receives effect of Vow of Rebirth when used on another target.	27058	42	0	0	500	2	0	6
+27059	elementalist	Arun's Vitae	Blazing Arun's Vitae	Speeds casting of Arun's Tears by 25% for a few seconds.	27059	28	0	0	370	3	0	6
+27060	elementalist	Titanic Favor	Longshot Titanic Favor	Increases range by 3 meters.	27060	20	0	0	500	4	0	6
+27062	elementalist	Teleport Jaunt	Energetic Teleport Jaunt	Decreases cooldown by $value.	27062		1	27016	500	2	0	6
+27063	elementalist	Arun's Cleansing Touch	Multiplicative Arun's Cleansing	Increases number of lock-on targets by $value.	27063		1	27003	455	1	0	6
+27064	elementalist	Vow of Rebirth	Altruistic Vow of Rebirth	Caster receives effect of Vow of Rebirth when used on another target.	27064		1	27058	460	1	0	6
+27065	elementalist	Thrall of Life	Energetic Thrall of Life	Decreases cooldown by $value.	27065		1	27024	500	2	0	6
+27066	elementalist	Shara's Lash	Lingering Shara's Lash	Increases effect duration by $value.	27066		1	27005	395	4	0	6
+27067	elementalist	Titanic Favor	Longshot Titanic Favor	Increases range by 3 meters.	27067		1	27060	475	3	0	6
+27068	elementalist	Volley of Curses	Influential Volley of Curses	Reduces MP cost of Volley of Curses by 33 for a few seconds.	27068		1	27037	140	2	0	6
+27069	elementalist	Thrall of Vengeance	Lingering Thrall of Vengeance	Increases the thrall's duration by 35%.	27069		1	27048	230	2	0	6
+27070	elementalist	Sonorous Dreams	Brilliant Sonorous Dreams	Reduces MP cost by $value.	27070		1	27031	215	2	0	6
+27071	elementalist	Shara's Lash	Fleetfooted Shara's Lash	Increases Combat Movement Speed by 50 for 3 seconds after a successful hit.	27071		1	0	280	4	0	6
+27072	elementalist	Retaliate	Opportunistic Retaliate	Eliminates the cooldown of Teleport Jaunt.	27072		1	0	500	3	0	6
+27073	elementalist	Retaliate	Balancing Retaliate	Increases balance by 500% for 2 seconds.	27073		1	0	260	2	0	6
+27074	elementalist	Vow of Rebirth	Longshot Vow of Rebirth	Increases range by 3 meters.	27074		1	0	475	3	0	6
+27075	elementalist	Sonorous Dreams	Energetic Sonorous Dreams	Decreases cooldown by $value.	27075		1	0	325	4	0	6
+27076	elementalist	Thrall of Protection	United Thrall of Protection	Increases the Endurance of all party members by 10% for 10 minutes.	27076		1	0	490	4	0	6
+27077	elementalist	Warding Totem	Brilliant Warding Totem	Decreases MP consumption by $value.	27077	60	0	0	235	3	0	6
+27078	elementalist	Warding Totem	Restorative Warding Totem	Increases HP recovery by 20%.	27078		1	0	385	3	0	6
+27079	elementalist	Resurrect	Hastened Resurrect	Speeds casting by $value.	27079		1	27049	405	4	0	6
+27080	elementalist	Vow of Rebirth	Energetic Vow of Rebirth	Decreases cooldown by $value.	27080		1	27002	385	2	0	6
+27081	elementalist	Arun's Vitae	Restorative Arun's Vitae	Immediately recovers 20% of total HP.	27081		1	0	500	2	0	6
+27082	elementalist	Thrall of Life	Lingering Thrall of Life	Increases the thrall's duration by 25%.	27082		1	0	390	2	0	6
+27084	elementalist	Volley of Curses	Enfeebling Volley of Curses	Decreases a target's Endurance by 9% for 21 seconds.	27084		1	0	500	4	0	6
+27085	elementalist	Resurrect	Hearty Resurrect	Restores 100% of HP and MP upon resurrecting.	27085		1	0	500	4	0	6
+27086	elementalist	Contagion	Lingering Contagion	Increases effect duration by $value.	27086	61	0	0	240	5	0	6
+27087	elementalist	Boomerang Pulse	Brilliant Boomerang Pulse	Reduces MP cost by $value.	27087	63	0	0	400	3	0	6
+27088	elementalist	Boomerang Pulse	Energetic Boomerang Pulse	Decreases cooldown by $value.	27088	63	0	0	500	4	0	6
+27089	elementalist	Boomerang Pulse	Energetic Boomerang Pulse	Decreases cooldown by $value.	27089		1	27088	550	3	0	6
+27090	elementalist	Vow of Rebirth	Multiplicative Vow of Rebirth	Increases number of lock-on targets by $value.	27090		2	0	500	3	0	6
+27091	elementalist	Metamorphic Blast	Empowered Metamorphic Blast	Increases skill damage by $value.	27091		2	27012	285	3	0	6
+27092	elementalist	Corruption Ring	Grounding Corruption Ring	Reduces damage taken by $value while casting.	27092		1	27015	295	3	0	6
+27093	elementalist	Resurrect	Energetic Resurrect	Decreases cooldown by $value.	27093		1	27029	365	4	0	6
+27094	elementalist	Thrall of Protection	Empowered Thrall of Protection	Increases the thrall's damage by 30%	27094		1	27051	260	4	0	6
+27095	elementalist	Teleport Jaunt	Energetic Teleport Jaunt	Decreases cooldown by $value.	27095		2	27016	500	2	0	6
+27096	elementalist	Titanic Favor	Longshot Titanic Favor	Increases range by 5 meters.	27096		2	27060	475	2	0	6
+27097	elementalist	Retaliate	Opportunistic Retaliate	Eliminates the cooldown of Teleport Jaunt.	27097		2	27072	500	2	0	6
+27098	elementalist	Thrall of Protection	United Thrall of Protection	Increases the Endurance of all party members by 10% for 10 minutes.	27098		2	27076	490	2	0	6
+27099	elementalist	Warding Totem	Restorative Warding Totem	Increases HP recovery by 25%	27099		2	27078	385	3	0	6
+27100	elementalist	Volley of Curses	Enfeebling Volley of Curses	Decreases a target's Endurance by 9% for 21 seconds.	27100		2	27084	500	3	0	6
+27101	elementalist	Contagion	Lingering Contagion	Increases effect duration by $value.	27101		1	27086	240	4	0	6
+27102	elementalist	Metamorphic Blast	Persistent Metamorphic Blast	$prob chance to eliminate cooldown.	27102	20	0	0	400	4	0	6
+28000	priest	Heal Thyself	Restorative Heal Thyself	Increases HP recovery by $value.	28000	20	0	0	390	5	0	6
+28001	priest	Healing Circle	Restorative Healing Circle	Increases HP recovery by $value.	28001	26	0	0	375	5	0	6
+28002	priest	Regeneration Circle	Lingering Regeneration Circle	Increases effect duration by $value.	28002	20	0	0	305	5	0	6
+28003	priest	Focus Heal	Multiplicative Focus Heal	Increases number of lock-on targets by $value.	28003	20	0	0	500	2	0	6
+28004	priest	Kaia's Shield	Energetic Kaia's Shield	Decreases cooldown by $value.	28004	42	0	0	500	4	0	6
+28005	priest	Purifying Circle	Energetic Purifying Circle	Decreases cooldown by $value.	28005	20	0	0	500	2	0	6
+28006	priest	Blessing of Shakan	Lingering Blessing of Shakan	Increases effect duration by $value.	28006	26	0	0	400	2	0	6
+28009	priest	Blessing of Balder	Lingering Blessing of Balder	Increases effect duration by $value.	28009	34	0	0	365	2	0	6
+28012	priest	Divine Radiance	Empowered Divine Radiance	Increases skill damage by $value.	28012	20	0	0	325	3	0	6
+28013	priest	Metamorphic Blast	Brilliant Metamorphic Blast	Reduces MP cost by $value.	28013	20	0	0	240	4	0	6
+28014	priest	Shocking Implosion	Powerlinked Shocking Implosion	Increases skill damage of Final Reprisal by 25% for a few seconds.	28014	20	0	0	295	5	0	6
+28018	priest	Regeneration Circle	Energetic Regeneration Circle	Decreases cooldown by $value.	28018	20	0	0	190	4	0	6
+28019	priest	Mana Infusion	Spirited Mana Infusion	Increases MP replenishment by $value.	28019	20	0	0	265	5	0	6
+28020	priest	Mana Extraction	Past Glyph Shard	This old fragmented glyph is no longer used.	28020		0	0		2	0	6
+28021	priest	Prayer of Peace	Hastened Prayer of Peace	Speeds casting by $value.	28021	36	0	0	195	3	0	6
+28022	priest	Arise	Energetic Arise	Decreases cooldown by $value.	28022	24	0	0	380	2	0	6
+28023	priest	Retaliate	Empowered Retaliate	Increases skill damage by $value.	28023	20	0	0	225	3	0	6
+28024	priest	Triple Nemesis	Powerlinked Triple Nemesis	Increases skill damage of Metamorphic Blast by 25% for a few seconds.	28024	20	0	0	275	5	0	6
+28026	priest	Resurrect	Brilliant Resurrect	Reduces MP cost by $value.	28026	20	0	0	160	4	0	6
+28027	priest	Blessing of Shakan	Boosted Blessing of Shakan	Increases the non-combat Movement Speed bonus by an additional $value.	28027	20	0	0	420	3	0	6
+28028	priest	Summon Party	Brilliant Summon Party	Reduces MP cost by $value.	28028	22	0	0	155	2	0	6
+28030	priest	Fiery Escape	Brilliant Fiery Escape	Reduces MP cost by $value.	28030	20	0	0	150	4	0	6
+28031	priest	Mana Charge	Hastened Mana Charge	Speeds charging by $value.	28031	20	0	0	500	3	0	6
+28032	priest	Resurrect	Energetic Resurrect	Decreases cooldown by $value.	28032	20	0	0	345	3	0	6
+28033	priest	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	28033	20	0	0	335	3	0	6
+28034	priest	Ishara's Lullaby	Energetic Ishara's Lullaby	Decreases cooldown by $value.	28034	20	0	0	370	3	0	6
+28035	priest	Guardian Sanctuary	Energetic Guardian Sanctuary	Decreases cooldown by $value.	28035	50	0	0	315	4	0	6
+28036	priest	Divine Respite	Energetic Divine Respite	Decreases cooldown by $value.	28036	56	0	0	250	4	0	6
+28037	priest	Plague of Exhaustion	Energetic Plague of Exhaustion	Decreases cooldown by $value.	28037	58	0	0	260	4	0	6
+28038	priest	Regeneration Circle	Influential Regeneration Circle	Reduces MP cost of Focus Heal by 85 for a few seconds.	28038	20	0	0	145	3	0	6
+28039	priest	Mana Charge	Longshot Mana Charge	Increases range by 4 meters.	28039	20	0	0	500	2	0	6
+28040	priest	Kaia's Shield	Grounded Kaia's Shield	Increases caster's Endurance by 30% for 12 seconds.	28040	42	0	0	415	5	0	6
+28041	priest	Blessing of Shakan	Fleetfooted Blessing of Shakan	Increases caster's Combat Movement Speed by 15 for 10 minutes.	28041	20	0	0	500	3	0	6
+28042	priest	Summon Party	Energetic Summon Party	Decreases cooldown by $value.	28042	22	0	0	290	1	0	6
+28043	priest	Mana Charge	Powerlinked Mana Charge	Increases skill damage of Shocking Implosion by 25% for a few seconds.	28043	20	0	0	175	4	0	6
+28044	priest	Mana Infusion	Hastened Mana Infusion	Speeds casting by $value.	28044	20	0	0	270	3	0	6
+28045	priest	Resurrect	Hastened Resurrect	Speeds casting by $value.	28045	20	0	0	405	4	0	6
+28046	priest	Energy Stars	Lingering Energy Stars	Increases effect duration by $value.	28046	40	0	0	500	5	0	6
+28047	priest	Energy Stars	Savage Energy Stars	Increases effect of Energy Stars by $value.	28047	40	0	0	500	5	0	6
+28048	priest	Restorative Burst	Lingering Restorative Burst	Increases effect duration by $value.	28048	20	0	0	500	3	0	6
+28049	priest	Restorative Burst	Brilliant Restorative Burst	Reduces MP cost by $value.	28049	20	0	0	200	4	0	6
+28050	priest	Final Reprisal	Brilliant Final Reprisal	Reduces MP cost by $value.	28050	20	0	0	230	4	0	6
+28051	priest	Final Reprisal	Persistent Final Reprisal	$prob chance to eliminate cooldown.	28051	20	0	0	310	6	0	6
+28052	priest	Final Reprisal	Slowing Final Reprisal	$prob chance to decrease opponent's Movement Speed by 30% for 4 seconds.	28052	20	0	0	255	5	0	6
+28053	priest	Metamorphic Blast	Numbing Metamorphic Blast	$prob chance to decrease opponent's Attack Speed by 15% for 7 seconds.	28053	20	0	0	285	4	0	6
+28054	priest	Triple Nemesis	Enfeebling Triple Nemesis	$prob chance to decrease a target's Endurance by 10% for 12 seconds.$BRDoes not stack with Kaia's Binding.	28054	20	0	0	500	4	0	6
+28055	priest	Focus Heal	Longshot Focus Heal	Increases range by 3 meters.	28055	20	0	0	500	3	0	6
+28057	priest	Heal Thyself	Restorative Heal Thyself	Increases HP recovery by $value.	28057		1	28000	385	4	0	6
+28058	priest	Shocking Implosion	Powerlinked Shocking Implosion	Increases skill damage of Final Reprisal by 25% for a few seconds.	28058		1	28014	235	4	0	6
+28059	priest	Mana Infusion	Spirited Mana Infusion	Increases MP replenishment by $value.	28059		1	28019	170	4	0	6
+28060	priest	Triple Nemesis	Powerlinked Triple Nemesis	Increases skill damage of Metamorphic Blast by 25% for a few seconds.	28060		1	28024	215	4	0	6
+28061	priest	Blessing of Shakan	Fleetfooted Blessing of Shakan	Increases caster's Combat Movement Speed by 15 for 10 minutes.	28061		1	28041	455	2	0	6
+28062	priest	Regeneration Circle	Energetic Regeneration Circle	Decreases cooldown by $value.	28062		1	28018	165	4	0	6
+28063	priest	Plague of Exhaustion	Energetic Plague of Exhaustion	Decreases cooldown by $value.	28063		1	28037	300	4	0	6
+28064	priest	Restorative Burst	Brilliant Restorative Burst	Reduces MP cost by $value.	28064		1	28049	210	3	0	6
+28065	priest	Resurrect	Brilliant Resurrect	Reduces MP cost by $value.	28065		1	28026	205	2	0	6
+28066	priest	Fiery Escape	Energetic Fiery Escape	Decreases cooldown by $value.	28066		1	0	320	4	0	6
+28067	priest	Kaia's Shield	Regenerating Kaia's Shield	Recovers 5% of total HP every 2 seconds for 6 seconds for all targets.	28067		1	0	430	4	0	6
+28068	priest	Mana Charge	Spirited Mana Charge	Increases MP replenishment by $value.	28068		1	28072	550	3	0	6
+28069	priest	Focus Heal	Soothing Focus Heal	Decreases aggro by $value	28069		1	0	245	4	0	6
+28070	priest	Guardian Sanctuary	Balancing Guardian Sanctuary	Doubles Balance for 30 seconds.	28070		1	0	185	4	0	6
+28071	priest	Arise	Lingering Arise	Increases effect duration by $value.	28071		1	0	180	3	0	6
+28072	priest	Mana Charge	Spirited Mana Charge	Increases MP replenishment by $value.	28072	20	0	0	500	3	0	6
+28073	priest	Healing Immersion	Persistent Healing Immersion	$prob chance to eliminate cooldown.	28073	60	0	0	410	5	0	6
+28074	priest	Grace of Resurrection	Energetic Grace of Resurrection	Decreases cooldown by $value.	28074	60	0	0	350	2	0	6
+28075	priest	Healing Immersion	Restorative Healing Immersion	Increases HP recovery by $value.	28075		1	0	280	5	0	6
+28076	priest	Blessing of Shakan	Boosted Blessing of Shakan	Increases the non-combat Movement Speed bonus by an additional $value.	28076		1	28027	340	2	0	6
+28077	priest	Mana Infusion	Hastened Mana Infusion	Speeds casting by $value.	28077		1	28044	220	2	0	6
+28078	priest	Restorative Burst	Spirited Restorative Burst	Increases MP replenishment of all targets by 50 MP per second.	28078		1	0	500	5	0	6
+28079	priest	Resurrect	Hearty Resurrect	Restores 100% of HP and MP upon resurrecting.	28079		1	0	500	3	0	6
+28082	priest	Divine Intervention	Energetic Divine Intervention	Decreases cooldown by $value.	28082		1	0	400	4	0	6
+28083	priest	Divine Intervention	Brilliant Divine Intervention	Reduces MP cost by $value.	28083		1	0	300	3	0	6
+28084	priest	Divine Intervention	Longshot Divine Intervention	Increases range by 4 meters.	28084	65	0	0	350	4	0	6
+28085	priest	Zenobia's Vortex	Energetic Zenobia's Vortex	Decreases cooldown by $value.	28085	61	0	0	450	4	0	6
+28086	priest	Zenobia's Vortex	Energetic Zenobia's Vortex	Decreases cooldown by $value.	28086		1	28085	500	3	0	6
+28087	priest	Zenobia's Vortex	Brilliant Zenobia's Vortex	Reduces MP cost by $value.	28087	61	0	0	300	3	0	6
+28088	priest	Zenobia's Vortex	Empowered Zenobia's Vortex	Increases skill damage by $value.	28088	61	0	0	500	5	0	6
+28089	priest	Kaia's Shield	Energetic Kaia's Shield	Decreases cooldown by $value.	28089		2	28004	500	3	0	6
+28090	priest	Resurrect	Energetic Resurrect	Decreases cooldown by $value.	28090		1	28032	345	3	0	6
+28091	priest	Mana Charge	Powerlinked Mana Charge	Increases skill damage of Shocking Implosion by 40% for a few seconds.	28091		1	28043	175	4	0	6
+28092	priest	Final Reprisal	Persistent Final Reprisal	$prob chance to eliminate cooldown.	28092		1	28051	310	5	0	6
+28093	priest	Triple Nemesis	Enfeebling Triple Nemesis	$prob chance to decrease a target's Endurance by 10% for 12 seconds.$BRDoes not stack with Kaia's Binding.	28093		1	28054	500	3	0	6
+28094	priest	Shocking Implosion	Powerlinked Shocking Implosion	Increases skill damage of Final Reprisal by 40% for a few seconds.	28094		2	28014	235	4	0	6
+28095	priest	Plague of Exhaustion	Energetic Plague of Exhaustion	Decreases cooldown by $value.	28095		2	28037	300	3	0	6
+28096	priest	Fiery Escape	Energetic Fiery Escape	Decreases cooldown by $value.	28096		2	28066	320	3	0	6
+28097	priest	Mana Charge	Spirited Mana Charge	Increases MP replenishment by $value.	28097		2	28072	550	2	0	6
+28098	priest	Resurrect	Hearty Resurrect	Restores 100% of HP and MP upon resurrecting.	28098		2	28079	500	2	0	6
+28099	priest	Divine Intervention	Longshot Divine Intervention	Increases range by 4 meters.	28099		1	28084	350	3	0	6
+28100	priest	Zenobia's Vortex	Energetic Zenobia's Vortex	Decreases cooldown by $value.	28100		2	28085	500	3	0	6
+28101	priest	Backstep	Energetic Backstep	Decreases cooldown by $value.	28101	20	0	0	445	2	0	6
+29000	soulless	Spiral Barrage	Empowered Spiral Barrage	$prob chance to inflict double damage.	29000	58	0	0	400	7	0	6
+29001	soulless	Spiral Barrage	Spirited Spiral Barrage	Increases MP replenishment by $value.	29001	58	0	0	400	4	0	6
+29002	soulless	Spiral Barrage	Swift Spiral Barrage	$prob chance to increase Attack Speed by 15% for 10 seconds.	29002	58	0	0	400	4	0	6
+29003	soulless	Spiral Barrage	Carving Spiral Barrage	Doubles the chance to crit.	29003	60	0	0	450	5	0	6
+29004	soulless	Double Shear	Restorative Double Shear	Recovers $value of total HP on each hit.	29004	58	0	0	1000	4	0	6
+29005	soulless	Double Shear	Powerlinked Double Shear	Increases skill damage of Grim Strike by 30% for 5 seconds.	29005	58	0	0	500	5	0	6
+29006	soulless	Sundering Strike	Empowered Sundering Strike	Increases skill damage by $value.	29006	58	0	0	500	4	0	6
+29007	soulless	Sundering Strike	Carving Sundering Strike	Doubles the chance to crit.	29007	60	0	0	500	4	0	6
+29009	soulless	Grim Strike	Persistent Grim Strike	$prob chance to eliminate cooldown.	29009	58	0	0	500	4	0	6
+29010	soulless	Grim Strike	Blazing Grim Strike	Speeds casting of Double Shear by 25% for a few seconds.	29010	60	0	0	400	2	0	6
+29011	soulless	Death Spiral	Empowered Death Spiral	Increases skill damage by $value.	29011	60	0	0	420	4	0	6
+29012	soulless	Death Spiral	Lingering Death Spiral	Increases effect duration by $value.	29012	58	0	0	420	4	0	6
+29013	soulless	Death Spiral	Powerlinked Death Spiral	Increases skill damage of Double Shear by 20% for a few seconds.	29013	58	0	0	420	3	0	6
+29014	soulless	Death Spiral	Powerlinked Death Spiral	Increases skill damage of Grim Strike by 30% for 5 seconds.	29014	58	0	0	500	3	0	6
+29015	soulless	Whipsaw	Empowered Whipsaw	Increases skill damage by $value.	29015	58	0	0	420	5	0	6
+29016	soulless	Whipsaw	Energetic Whipsaw	Decreases cooldown by $value.	29016	60	0	0	400	3	0	6
+29017	soulless	Whipsaw	Numbing Whipsaw	$prob chance to decrease opponent's Attack Speed by 10% for 7 seconds for each hit. (Slowing effects stack up to 5 times.)	29017	58	0	0	400	5	0	6
+29018	soulless	Smite	Energetic Smite	Decreases cooldown by $value.	29018	58	0	0	380	5	0	6
+29019	soulless	Smite	Lingering Smite	Increases effect duration by $value.	29019	58	0	0	370	5	0	6
+29020	soulless	Pendulum Strike	Empowered Pendulum Strike	Increases skill damage by $value.	29020	58	0	0	430	3	0	6
+29021	soulless	Pendulum Strike	Energetic Pendulum Strike	Decreases cooldown by $value.	29021	58	0	0	410	2	0	6
+29022	soulless	Pendulum Strike	Powerlinked Pendulum Strike	Increases the chance to crit of Whipsaw by 30% for a few seconds.	29022	58	0	0	500	4	0	6
+29023	soulless	Shadow Lash	Energetic Shadow Lash	Decreases cooldown by $value.	29023	59	0	0	300	5	0	6
+29024	soulless	Shadow Lash	Spirited Shadow Lash	Increases MP replenishment by $value.	29024	60	0	0	302	3	0	6
+29025	soulless	Shadow Burst	Energetic Shadow Burst	Decreases cooldown by $value.	29025	58	0	0	500	3	0	6
+29026	soulless	Shadow Burst	Hastened Shadow Burst	Speeds casting by $value.	29026	58	0	0	500	2	0	6
+29027	soulless	Soul Reversal	Brilliant Soul Reversal	Reduces MP cost of casting and switching positions by $value.	29027	60	0	0	430	3	0	6
+29028	soulless	Soul Reversal	Energetic Soul Reversal	Decreases cooldown by $value.	29028	60	0	0	350	4	0	6
+29029	soulless	Retaliate	Empowered Retaliate	Increases skill damage by $value.	29029	58	0	0	340	3	0	6
+29030	soulless	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	29030	58	0	0	350	4	0	6
+29031	soulless	Retribution	Energetic Retribution	Decreases cooldown by $value.	29031	58	0	0	370	4	0	6
+29032	soulless	Shadow Reaping	Brilliant Shadow Reaping	Reduces MP cost by $value.	29032	60	0	0	500	2	0	6
+29033	soulless	Shadow Reaping	Lingering Shadow Reaping	Increases effect duration by $value.	29033	60	0	0	550	3	0	6
+29035	soulless	Cable Step	Energetic Cable Step	Decreases cooldown by $value.	29035	60	0	0	380	2	0	6
+29036	soulless	Cable Step	Blazing Cable Step	Speeds casting for your next skill by 50% after a successful hit.	29036	58	0	0	500	2	0	6
+29037	soulless	Cable Step	Powerlinked Cable Step	Increases skill damage of Shadow Burst by 20% for a few seconds.	29037	60	0	0	500	3	0	6
+29038	soulless	Shadow Step	Energetic Shadow Step	Decreases cooldown by $value.	29038	60	0	0	340	4	0	6
+29039	soulless	Shadow Step	Fleetfooted Shadow Step	Increases Combat Movement Speed by 50 for 2 seconds.	29039	58	0	0	360	6	0	6
+29046	soulless	Smite	Energetic Smite	Decreases cooldown by $value.	29046		1	29018	365	4	0	6
+29047	soulless	Whipsaw	Empowered Whipsaw	Increases skill damage by $value.	29047		1	29015	457	4	0	6
+29048	soulless	Death Spiral	Powerlinked Death Spiral	Increases skill damage of Grim Strike by 30% for 5 seconds.	29048		1	29014	600	2	0	6
+29049	soulless	Shadow Burst	Brilliant Shadow Burst	Reduces MP cost by $value.	29049		1	0	402	2	0	6
+29050	soulless	Grim Strike	Keen Grim Strike	Doubles Crit Factor.	29050		1	0	500	4	0	6
+29051	soulless	Shrouded Escape	Energetic Shrouded Escape	Decreases cooldown by $value.	29051		1	0	320	3	0	6
+29052	soulless	Shrouded Escape	Lingering Shrouded Escape	Increases effect duration by $value.	29052	65	0	0	430	3	0	6
+29053	soulless	Double Shear	Powerlinked Double Shear	Increases skill damage of Grim Strike by 30% for 5 seconds.	29053		1	29005	500	4	0	6
+29054	soulless	Sundering Strike	Empowered Sundering Strike	Increases skill damage by $value.	29054		1	29006	500	3	0	6
+29055	soulless	Sundering Strike	Carving Sundering Strike	Doubles the chance to crit.	29055		1	29007	500	3	0	6
+29056	soulless	Whipsaw	Energetic Whipsaw	Decreases cooldown by $value.	29056		1	29016	400	3	0	6
+29057	soulless	Pendulum Strike	Energetic Pendulum Strike	Decreases cooldown by $value.	29057		1	29021	410	2	0	6
+29058	soulless	Pendulum Strike	Powerlinked Pendulum Strike	Increases the chance to crit of Whipsaw by 30% for a few seconds.	29058		1	29022	500	3	0	6
+29059	soulless	Shadow Step	Fleetfooted Shadow Step	Increases Combat Movement Speed by 50 for 2 seconds.	29059		1	29039	360	5	0	6
+29060	soulless	Whipsaw	Empowered Whipsaw	Increases skill damage by $value.	29060		2	29015	457	4	0	6
+29061	soulless	Death Spiral	Powerlinked Death Spiral	Increases skill damage of Grim Strike by 35% for 5 seconds.	29061		2	29014	600	2	0	6
+29062	soulless	Grim Strike	Keen Grim Strike	Triples Crit Factor.	29062		2	29050	500	4	0	6
+29063	soulless	Shrouded Escape	Energetic Shrouded Escape	Decreases cooldown by $value.	29063		2	29051	320	3	0	6
+29064	soulless	Shrouded Escape	Lingering Shrouded Escape	Increases effect duration by $value.	29064		2	29052	430	3	0	6
+30000	Engineer	Blast	Empowered Blast	Increases skill damage by $value	30000	20	0	0	700	3	0	6
+30001	Engineer	Blast	Ardent Blast	Generates 5 Willpower on a sucessful hit.	30001	20	0	0	700	2	0	6
+30002	Engineer	Blast	Swift Blast	$prob chance to increase Attack Speed by 15% for 10 seconds.	30002	20	0	0	750	4	0	6
+30003	Engineer	Bombardment	Carving Bombardment	Doubles the chance to crit.	30003	28	0	0	900	5	0	6
+30004	Engineer	Bombardment	Hastened Bombardment	Speeds casting by $value	30004	28	0	0	750	4	0	6
+30005	Engineer	Scattershot	Empowered Scattershot	Increases skill damage by $value.	30005	20	0	0	1000	4	0	6
+30006	Engineer	Point Blank	Persistent Point Blank	$prob chance to eliminate cooldown for Arc Bomb.	30006	24	0	0	750	3	0	6
+30007	Engineer	Scattershot	Slick Scattershot	Reduces recoil by 40%.	30007	24	0	0	750	2	0	6
+30008	Engineer	Scattershot	Brilliant Scattershot	Reduces MP cost by $value.	30008	20	0	0	600	1	0	6
+30009	Engineer	Point Blank	Empowered Point Blank	Increases skill damage by $value.	30009	20	0	0	700	5	0	6
+30010	Engineer	Point Blank	Restorative Point Blank	Recovers $value of total HP on each hit.	30010	26	0	0	750	2	0	6
+30011	Engineer	Point Blank	Energetic Point Blank	Decreases cooldown by $value.	30011	22	0	0	750	3	0	6
+30012	Engineer	Burst Fire	Restorative Burst Fire	Recovers $value of total HP on each hit.	30012	24	0	0	750	4	0	6
+30013	Engineer	Burst Fire	Longshot Burst Fire	Increases range by 5 meters.	30013	24	0	0	750	4	0	6
+30014	Engineer	Time Bomb	Empowered Time Bomb	Increases skill damage by $value.	30014	34	0	0	900	5	0	6
+30015	Engineer	Time Bomb	Ardent Time Bomb	Generates 15 Willpower on a successful hit.	30015	40	0	0	700	2	0	6
+30016	Engineer	Arcane Barrage	Empowered Arcane Barrage	Increases skill damage by $value.	30016	28	0	0	900	4	0	6
+30017	Engineer	Arcane Barrage	Swift Arcane Barrage	Increases Attack Speed by 30% until Arcane Barrage detonates.	30017	30	0	0	750	4	0	6
+30018	Engineer	Arcane Barrage	Ardent Arcane Barrage	Generates an additional 15 Willpower on each hit.	30018	24	0	0	700	2	0	6
+30019	Engineer	Mana Missiles	Carving Mana Missiles	Doubles the chance to crit.	30019	44	0	0	900	5	0	6
+30021	Engineer	Arc Bomb	Empowered Arc Bomb	Increases skill damage by $value.	30021	22	0	0	900	4	0	6
+30022	Engineer	Arc Bomb	Lingering Arc Bomb	Increases stun duration by $value.	30022	20	0	0	750	4	0	6
+30023	Engineer	Arc Bomb	Brilliant Arc Bomb	Reduces MP cost by $value.	30023	26	0	0	600	2	0	6
+30024	Engineer	Rocket Jump	Energetic Rocket Jump	Decreases cooldown by $value.	30024	26	0	0	750	4	0	6
+30028	Engineer	Balder's Vengeance	Energetic Vengeance	Decreases cooldown by $value.	30028	60	0	0	900	5	0	6
+30029	Engineer	Rocket Jump	Fleetfooted Rocket Jump	Increases Movement Speed by 50% for 5 seconds.	30029	48	0	0	750	6	0	6
+30030	Engineer	Replenishment	Energetic Replenishment	Decreases cooldown by $value.	30030	22	0	0	900	4	0	6
+30031	Engineer	Replenishment	Ardent Replenishment	Generates an additional 50 Willpower when the skill is used.	30031	22	0	0	700	4	0	6
+30032	Engineer	ST	Energetic Turret	Decreases cooldown by $value.	30032	20	0	0	750	3	0	6
+30033	Engineer	HB	Empowered Companion	Increases skill damage by $value.	30033	56	0	0	750	2	0	6
+30034	Engineer	ST	Empowered Turret	Increases skill damage by 20%.	30034	40	0	0	750	4	0	6
+30035	Engineer	ST	Lingering Turret	Increases duration by 30%.	30035	46	0	0	750	4	0	6
+30036	Engineer	ST	Brilliant Turret	Reduces MP cost by $value.	30036	52	0	0	600	1	0	6
+30037	Engineer	Retaliate	Empowered Retaliate	Increases skill damage by $value.	30037	22	0	0	600	3	0	6
+30038	Engineer	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	30038	28	0	0	750	4	0	6
+30039	Engineer	Command: Recall	Energetic Recall	Decreases cooldown by $value.	30039	63	0	0	750	4	0	6
+30040	Engineer	Command: Self-Destruct	Energetic Self-Destruct	Decreases cooldown by $value.	30040	40	0	0	750	3	0	6
+30041	Engineer	Rolling Reload	Persistent Rolling Reload	$prob chance to eliminate cooldown.	30041	20	0	0	800	4	0	6
+30042	Engineer	Rolling Reload	Powerlinked Rolling Reload	Increases skill damage of Scattershot by 20% for a few seconds.	30042	24	0	0	850	4	0	6
+30043	Engineer	Bombardment	Carving Bombardment	Doubles the chance to crit.	30043		1	30003	1000	5	0	6
+30044	Engineer	Scattershot	Empowered Scattershot	Increases skill damage by $value.	30044		1	30005	1000	4	0	6
+30045	Engineer	Point Blank	Empowered Point Blank	Increases skill damage by $value.	30045		1	30009	750	4	0	6
+30046	Engineer	Burst Fire	Affirmative Burst Fire	Reduces Willpower cost by 10.	30046		1	0	800	4	0	6
+30047	Engineer	Burst Fire	Longshot Burst Fire	Increases range by 5 meters.	30047		1	30013	750	3	0	6
+30048	Engineer	Arcane Barrage	Empowered Arcane Barrage	Increases skill damage by $value.	30048		1	30016	1000	3	0	6
+30049	Engineer	Arcane Barrage	Swift Arcane Barrage	Increases Attack Speed by 30% until Arcane Barrage detonates.	30049		1	30017	750	3	0	6
+30050	Engineer	Mana Missiles	Carving Mana Missiles	Triples the chance to crit.	30050		1	30019	1000	5	0	6
+30051	Engineer	Arc Bomb	Empowered Arc Bomb	Increases skill damage by $value.	30051		1	30021	1000	4	0	6
+30052	Engineer	Rocket Jump	Energetic Rocket Jump	Decreases cooldown by $value.	30052		1	30024	750	3	0	6
+30055	Engineer	Balder's Vengeance	Energetic Vengeance	Decreases cooldown by $value.	30055		1	30028	1000	4	0	6
+30056	Engineer	Replenishment	Energetic Replenishment	Decreases cooldown by $value.	30056		1	30030	900	3	0	6
+30057	Engineer	ST	Energetic Turret	Decreases cooldown by $value.	30057		1	30032	750	2	0	6
+30058	Engineer	Balder's Vengeance	Empowered Vengeance	Increases skill damage by $value.	30058		1	0	1000	7	0	6
+30059	Engineer	Rolling Reload	Persistent Rolling Reload	$prob chance to eliminate cooldown.	30059		1	30041	800	3	0	6
+30060	Engineer	Command: Recall	Energetic Recall	Decreases cooldown by $value.	30060		1	30039	750	3	0	6
+30061	Engineer	Point Blank	Empowered Point Blank	Increases skill damage by $value.	30061		2	30009	700	4	0	6
+30062	Engineer	Rocket Jump	Fleetfooted Rocket Jump	Increases Movement Speed by 50% for 5 seconds.	30062		1	30029	750	5	0	6
+30063	Engineer	Replenishment	Energetic Replenishment	Decreases cooldown by $value.	30063		2	30030	900	3	0	6
+30064	Engineer	ST	Empowered Turret	Increases skill damage by 20%.	30064		1	30034	750	3	0	6
+30065	Engineer	Command: Self-Destruct	Energetic Command: Self-Destruct	Decreases cooldown by $value.	30065		1	30040	750	3	0	6
+30066	Engineer	Rolling Reload	Powerlinked Rolling Reload	Increases skill damage of Scattershot by 20% for a few seconds.	30066		1	30042	850	3	0	6
+30067	Engineer	Bombardment	Carving Bombardment	Doubles the chance to crit.	30067		2	30003	1000	4	0	6
+30068	Engineer	Scattershot	Empowered Scattershot	Increases skill damage by $value.	30068		2	30005	1000	3	0	6
+30069	Engineer	Burst Fire	Longshot Burst Fire	Increases range by 5 meters.	30069		2	30013	750	2	0	6
+30070	Engineer	Mana Missiles	Carving Mana Missiles	Triples the chance to crit.	30070		2	30019	1000	4	0	6
+30071	Engineer	Balder's Vengeance	Empowered Balder's Vengeance	Increases skill damage by $value.	30071		2	30058	1000	6	0	6
+30072	Engineer	Rolling Reload	Persistent Rolling Reload	$prob chance to eliminate cooldown.	30072		2	30041	800	3	0	6
+31000	Fighter	Punch	Empowered Punch	Increases skill damage by $value.	31000	20	0	0	820	3	0	6
+31001	Fighter	Punch	Ardent Punch	Increases MP replenishment by $value per successful hit.	31001	24	0	0	780	3	0	6
+31002	Fighter	Punch	Swift Punch	$prob chance to increase Attack Speed by 15% for 10 seconds.	31002	28	0	0	790	4	0	6
+31003	Fighter	Counter	Empowered Counter	Increases skill damage by $value.	31003	20	0	0	870	3	0	6
+31004	Fighter	Counter	Powerlinked Counter	Increases all skill damage by 50% for 6 seconds after Perfect Defense.	31004	24	0	0	880	3	0	6
+31005	Fighter	Roundhouse Kick	Powerlinked Roundhouse Kick	Increases all skill damage by 10% for 3 seconds after a successful hit.	31005	20	0	0	880	3	0	6
+31006	Fighter	Roundhouse Kick	Grounding Roundhouse Kick	Adds frontal defense effect to Jackhammer/Piledriver/Haymaker if the skill is used within 5 seconds.	31006	24	0	0	880	3	0	6
+31007	Fighter	Roundhouse Kick	Energetic Roundhouse Kick	Decreases cooldown by $value.	31007	28	0	0	870	3	0	6
+31008	Fighter	Divine Wrath	Ardent Divine Wrath	Generates an additional 50% Rage per successful hit.	31008	58	0	0	810	4	0	6
+31009	Fighter	Ground Pounder	Ardent Ground Pounder	Generates an additional 3% Rage per successful hit.	31009	20	0	0	800	2	0	6
+31010	Fighter	Ground Pounder	Empowered Ground Pounder	Increases skill damage by $value.	31010	24	0	0	900	4	0	6
+31011	Fighter	Ground Pounder	Energetic Ground Pounder	Decreases cooldown by $value.	31011	28	0	0	890	4	0	6
+31012	Fighter	Bull Rush	Energetic Bull Rush	Decreases cooldown by $value.	31012	20	0	0	810	4	0	6
+31013	Fighter	Haymaker	Empowered Haymaker	Increases skill damage by $value.	31013	20	0	0	900	5	0	6
+31014	Fighter	Haymaker	Carving Haymaker	Doubles the chance to crit.	31014	24	0	0	950	5	0	6
+31015	Fighter	Haymaker	Brilliant Haymaker	Reduces MP cost by $value.	31015	28	0	0	700	2	0	6
+31016	Fighter	Haymaker	Persistent Haymaker	$prob chance to eliminate cooldown.	31016	32	0	0	900	4	0	6
+31017	Fighter	Piledriver	Empowered Piledriver	Increases skill damage by $value.	31017	20	0	0	900	4	0	6
+31018	Fighter	Piledriver	Persistent Piledriver	$prob chance to eliminate cooldown for Roundhouse Kick upon successfully hitting a monster.	31018	24	0	0	900	4	0	6
+31019	Fighter	Piledriver	Ardent Piledriver	Generates an additional 2% Rage per successful hit	31019	28	0	0	800	2	0	6
+31020	Fighter	Jackhammer	Empowered Jackhammer	Increases skill damage by $value.	31020	20	0	0	900	4	0	6
+31021	Fighter	Jackhammer	Aggravating Jackhammer	Increases damage by 25% to targets suspended in air.	31021	24	0	0	835	3	0	6
+31022	Fighter	Jackhammer	Carving Jackhammer	Increases the chance to crit by 1.5 times.	31022	28	0	0	950	3	0	6
+31023	Fighter	Counterpunch	Energetic Counterpunch	Decreases cooldown by $value.	31023	22	0	0	860	4	0	6
+31024	Fighter	Counterpunch	Empowered Counterpunch	Increases skill damage by $value.	31024	26	0	0	870	3	0	6
+31025	Fighter	Retaliate	Empowered Retaliate	Increases skill damage by $value.	31025	20	0	0	700	4	0	6
+31026	Fighter	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	31026	20	0	0	750	4	0	6
+31027	Fighter	Provoke	Brilliant Provoke	Reduces MP cost by $value.	31027	20	0	0	700	2	0	6
+31028	Fighter	Provoke	Energetic Provoke	Decreases cooldown by $value.	31028	20	0	0	780	4	0	6
+31029	Fighter	Infuriate	Slowing Infuriate	Decreases opponent's Movement Speed by 50% for 5 seconds.	31029	65	0	0	700	4	0	6
+31030	Fighter	Infuriate	Energetic Infuriate	Decreases cooldown by $value.	31030	65	0	0	700	6	0	6
+31031	Fighter	High Kick	Brutal High Kick	Doubles damage to the knocked-down target.	31031	24	0	0	740	4	0	6
+31032	Fighter	Flip Kick	Lingering Flip Kick	Increases effect duration by $value.	31032	40	0	0	825	4	0	6
+31033	Fighter	Flip Kick	Aggravating Flip Kick	Increases damage by 50% to targets suspended in air.	31033	44	0	0	805	3	0	6
+31034	Fighter	Rampage	Empowered Rampage	Increases skill damage by $value.	31034	20	0	0	950	4	0	6
+31035	Fighter	Rampage	Spirited Rampage	Increases MP replenishment by $value per successful hit.	31035	24	0	0	775	3	0	6
+31036	Fighter	Rampage	Restorative Rampage	Recovers $value of total HP per successful hit.	31036	28	0	0	800	4	0	6
+31037	Fighter	Growing Fury	Pumped Growing Fury	Increases power by 25 during the duration of effect.	31037	36	0	0	815	4	0	6
+31038	Fighter	Growing Fury	Energetic Growing Fury	Decreases cooldown by $value.	31038	40	0	0	840	4	0	6
+31039	Fighter	Meat Grinder	Energetic Meat Grinder	Decreases cooldown by $value.	31039	28	0	0	825	4	0	6
+31040	Fighter	Meat Grinder	Empowered Meat Grinder	Increases skill damage by $value.	31040	32	0	0	800	4	0	6
+31041	Fighter	Invigorating Rage	Energetic Invigorating Rage	Decreases cooldown by $value.	31041	46	0	0	805	4	0	6
+31042	Fighter	Mounting Rage	Energetic Mounting Rage	Decreases cooldown by $value.	31042	60	0	0	825	4	0	6
+31043	Fighter	Quick Dash	Persistent Quick Dash	$prob chance to eliminate cooldown.	31043	20	0	0	750	3	0	6
+31044	Fighter	Punch	Empowered Punch	Increases skill damage by $value.	31044		1	31000	820	3	0	6
+31045	Fighter	Roundhouse Kick	Energetic Roundhouse Kick	Decreases cooldown by $value.	31045		1	31007	870	3	0	6
+31046	Fighter	Divine Wrath	Energetic Divine Wrath	Decreases cooldown by $value.	31046		1	0	840	6	0	6
+31047	Fighter	Ground Pounder	Ardent Ground Pounder	Generates an additional 3% Rage per successful hit.	31047		1	31009	800	1	0	6
+31048	Fighter	Ground Pounder	Carving Ground Pounder	Doubles the chance to crit.	31048		1	0	950	5	0	6
+31049	Fighter	Ground Pounder	Empowered Ground Pounder	Increases skill damage by $value.	31049		1	31010	900	4	0	6
+31050	Fighter	Haymaker	Empowered Haymaker	Increases skill damage by $value.	31050		1	31013	900	4	0	6
+31051	Fighter	Haymaker	Carving Haymaker	Increases the chance to crit by 2.5 times.	31051		1	31014	950	5	0	6
+31052	Fighter	Piledriver	Persistent Piledriver	$prob chance to eliminate cooldown for Roundhouse Kick upon successfully hitting a monster.	31052		1	31018	880	3	0	6
+31053	Fighter	Piledriver	Ardent Piledriver	Generates an additional 2% Rage per successful hit.	31053		1	31019	800	1	0	6
+31054	Fighter	Jackhammer	Empowered Jackhammer	Increases skill damage by $value.	31054		1	31020	900	3	0	6
+31055	Fighter	Jackhammer	Carving Jackhammer	Doubles the chance to crit.	31055		1	31022	950	3	0	6
+31056	Fighter	Jackhammer	Ardent Jackhammer	Generates an additional 1% Rage per successful hit.	31056		1	0	830	2	0	6
+31057	Fighter	Counterpunch	Energetic Counterpunch	Decreases cooldown by $value.	31057		1	31023	860	3	0	6
+31058	Fighter	Infuriate	Slowing Infuriate	Decreases opponent's Movement Speed by 50% for 5 seconds.	31058		1	31029	700	3	0	6
+31059	Fighter	Piledriver	Empowered Piledriver	Increases skill damage by $value.	31059		1	31017	900	3	0	6
+31060	Fighter	Counter	Empowered Counter	Increases skill damage by $value.	31060		1	31003	870	3	0	6
+31061	Fighter	Counterpunch	Empowered Counterpunch	Increases skill damage by $value.	31061		1	31024	870	3	0	6
+31062	Fighter	Rampage	Empowered Rampage	Increases skill damage by $value.	31062		1	31034	950	3	0	6
+31063	Fighter	Rampage	Restorative Rampage	Recovers $value of total HP per successful hit.	31063		1	31036	800	3	0	6
+31064	Fighter	Meat Grinder	Empowered Meat Grinder	Increases skill damage by $value.	31064		1	31040	800	4	0	6
+31065	Fighter	Quick Dash	Persistent Quick Dash	$prob chance to eliminate cooldown.	31065		1	31043	750	3	0	6
+31066	Fighter	Counter	Carving Counter	Doubles the chance to crit.	31066		2	0	850	3	0	6
+31067	Fighter	Roundhouse Kick	Powerlinked Roundhouse Kick	Increases all skill damage by 15% for 3 seconds after a successful hit.	31067		2	31005	880	2	0	6
+31068	Fighter	Ground Pounder	Carving Ground Pounder	Triples the chance to crit.	31068		2	31048	1000	4	0	6
+31069	Fighter	Haymaker	Carving Haymaker	Triples the chance to crit.	31069		2	31014	1000	4	0	6
+31070	Fighter	High Kick	Brutal High Kick	Triples damage to the knocked-down target.	31070		2	31031	795	3	0	6
+32000	Assassin	Combo Attack	Empowered Combo Attack	Increases skill damage by $value.	32000	20	0	0	800	3	0	6
+32001	Assassin	Combo Attack	Spirited Combo Attack	Increases MP replenishment by $value.	32001	24	0	0	700	3	0	6
+32002	Assassin	Combo Attack	Swift Combo Attack	$prob chance to increase Attack Speed by 10% for 5 seconds.	32002	28	0	0	750	4	0	6
+32003	Assassin	Leaves on the Wind	Aggravating Leaves on the Wind	Increases damage by 40% to targets suspended in air.	32003	20	0	0	800	4	0	6
+32004	Assassin	Leaves on the Wind	Energetic Leaves on the Wind	Decreases cooldown by $value.	32004	24	0	0	830	4	0	6
+32005	Assassin	Jagged Path	Powerlinked Jagged Path	Increases all skill damage by 10% for 3 seconds after a successful hit.	32005	24	0	0	820	4	0	6
+32006	Assassin	Impact Bomb	Energetic Impact Bomb	Decreases cooldown by $value.	32006	20	0	0	800	3	0	6
+32007	Assassin	One Thousand Cuts	Empowered One Thousand Cuts	Increases skill damage by $value.	32007	24	0	0	870	5	0	6
+32008	Assassin	One Thousand Cuts	Energetic One Thousand Cuts	Decreases cooldown by $value.	32008	28	0	0	870	5	0	6
+32009	Assassin	Decoy Jutsu	Brilliant Decoy Jutsu	Reduces MP cost by $value.	32009	20	0	0	700	2	0	6
+32010	Assassin	Decoy Jutsu	Opportunistic Decoy Jutsu	$prob chance to eliminate cooldown of Double Cut after successfully hitting a monster.	32010	24	0	0	880	3	0	6
+32011	Assassin	Decoy Jutsu	Empowered Decoy Jutsu	Increases skill damage by $value.	32011	28	0	0	850	4	0	6
+32012	Assassin	Fire Avalanche	Empowered Fire Avalanche	Increases skill damage by $value.	32012	58	0	0	800	4	0	6
+32013	Assassin	Smoke Bomb	Energetic Smoke Bomb	Decreases cooldown by $value.	32013	50	0	0	770	3	0	6
+32014	Assassin	Retaliate	Empowered Retaliate	Increases skill damage by $value.	32014	20	0	0	720	3	0	6
+32015	Assassin	Retaliate	Energetic Retaliate	Decreases cooldown by $value.	32015	24	0	0	800	3	0	6
+32018	Assassin	Skyfall	Brilliant Skyfall	Reduces MP cost by $value.	32018	20	0	0	700	2	0	6
+32019	Assassin	Skyfall	Carving Skyfall	Increases the chance to crit by 1.5 times.	32019	24	0	0	880	4	0	6
+32020	Assassin	Skyfall	Powerlinked Skyfall	Increases skill damage of Circle of Steel by 25% for a few seconds.	32020	28	0	0	890	4	0	6
+32021	Assassin	Circle of Steel	Brilliant Circle of Steel	Reduces MP cost by $value.	32021	20	0	0	700	2	0	6
+32022	Assassin	Circle of Steel	Empowered Circle of Steel	Increases skill damage by $value.	32022	24	0	0	890	4	0	6
+32023	Assassin	Double Cut	Brilliant Double Cut	Reduces MP cost by $value.	32023	20	0	0	700	2	0	6
+32024	Assassin	Double Cut	Powerlinked Double Cut	Increases skill damage of Skyfall by 25% for a few seconds.	32024	24	0	0	890	4	0	6
+32025	Assassin	Double Cut	Energetic Double Cut	Decreases cooldown by $value.	32025	28	0	0	900	4	0	6
+32026	Assassin	Burning Heart	Aggravating Burning Heart	Increases damage by 30% to targets suspended in air.	32026	28	0	0	810	4	0	6
+32027	Assassin	Burning Heart	Spirited Burning Heart	Increases MP replenishment by $value per successful hit.	32027	32	0	0	750	3	0	6
+32028	Assassin	Death Blossom	Brilliant Death Blossom	Reduces MP cost by $value.	32028	44	0	0	700	2	0	6
+32029	Assassin	Death Blossom	Restorative Death Blossom	Recovers $value of total HP per successful hit.	32029	48	0	0	780	3	0	6
+32030	Assassin	Death Blossom	Energetic Death Blossom	Decreases cooldown by $value.	32030	52	0	0	850	4	0	6
+32031	Assassin	Attunement	Brilliant Attunement	Reduces MP cost by $value.	32031	32	0	0	700	2	0	6
+32032	Assassin	Attunement	Energetic Attunement	Decreases cooldown by $value.	32032	36	0	0	750	3	0	6
+32033	Assassin	Attunement	Blazing Attunement	Speeds casting of Burning Heart and Fire Avalanche by 20% for 10 seconds.	32033	40	0	0	700	2	0	6
+32034	Assassin	Bladestorm	Brilliant Bladestorm	Reduces MP cost by $value.	32034	20	0	0	700	2	0	6
+32035	Assassin	Bladestorm	Energetic Bladestorm	Decreases cooldown by $value.	32035	24	0	0	820	4	0	6
+32036	Assassin	Chakra Thrust	Brilliant Chakra Thrust	Reduces MP cost by $value.	32036	38	0	0	700	2	0	6
+32037	Assassin	Chakra Thrust	Energetic Chakra Thrust	Decreases cooldown by $value.	32037	42	0	0	860	4	0	6
+32038	Assassin	Combo Attack	Empowered Combo Attack	Increases skill damage by $value.	32038		1	32000	830	3	0	6
+32039	Assassin	Leaves on the Wind	Aggravating Leaves on the Wind	Increases damage by 60% to targets suspended in air.	32039		1	32003	830	3	0	6
+32040	Assassin	Impact Bomb	Energetic Impact Bomb	Decreases cooldown by $value.	32040		1	32006	850	3	0	6
+32041	Assassin	One Thousand Cuts	Empowered One Thousand Cuts	Increases skill damage by $value.	32041		1	32007	950	4	0	6
+32042	Assassin	Decoy Jutsu	Opportunistic Decoy Jutsu	$prob chance to eliminate cooldown of Double Cut after successfully hitting a monster.	32042		1	32010	930	3	0	6
+32043	Assassin	Fire Avalanche	Carving Fire Avalanche	Doubles the chance to crit.	32043		1	0	850	6	0	6
+32044	Assassin	Skyfall	Powerlinked Skyfall	Increases skill damage of Circle of Steel by 30% for a few seconds.	32044		1	32020	930	4	0	6
+32045	Assassin	Skyfall	Carving Skyfall	Doubles the chance to crit.	32045		1	32019	920	4	0	6
+32046	Assassin	Circle of Steel	Empowered Circle of Steel	Increases skill damage by $value.	32046		1	32022	950	3	0	6
+32047	Assassin	Double Cut	Powerlinked Double Cut	Increases skill damage of Skyfall by 30% for a few seconds.	32047		1	32024	930	4	0	6
+32048	Assassin	Double Cut	Carving Double Cut	Doubles the chance to crit.	32048		1	0	920	6	0	6
+32049	Assassin	Burning Heart	Aggravating Burning Heart	Increases damage by 50% to targets suspended in air.	32049		1	32026	850	3	0	6
+32050	Assassin	Death Blossom	Restorative Death Blossom	Recovers $value of total HP per successful hit.	32050		1	32029	840	2	0	6
+32051	Assassin	Bladestorm	Empowered Bladestorm	Increases skill damage by $value.	32051		1	0	850	4	0	6
+32052	Assassin	Chakra Thrust	Energetic Chakra Thrust	Decreases cooldown by $value.	32052		1	32037	900	3	0	6
+32053	Assassin	Leaves on the Wind	Energetic Leaves on the Wind	Decreases cooldown by $value.	32053		1	32004	880	3	0	6
+32054	Assassin	One Thousand Cuts	Energetic One Thousand Cuts	Decreases cooldown by $value.	32054		1	32008	950	4	0	6
+32055	Assassin	Fire Avalanche	Empowered Fire Avalanche	Increases skill damage by $value.	32055		1	32012	950	4	0	6
+32056	Assassin	Smoke Bomb	Energetic Smoke Bomb	Decreases cooldown by $value.	32056		1	32013	900	2	0	6
+32057	Assassin	Circle of Steel	Energetic Circle of Steel	Decreases cooldown by $value.	32057		1	0	930	4	0	6
+32058	Assassin	Attunement	Blazing Attunement	Speeds casting of Burning Heart and Fire Avalanche by 30% for 10 seconds.	32058		1	32033	800	1	0	6
+32059	Assassin	Chakra Thrust	Empowered Chakra Thrust	Increases skill damage by $value.	32059		1	0	850	4	0	6
+32060	Assassin	Combo Attack	Swift Combo Attack	$prob chance to increase Attack Speed by 10% for 5 seconds.	32060		2	32002	830	3	0	6
+32061	Assassin	Fire Avalanche	Carving Fire Avalanche	Triples the chance to crit.	32061		2	32043	1000	5	0	6
+32062	Assassin	Double Cut	Carving Double Cut	Triples the chance to crit.	32062		2	32048	1000	5	0	6
+32063	Assassin	Burning Heart	Empowered Burning Heart	Increases skill damage by $value.	32063		2	0	1000	5	0	6
+32064	Assassin	Shadow Jump	Energetic Shadow Jump	Decreases cooldown by $value.	32064		2	0	950	3	0	6

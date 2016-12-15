@@ -1,0 +1,1115 @@
+awakenMaxCount	masterpieceMaxCount	normalMaxCount	materialCount	scrollCount	scrollId	rank	rareGrade	baseCost	combatItemType	resultItemAmount	rank2	combatItemType3	enchantStep	enchantProb	step	common	good	rank4	combatItemType5	enchantStep6	rareGrade7	materialCount8	scrollCount9	scrollId10
+15	12	9	2000	1000	447																			
+15	12	9	2000	850	70102																			
+15	12	9	2000	600	180859																			
+15	12	9				1	0	4	EQUIP_WEAPON	4														
+15	12	9				1	1	4	EQUIP_WEAPON	8														
+15	12	9				1	2	4	EQUIP_WEAPON	24														
+15	12	9				1	3	4	EQUIP_WEAPON	48														
+15	12	9				1	0	4	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				1	1	4	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				1	2	4	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				1	3	4	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				1	0	4	EQUIP_ARMOR_BODY	3														
+15	12	9				1	1	4	EQUIP_ARMOR_BODY	6														
+15	12	9				1	2	4	EQUIP_ARMOR_BODY	18														
+15	12	9				1	3	4	EQUIP_ARMOR_BODY	36														
+15	12	9				1	0	4	EQUIP_ARMOR_ARM	2														
+15	12	9				1	1	4	EQUIP_ARMOR_ARM	4														
+15	12	9				1	2	4	EQUIP_ARMOR_ARM	12														
+15	12	9				1	3	4	EQUIP_ARMOR_ARM	24														
+15	12	9				1	0	4	EQUIP_ARMOR_LEG	2														
+15	12	9				1	1	4	EQUIP_ARMOR_LEG	4														
+15	12	9				1	2	4	EQUIP_ARMOR_LEG	12														
+15	12	9				1	3	4	EQUIP_ARMOR_LEG	24														
+15	12	9				2	0	16	EQUIP_WEAPON	4														
+15	12	9				2	1	16	EQUIP_WEAPON	8														
+15	12	9				2	2	16	EQUIP_WEAPON	24														
+15	12	9				2	3	16	EQUIP_WEAPON	48														
+15	12	9				2	0	16	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				2	1	16	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				2	2	16	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				2	3	16	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				2	0	16	EQUIP_ARMOR_BODY	3														
+15	12	9				2	1	16	EQUIP_ARMOR_BODY	6														
+15	12	9				2	2	16	EQUIP_ARMOR_BODY	18														
+15	12	9				2	3	16	EQUIP_ARMOR_BODY	36														
+15	12	9				2	0	16	EQUIP_ARMOR_ARM	2														
+15	12	9				2	1	16	EQUIP_ARMOR_ARM	4														
+15	12	9				2	2	16	EQUIP_ARMOR_ARM	12														
+15	12	9				2	3	16	EQUIP_ARMOR_ARM	24														
+15	12	9				2	0	16	EQUIP_ARMOR_LEG	2														
+15	12	9				2	1	16	EQUIP_ARMOR_LEG	4														
+15	12	9				2	2	16	EQUIP_ARMOR_LEG	12														
+15	12	9				2	3	16	EQUIP_ARMOR_LEG	24														
+15	12	9				3	0	80	EQUIP_WEAPON	4														
+15	12	9				3	1	80	EQUIP_WEAPON	8														
+15	12	9				3	2	80	EQUIP_WEAPON	24														
+15	12	9				3	3	80	EQUIP_WEAPON	48														
+15	12	9				3	0	80	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				3	1	80	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				3	2	80	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				3	3	80	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				3	0	80	EQUIP_ARMOR_BODY	3														
+15	12	9				3	1	80	EQUIP_ARMOR_BODY	6														
+15	12	9				3	2	80	EQUIP_ARMOR_BODY	18														
+15	12	9				3	3	80	EQUIP_ARMOR_BODY	36														
+15	12	9				3	0	80	EQUIP_ARMOR_ARM	2														
+15	12	9				3	1	80	EQUIP_ARMOR_ARM	4														
+15	12	9				3	2	80	EQUIP_ARMOR_ARM	12														
+15	12	9				3	3	80	EQUIP_ARMOR_ARM	24														
+15	12	9				3	0	80	EQUIP_ARMOR_LEG	2														
+15	12	9				3	1	80	EQUIP_ARMOR_LEG	4														
+15	12	9				3	2	80	EQUIP_ARMOR_LEG	12														
+15	12	9				3	3	80	EQUIP_ARMOR_LEG	24														
+15	12	9				4	0	400	EQUIP_WEAPON	4														
+15	12	9				4	1	400	EQUIP_WEAPON	8														
+15	12	9				4	2	400	EQUIP_WEAPON	24														
+15	12	9				4	3	400	EQUIP_WEAPON	48														
+15	12	9				4	0	400	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				4	1	400	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				4	2	400	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				4	3	400	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				4	0	400	EQUIP_ARMOR_BODY	3														
+15	12	9				4	1	400	EQUIP_ARMOR_BODY	6														
+15	12	9				4	2	400	EQUIP_ARMOR_BODY	18														
+15	12	9				4	3	400	EQUIP_ARMOR_BODY	36														
+15	12	9				4	0	400	EQUIP_ARMOR_ARM	2														
+15	12	9				4	1	400	EQUIP_ARMOR_ARM	4														
+15	12	9				4	2	400	EQUIP_ARMOR_ARM	12														
+15	12	9				4	3	400	EQUIP_ARMOR_ARM	24														
+15	12	9				4	0	400	EQUIP_ARMOR_LEG	2														
+15	12	9				4	1	400	EQUIP_ARMOR_LEG	4														
+15	12	9				4	2	400	EQUIP_ARMOR_LEG	12														
+15	12	9				4	3	400	EQUIP_ARMOR_LEG	24														
+15	12	9				5	0	2000	EQUIP_WEAPON	4														
+15	12	9				5	1	2000	EQUIP_WEAPON	8														
+15	12	9				5	2	2000	EQUIP_WEAPON	24														
+15	12	9				5	3	2000	EQUIP_WEAPON	48														
+15	12	9				5	0	2000	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				5	1	2000	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				5	2	2000	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				5	3	2000	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				5	0	2000	EQUIP_ARMOR_BODY	3														
+15	12	9				5	1	2000	EQUIP_ARMOR_BODY	6														
+15	12	9				5	2	2000	EQUIP_ARMOR_BODY	18														
+15	12	9				5	3	2000	EQUIP_ARMOR_BODY	36														
+15	12	9				5	0	2000	EQUIP_ARMOR_ARM	2														
+15	12	9				5	1	2000	EQUIP_ARMOR_ARM	4														
+15	12	9				5	2	2000	EQUIP_ARMOR_ARM	12														
+15	12	9				5	3	2000	EQUIP_ARMOR_ARM	24														
+15	12	9				5	0	2000	EQUIP_ARMOR_LEG	2														
+15	12	9				5	1	2000	EQUIP_ARMOR_LEG	4														
+15	12	9				5	2	2000	EQUIP_ARMOR_LEG	12														
+15	12	9				5	3	2000	EQUIP_ARMOR_LEG	24														
+15	12	9				6	0	10000	EQUIP_WEAPON	4														
+15	12	9				6	1	10000	EQUIP_WEAPON	8														
+15	12	9				6	2	10000	EQUIP_WEAPON	24														
+15	12	9				6	3	10000	EQUIP_WEAPON	48														
+15	12	9				6	0	10000	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				6	1	10000	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				6	2	10000	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				6	3	10000	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				6	0	10000	EQUIP_ARMOR_BODY	3														
+15	12	9				6	1	10000	EQUIP_ARMOR_BODY	6														
+15	12	9				6	2	10000	EQUIP_ARMOR_BODY	18														
+15	12	9				6	3	10000	EQUIP_ARMOR_BODY	36														
+15	12	9				6	0	10000	EQUIP_ARMOR_ARM	2														
+15	12	9				6	1	10000	EQUIP_ARMOR_ARM	4														
+15	12	9				6	2	10000	EQUIP_ARMOR_ARM	12														
+15	12	9				6	3	10000	EQUIP_ARMOR_ARM	24														
+15	12	9				6	0	10000	EQUIP_ARMOR_LEG	2														
+15	12	9				6	1	10000	EQUIP_ARMOR_LEG	4														
+15	12	9				6	2	10000	EQUIP_ARMOR_LEG	12														
+15	12	9				6	3	10000	EQUIP_ARMOR_LEG	24														
+15	12	9				7	0	10000	EQUIP_WEAPON	4														
+15	12	9				7	1	10000	EQUIP_WEAPON	8														
+15	12	9				7	2	10000	EQUIP_WEAPON	24														
+15	12	9				7	3	10000	EQUIP_WEAPON	48														
+15	12	9				7	0	10000	ENCHANT_COMPONENT_WEAPON	4														
+15	12	9				7	1	10000	ENCHANT_COMPONENT_WEAPON	8														
+15	12	9				7	2	10000	ENCHANT_COMPONENT_WEAPON	24														
+15	12	9				7	3	10000	ENCHANT_COMPONENT_WEAPON	48														
+15	12	9				7	0	10000	EQUIP_ARMOR_BODY	3														
+15	12	9				7	1	10000	EQUIP_ARMOR_BODY	6														
+15	12	9				7	2	10000	EQUIP_ARMOR_BODY	18														
+15	12	9				7	3	10000	EQUIP_ARMOR_BODY	36														
+15	12	9				7	0	10000	EQUIP_ARMOR_ARM	2														
+15	12	9				7	1	10000	EQUIP_ARMOR_ARM	4														
+15	12	9				7	2	10000	EQUIP_ARMOR_ARM	12														
+15	12	9				7	3	10000	EQUIP_ARMOR_ARM	24														
+15	12	9				7	0	10000	EQUIP_ARMOR_LEG	2														
+15	12	9				7	1	10000	EQUIP_ARMOR_LEG	4														
+15	12	9				7	2	10000	EQUIP_ARMOR_LEG	12														
+15	12	9				7	3	10000	EQUIP_ARMOR_LEG	24														
+15	12	9				8	0	10000	EQUIP_WEAPON	0														
+15	12	9				8	1	10000	EQUIP_WEAPON	0														
+15	12	9				8	2	10000	EQUIP_WEAPON	0														
+15	12	9				8	3	10000	EQUIP_WEAPON	0														
+15	12	9				8	0	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				8	1	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				8	2	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				8	3	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				8	0	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				8	1	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				8	2	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				8	3	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				8	0	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				8	1	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				8	2	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				8	3	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				8	0	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				8	1	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				8	2	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				8	3	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				9	0	10000	EQUIP_WEAPON	0														
+15	12	9				9	1	10000	EQUIP_WEAPON	0														
+15	12	9				9	2	10000	EQUIP_WEAPON	0														
+15	12	9				9	3	10000	EQUIP_WEAPON	0														
+15	12	9				9	0	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				9	1	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				9	2	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				9	3	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				9	0	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				9	1	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				9	2	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				9	3	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				9	0	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				9	1	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				9	2	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				9	3	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				9	0	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				9	1	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				9	2	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				9	3	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				10	0	10000	EQUIP_WEAPON	0														
+15	12	9				10	1	10000	EQUIP_WEAPON	0														
+15	12	9				10	2	10000	EQUIP_WEAPON	0														
+15	12	9				10	3	10000	EQUIP_WEAPON	0														
+15	12	9				10	0	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				10	1	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				10	2	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				10	3	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				10	0	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				10	1	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				10	2	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				10	3	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				10	0	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				10	1	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				10	2	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				10	3	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				10	0	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				10	1	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				10	2	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				10	3	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				11	0	10000	EQUIP_WEAPON	0														
+15	12	9				11	1	10000	EQUIP_WEAPON	0														
+15	12	9				11	2	10000	EQUIP_WEAPON	0														
+15	12	9				11	3	10000	EQUIP_WEAPON	0														
+15	12	9				11	0	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				11	1	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				11	2	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				11	3	10000	ENCHANT_COMPONENT_WEAPON	0														
+15	12	9				11	0	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				11	1	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				11	2	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				11	3	10000	EQUIP_ARMOR_BODY	0														
+15	12	9				11	0	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				11	1	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				11	2	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				11	3	10000	EQUIP_ARMOR_ARM	0														
+15	12	9				11	0	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				11	1	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				11	2	10000	EQUIP_ARMOR_LEG	0														
+15	12	9				11	3	10000	EQUIP_ARMOR_LEG	0														
+15	12	9									1	EQUIP_WEAPON	0	1										
+15	12	9									1	EQUIP_WEAPON	1	1										
+15	12	9									1	EQUIP_WEAPON	2	0,7										
+15	12	9									1	EQUIP_WEAPON	3	0,4										
+15	12	9									1	EQUIP_WEAPON	4	0,25										
+15	12	9									1	EQUIP_WEAPON	5	0,175										
+15	12	9									1	EQUIP_WEAPON	6	0,175										
+15	12	9									1	EQUIP_WEAPON	7	0,1375										
+15	12	9									1	EQUIP_WEAPON	8	0,11875										
+15	12	9									1	EQUIP_WEAPON	9	0,11875										
+15	12	9									1	EQUIP_WEAPON	10	0,1095										
+15	12	9									1	EQUIP_WEAPON	11	0,1095										
+15	12	9									2	EQUIP_WEAPON	0	1										
+15	12	9									2	EQUIP_WEAPON	1	1										
+15	12	9									2	EQUIP_WEAPON	2	0,675										
+15	12	9									2	EQUIP_WEAPON	3	0,375										
+15	12	9									2	EQUIP_WEAPON	4	0,225										
+15	12	9									2	EQUIP_WEAPON	5	0,15										
+15	12	9									2	EQUIP_WEAPON	6	0,15										
+15	12	9									2	EQUIP_WEAPON	7	0,1125										
+15	12	9									2	EQUIP_WEAPON	8	0,09375										
+15	12	9									2	EQUIP_WEAPON	9	0,09375										
+15	12	9									2	EQUIP_WEAPON	10	0,0845										
+15	12	9									2	EQUIP_WEAPON	11	0,0845										
+15	12	9									3	EQUIP_WEAPON	0	1										
+15	12	9									3	EQUIP_WEAPON	1	1										
+15	12	9									3	EQUIP_WEAPON	2	0,65										
+15	12	9									3	EQUIP_WEAPON	3	0,35										
+15	12	9									3	EQUIP_WEAPON	4	0,2										
+15	12	9									3	EQUIP_WEAPON	5	0,125										
+15	12	9									3	EQUIP_WEAPON	6	0,125										
+15	12	9									3	EQUIP_WEAPON	7	0,0875										
+15	12	9									3	EQUIP_WEAPON	8	0,06875										
+15	12	9									3	EQUIP_WEAPON	9	0,06875										
+15	12	9									3	EQUIP_WEAPON	10	0,0595										
+15	12	9									3	EQUIP_WEAPON	11	0,0595										
+15	12	9									4	EQUIP_WEAPON	0	1										
+15	12	9									4	EQUIP_WEAPON	1	1										
+15	12	9									4	EQUIP_WEAPON	2	0,625										
+15	12	9									4	EQUIP_WEAPON	3	0,325										
+15	12	9									4	EQUIP_WEAPON	4	0,175										
+15	12	9									4	EQUIP_WEAPON	5	0,1										
+15	12	9									4	EQUIP_WEAPON	6	0,1										
+15	12	9									4	EQUIP_WEAPON	7	0,0625										
+15	12	9									4	EQUIP_WEAPON	8	0,04375										
+15	12	9									4	EQUIP_WEAPON	9	0,04375										
+15	12	9									4	EQUIP_WEAPON	10	0,0345										
+15	12	9									4	EQUIP_WEAPON	11	0,0345										
+15	12	9									5	EQUIP_WEAPON	0	1										
+15	12	9									5	EQUIP_WEAPON	1	1										
+15	12	9									5	EQUIP_WEAPON	2	0,6										
+15	12	9									5	EQUIP_WEAPON	3	0,3										
+15	12	9									5	EQUIP_WEAPON	4	0,15										
+15	12	9									5	EQUIP_WEAPON	5	0,075										
+15	12	9									5	EQUIP_WEAPON	6	0,075										
+15	12	9									5	EQUIP_WEAPON	7	0,0375										
+15	12	9									5	EQUIP_WEAPON	8	0,01875										
+15	12	9									5	EQUIP_WEAPON	9	0,01875										
+15	12	9									5	EQUIP_WEAPON	10	0,00945										
+15	12	9									5	EQUIP_WEAPON	11	0,00945										
+15	12	9									5	EQUIP_WEAPON	12	0,045										
+15	12	9									5	EQUIP_WEAPON	13	0,045										
+15	12	9									5	EQUIP_WEAPON	14	0,045										
+15	12	9									6	EQUIP_WEAPON	0	1										
+15	12	9									6	EQUIP_WEAPON	1	1										
+15	12	9									6	EQUIP_WEAPON	2	0,6										
+15	12	9									6	EQUIP_WEAPON	3	0,3										
+15	12	9									6	EQUIP_WEAPON	4	0,15										
+15	12	9									6	EQUIP_WEAPON	5	0,1125										
+15	12	9									6	EQUIP_WEAPON	6	0,1125										
+15	12	9									6	EQUIP_WEAPON	7	0,0825										
+15	12	9									6	EQUIP_WEAPON	8	0,0625										
+15	12	9									6	EQUIP_WEAPON	9	0,0625										
+15	12	9									6	EQUIP_WEAPON	10	0,0625										
+15	12	9									6	EQUIP_WEAPON	11	0,0625										
+15	12	9									6	EQUIP_WEAPON	12	0,045										
+15	12	9									6	EQUIP_WEAPON	13	0,045										
+15	12	9									6	EQUIP_WEAPON	14	0,045										
+15	12	9									7	EQUIP_WEAPON	0	1										
+15	12	9									7	EQUIP_WEAPON	1	1										
+15	12	9									7	EQUIP_WEAPON	2	0,6										
+15	12	9									7	EQUIP_WEAPON	3	0,3										
+15	12	9									7	EQUIP_WEAPON	4	0,15										
+15	12	9									7	EQUIP_WEAPON	5	0,1125										
+15	12	9									7	EQUIP_WEAPON	6	0,1125										
+15	12	9									7	EQUIP_WEAPON	7	0,0825										
+15	12	9									7	EQUIP_WEAPON	8	0,0625										
+15	12	9									7	EQUIP_WEAPON	9	0,0625										
+15	12	9									7	EQUIP_WEAPON	10	0,0625										
+15	12	9									7	EQUIP_WEAPON	11	0,0625										
+15	12	9									7	EQUIP_WEAPON	12	0,045										
+15	12	9									7	EQUIP_WEAPON	13	0,045										
+15	12	9									7	EQUIP_WEAPON	14	0,045										
+15	12	9									8	EQUIP_WEAPON	0	1										
+15	12	9									8	EQUIP_WEAPON	1	1										
+15	12	9									8	EQUIP_WEAPON	2	0,6										
+15	12	9									8	EQUIP_WEAPON	3	0,3										
+15	12	9									8	EQUIP_WEAPON	4	0,15										
+15	12	9									8	EQUIP_WEAPON	5	0,1125										
+15	12	9									8	EQUIP_WEAPON	6	0,1125										
+15	12	9									8	EQUIP_WEAPON	7	0,0825										
+15	12	9									8	EQUIP_WEAPON	8	0,0625										
+15	12	9									8	EQUIP_WEAPON	9	0,0625										
+15	12	9									8	EQUIP_WEAPON	10	0,0625										
+15	12	9									8	EQUIP_WEAPON	11	0,0625										
+15	12	9									8	EQUIP_WEAPON	12	0,045										
+15	12	9									8	EQUIP_WEAPON	13	0,045										
+15	12	9									8	EQUIP_WEAPON	14	0,045										
+15	12	9									9	EQUIP_WEAPON	0	1										
+15	12	9									9	EQUIP_WEAPON	1	1										
+15	12	9									9	EQUIP_WEAPON	2	0,6										
+15	12	9									9	EQUIP_WEAPON	3	0,3										
+15	12	9									9	EQUIP_WEAPON	4	0,15										
+15	12	9									9	EQUIP_WEAPON	5	0,1125										
+15	12	9									9	EQUIP_WEAPON	6	0,1125										
+15	12	9									9	EQUIP_WEAPON	7	0,0825										
+15	12	9									9	EQUIP_WEAPON	8	0,0625										
+15	12	9									9	EQUIP_WEAPON	9	0,0625										
+15	12	9									9	EQUIP_WEAPON	10	0,0625										
+15	12	9									9	EQUIP_WEAPON	11	0,0625										
+15	12	9									9	EQUIP_WEAPON	12	0,045										
+15	12	9									9	EQUIP_WEAPON	13	0,045										
+15	12	9									9	EQUIP_WEAPON	14	0,045										
+15	12	9									10	EQUIP_WEAPON	0	1										
+15	12	9									10	EQUIP_WEAPON	1	1										
+15	12	9									10	EQUIP_WEAPON	2	0,6										
+15	12	9									10	EQUIP_WEAPON	3	0,3										
+15	12	9									10	EQUIP_WEAPON	4	0,15										
+15	12	9									10	EQUIP_WEAPON	5	0,075										
+15	12	9									10	EQUIP_WEAPON	6	0,075										
+15	12	9									10	EQUIP_WEAPON	7	0,0375										
+15	12	9									10	EQUIP_WEAPON	8	0,01875										
+15	12	9									10	EQUIP_WEAPON	9	0,01875										
+15	12	9									10	EQUIP_WEAPON	10	0,00945										
+15	12	9									10	EQUIP_WEAPON	11	0,00945										
+15	12	9									10	EQUIP_WEAPON	12	0,045										
+15	12	9									10	EQUIP_WEAPON	13	0,045										
+15	12	9									10	EQUIP_WEAPON	14	0,045										
+15	12	9									11	EQUIP_WEAPON	0	1										
+15	12	9									11	EQUIP_WEAPON	1	1										
+15	12	9									11	EQUIP_WEAPON	2	0,6										
+15	12	9									11	EQUIP_WEAPON	3	0,3										
+15	12	9									11	EQUIP_WEAPON	4	0,15										
+15	12	9									11	EQUIP_WEAPON	5	0,075										
+15	12	9									11	EQUIP_WEAPON	6	0,075										
+15	12	9									11	EQUIP_WEAPON	7	0,0375										
+15	12	9									11	EQUIP_WEAPON	8	0,01875										
+15	12	9									11	EQUIP_WEAPON	9	0,01875										
+15	12	9									11	EQUIP_WEAPON	10	0,00945										
+15	12	9									11	EQUIP_WEAPON	11	0,00945										
+15	12	9									11	EQUIP_WEAPON	12	0,045										
+15	12	9									11	EQUIP_WEAPON	13	0,045										
+15	12	9									11	EQUIP_WEAPON	14	0,045										
+15	12	9									1	EQUIP_ARMOR_BODY	0	1										
+15	12	9									1	EQUIP_ARMOR_BODY	1	1										
+15	12	9									1	EQUIP_ARMOR_BODY	2	0,7										
+15	12	9									1	EQUIP_ARMOR_BODY	3	0,4										
+15	12	9									1	EQUIP_ARMOR_BODY	4	0,25										
+15	12	9									1	EQUIP_ARMOR_BODY	5	0,175										
+15	12	9									1	EQUIP_ARMOR_BODY	6	0,175										
+15	12	9									1	EQUIP_ARMOR_BODY	7	0,1375										
+15	12	9									1	EQUIP_ARMOR_BODY	8	0,11875										
+15	12	9									1	EQUIP_ARMOR_BODY	9	0,11875										
+15	12	9									1	EQUIP_ARMOR_BODY	10	0,1095										
+15	12	9									1	EQUIP_ARMOR_BODY	11	0,1095										
+15	12	9									2	EQUIP_ARMOR_BODY	0	1										
+15	12	9									2	EQUIP_ARMOR_BODY	1	1										
+15	12	9									2	EQUIP_ARMOR_BODY	2	0,675										
+15	12	9									2	EQUIP_ARMOR_BODY	3	0,375										
+15	12	9									2	EQUIP_ARMOR_BODY	4	0,225										
+15	12	9									2	EQUIP_ARMOR_BODY	5	0,15										
+15	12	9									2	EQUIP_ARMOR_BODY	6	0,15										
+15	12	9									2	EQUIP_ARMOR_BODY	7	0,1125										
+15	12	9									2	EQUIP_ARMOR_BODY	8	0,09375										
+15	12	9									2	EQUIP_ARMOR_BODY	9	0,09375										
+15	12	9									2	EQUIP_ARMOR_BODY	10	0,0845										
+15	12	9									2	EQUIP_ARMOR_BODY	11	0,0845										
+15	12	9									3	EQUIP_ARMOR_BODY	0	1										
+15	12	9									3	EQUIP_ARMOR_BODY	1	1										
+15	12	9									3	EQUIP_ARMOR_BODY	2	0,65										
+15	12	9									3	EQUIP_ARMOR_BODY	3	0,35										
+15	12	9									3	EQUIP_ARMOR_BODY	4	0,2										
+15	12	9									3	EQUIP_ARMOR_BODY	5	0,125										
+15	12	9									3	EQUIP_ARMOR_BODY	6	0,125										
+15	12	9									3	EQUIP_ARMOR_BODY	7	0,0875										
+15	12	9									3	EQUIP_ARMOR_BODY	8	0,06875										
+15	12	9									3	EQUIP_ARMOR_BODY	9	0,06875										
+15	12	9									3	EQUIP_ARMOR_BODY	10	0,0595										
+15	12	9									3	EQUIP_ARMOR_BODY	11	0,0595										
+15	12	9									4	EQUIP_ARMOR_BODY	0	1										
+15	12	9									4	EQUIP_ARMOR_BODY	1	1										
+15	12	9									4	EQUIP_ARMOR_BODY	2	0,625										
+15	12	9									4	EQUIP_ARMOR_BODY	3	0,325										
+15	12	9									4	EQUIP_ARMOR_BODY	4	0,175										
+15	12	9									4	EQUIP_ARMOR_BODY	5	0,1										
+15	12	9									4	EQUIP_ARMOR_BODY	6	0,1										
+15	12	9									4	EQUIP_ARMOR_BODY	7	0,0625										
+15	12	9									4	EQUIP_ARMOR_BODY	8	0,04375										
+15	12	9									4	EQUIP_ARMOR_BODY	9	0,04375										
+15	12	9									4	EQUIP_ARMOR_BODY	10	0,0345										
+15	12	9									4	EQUIP_ARMOR_BODY	11	0,0345										
+15	12	9									5	EQUIP_ARMOR_BODY	0	1										
+15	12	9									5	EQUIP_ARMOR_BODY	1	1										
+15	12	9									5	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									5	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									5	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									5	EQUIP_ARMOR_BODY	5	0,075										
+15	12	9									5	EQUIP_ARMOR_BODY	6	0,075										
+15	12	9									5	EQUIP_ARMOR_BODY	7	0,0375										
+15	12	9									5	EQUIP_ARMOR_BODY	8	0,01875										
+15	12	9									5	EQUIP_ARMOR_BODY	9	0,01875										
+15	12	9									5	EQUIP_ARMOR_BODY	10	0,00945										
+15	12	9									5	EQUIP_ARMOR_BODY	11	0,00945										
+15	12	9									5	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									5	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									5	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									6	EQUIP_ARMOR_BODY	0	1										
+15	12	9									6	EQUIP_ARMOR_BODY	1	1										
+15	12	9									6	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									6	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									6	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									6	EQUIP_ARMOR_BODY	5	0,1125										
+15	12	9									6	EQUIP_ARMOR_BODY	6	0,1125										
+15	12	9									6	EQUIP_ARMOR_BODY	7	0,0825										
+15	12	9									6	EQUIP_ARMOR_BODY	8	0,0625										
+15	12	9									6	EQUIP_ARMOR_BODY	9	0,0625										
+15	12	9									6	EQUIP_ARMOR_BODY	10	0,0625										
+15	12	9									6	EQUIP_ARMOR_BODY	11	0,0625										
+15	12	9									6	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									6	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									6	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									7	EQUIP_ARMOR_BODY	0	1										
+15	12	9									7	EQUIP_ARMOR_BODY	1	1										
+15	12	9									7	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									7	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									7	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									7	EQUIP_ARMOR_BODY	5	0,1125										
+15	12	9									7	EQUIP_ARMOR_BODY	6	0,1125										
+15	12	9									7	EQUIP_ARMOR_BODY	7	0,0825										
+15	12	9									7	EQUIP_ARMOR_BODY	8	0,0625										
+15	12	9									7	EQUIP_ARMOR_BODY	9	0,0625										
+15	12	9									7	EQUIP_ARMOR_BODY	10	0,0625										
+15	12	9									7	EQUIP_ARMOR_BODY	11	0,0625										
+15	12	9									7	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									7	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									7	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									8	EQUIP_ARMOR_BODY	0	1										
+15	12	9									8	EQUIP_ARMOR_BODY	1	1										
+15	12	9									8	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									8	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									8	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									8	EQUIP_ARMOR_BODY	5	0,1125										
+15	12	9									8	EQUIP_ARMOR_BODY	6	0,1125										
+15	12	9									8	EQUIP_ARMOR_BODY	7	0,0825										
+15	12	9									8	EQUIP_ARMOR_BODY	8	0,0625										
+15	12	9									8	EQUIP_ARMOR_BODY	9	0,0625										
+15	12	9									8	EQUIP_ARMOR_BODY	10	0,0625										
+15	12	9									8	EQUIP_ARMOR_BODY	11	0,0625										
+15	12	9									8	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									8	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									8	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									9	EQUIP_ARMOR_BODY	0	1										
+15	12	9									9	EQUIP_ARMOR_BODY	1	1										
+15	12	9									9	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									9	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									9	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									9	EQUIP_ARMOR_BODY	5	0,1125										
+15	12	9									9	EQUIP_ARMOR_BODY	6	0,1125										
+15	12	9									9	EQUIP_ARMOR_BODY	7	0,0825										
+15	12	9									9	EQUIP_ARMOR_BODY	8	0,0625										
+15	12	9									9	EQUIP_ARMOR_BODY	9	0,0625										
+15	12	9									9	EQUIP_ARMOR_BODY	10	0,0625										
+15	12	9									9	EQUIP_ARMOR_BODY	11	0,0625										
+15	12	9									9	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									9	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									9	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									10	EQUIP_ARMOR_BODY	0	1										
+15	12	9									10	EQUIP_ARMOR_BODY	1	1										
+15	12	9									10	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									10	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									10	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									10	EQUIP_ARMOR_BODY	5	0,075										
+15	12	9									10	EQUIP_ARMOR_BODY	6	0,075										
+15	12	9									10	EQUIP_ARMOR_BODY	7	0,0375										
+15	12	9									10	EQUIP_ARMOR_BODY	8	0,01875										
+15	12	9									10	EQUIP_ARMOR_BODY	9	0,01875										
+15	12	9									10	EQUIP_ARMOR_BODY	10	0,00945										
+15	12	9									10	EQUIP_ARMOR_BODY	11	0,00945										
+15	12	9									10	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									10	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									10	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									11	EQUIP_ARMOR_BODY	0	1										
+15	12	9									11	EQUIP_ARMOR_BODY	1	1										
+15	12	9									11	EQUIP_ARMOR_BODY	2	0,6										
+15	12	9									11	EQUIP_ARMOR_BODY	3	0,3										
+15	12	9									11	EQUIP_ARMOR_BODY	4	0,15										
+15	12	9									11	EQUIP_ARMOR_BODY	5	0,075										
+15	12	9									11	EQUIP_ARMOR_BODY	6	0,075										
+15	12	9									11	EQUIP_ARMOR_BODY	7	0,0375										
+15	12	9									11	EQUIP_ARMOR_BODY	8	0,01875										
+15	12	9									11	EQUIP_ARMOR_BODY	9	0,01875										
+15	12	9									11	EQUIP_ARMOR_BODY	10	0,00945										
+15	12	9									11	EQUIP_ARMOR_BODY	11	0,00945										
+15	12	9									11	EQUIP_ARMOR_BODY	12	0,045										
+15	12	9									11	EQUIP_ARMOR_BODY	13	0,045										
+15	12	9									11	EQUIP_ARMOR_BODY	14	0,045										
+15	12	9									1	EQUIP_ARMOR_ARM	0	1										
+15	12	9									1	EQUIP_ARMOR_ARM	1	1										
+15	12	9									1	EQUIP_ARMOR_ARM	2	0,7										
+15	12	9									1	EQUIP_ARMOR_ARM	3	0,4										
+15	12	9									1	EQUIP_ARMOR_ARM	4	0,25										
+15	12	9									1	EQUIP_ARMOR_ARM	5	0,175										
+15	12	9									1	EQUIP_ARMOR_ARM	6	0,175										
+15	12	9									1	EQUIP_ARMOR_ARM	7	0,1375										
+15	12	9									1	EQUIP_ARMOR_ARM	8	0,11875										
+15	12	9									1	EQUIP_ARMOR_ARM	9	0,11875										
+15	12	9									1	EQUIP_ARMOR_ARM	10	0,1095										
+15	12	9									1	EQUIP_ARMOR_ARM	11	0,1095										
+15	12	9									2	EQUIP_ARMOR_ARM	0	1										
+15	12	9									2	EQUIP_ARMOR_ARM	1	1										
+15	12	9									2	EQUIP_ARMOR_ARM	2	0,675										
+15	12	9									2	EQUIP_ARMOR_ARM	3	0,375										
+15	12	9									2	EQUIP_ARMOR_ARM	4	0,225										
+15	12	9									2	EQUIP_ARMOR_ARM	5	0,15										
+15	12	9									2	EQUIP_ARMOR_ARM	6	0,15										
+15	12	9									2	EQUIP_ARMOR_ARM	7	0,1125										
+15	12	9									2	EQUIP_ARMOR_ARM	8	0,09375										
+15	12	9									2	EQUIP_ARMOR_ARM	9	0,09375										
+15	12	9									2	EQUIP_ARMOR_ARM	10	0,0845										
+15	12	9									2	EQUIP_ARMOR_ARM	11	0,0845										
+15	12	9									3	EQUIP_ARMOR_ARM	0	1										
+15	12	9									3	EQUIP_ARMOR_ARM	1	1										
+15	12	9									3	EQUIP_ARMOR_ARM	2	0,65										
+15	12	9									3	EQUIP_ARMOR_ARM	3	0,35										
+15	12	9									3	EQUIP_ARMOR_ARM	4	0,2										
+15	12	9									3	EQUIP_ARMOR_ARM	5	0,125										
+15	12	9									3	EQUIP_ARMOR_ARM	6	0,125										
+15	12	9									3	EQUIP_ARMOR_ARM	7	0,0875										
+15	12	9									3	EQUIP_ARMOR_ARM	8	0,06875										
+15	12	9									3	EQUIP_ARMOR_ARM	9	0,06875										
+15	12	9									3	EQUIP_ARMOR_ARM	10	0,0595										
+15	12	9									3	EQUIP_ARMOR_ARM	11	0,0595										
+15	12	9									4	EQUIP_ARMOR_ARM	0	1										
+15	12	9									4	EQUIP_ARMOR_ARM	1	1										
+15	12	9									4	EQUIP_ARMOR_ARM	2	0,625										
+15	12	9									4	EQUIP_ARMOR_ARM	3	0,325										
+15	12	9									4	EQUIP_ARMOR_ARM	4	0,175										
+15	12	9									4	EQUIP_ARMOR_ARM	5	0,1										
+15	12	9									4	EQUIP_ARMOR_ARM	6	0,1										
+15	12	9									4	EQUIP_ARMOR_ARM	7	0,0625										
+15	12	9									4	EQUIP_ARMOR_ARM	8	0,04375										
+15	12	9									4	EQUIP_ARMOR_ARM	9	0,04375										
+15	12	9									4	EQUIP_ARMOR_ARM	10	0,0345										
+15	12	9									4	EQUIP_ARMOR_ARM	11	0,0345										
+15	12	9									5	EQUIP_ARMOR_ARM	0	1										
+15	12	9									5	EQUIP_ARMOR_ARM	1	1										
+15	12	9									5	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									5	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									5	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									5	EQUIP_ARMOR_ARM	5	0,075										
+15	12	9									5	EQUIP_ARMOR_ARM	6	0,075										
+15	12	9									5	EQUIP_ARMOR_ARM	7	0,0375										
+15	12	9									5	EQUIP_ARMOR_ARM	8	0,01875										
+15	12	9									5	EQUIP_ARMOR_ARM	9	0,01875										
+15	12	9									5	EQUIP_ARMOR_ARM	10	0,00945										
+15	12	9									5	EQUIP_ARMOR_ARM	11	0,00945										
+15	12	9									5	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									5	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									5	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									6	EQUIP_ARMOR_ARM	0	1										
+15	12	9									6	EQUIP_ARMOR_ARM	1	1										
+15	12	9									6	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									6	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									6	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									6	EQUIP_ARMOR_ARM	5	0,1125										
+15	12	9									6	EQUIP_ARMOR_ARM	6	0,1125										
+15	12	9									6	EQUIP_ARMOR_ARM	7	0,0825										
+15	12	9									6	EQUIP_ARMOR_ARM	8	0,0625										
+15	12	9									6	EQUIP_ARMOR_ARM	9	0,0625										
+15	12	9									6	EQUIP_ARMOR_ARM	10	0,0625										
+15	12	9									6	EQUIP_ARMOR_ARM	11	0,0625										
+15	12	9									6	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									6	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									6	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									7	EQUIP_ARMOR_ARM	0	1										
+15	12	9									7	EQUIP_ARMOR_ARM	1	1										
+15	12	9									7	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									7	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									7	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									7	EQUIP_ARMOR_ARM	5	0,1125										
+15	12	9									7	EQUIP_ARMOR_ARM	6	0,1125										
+15	12	9									7	EQUIP_ARMOR_ARM	7	0,0825										
+15	12	9									7	EQUIP_ARMOR_ARM	8	0,0625										
+15	12	9									7	EQUIP_ARMOR_ARM	9	0,0625										
+15	12	9									7	EQUIP_ARMOR_ARM	10	0,0625										
+15	12	9									7	EQUIP_ARMOR_ARM	11	0,0625										
+15	12	9									7	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									7	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									7	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									8	EQUIP_ARMOR_ARM	0	1										
+15	12	9									8	EQUIP_ARMOR_ARM	1	1										
+15	12	9									8	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									8	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									8	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									8	EQUIP_ARMOR_ARM	5	0,1125										
+15	12	9									8	EQUIP_ARMOR_ARM	6	0,1125										
+15	12	9									8	EQUIP_ARMOR_ARM	7	0,0825										
+15	12	9									8	EQUIP_ARMOR_ARM	8	0,0625										
+15	12	9									8	EQUIP_ARMOR_ARM	9	0,0625										
+15	12	9									8	EQUIP_ARMOR_ARM	10	0,0625										
+15	12	9									8	EQUIP_ARMOR_ARM	11	0,0625										
+15	12	9									8	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									8	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									8	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									9	EQUIP_ARMOR_ARM	0	1										
+15	12	9									9	EQUIP_ARMOR_ARM	1	1										
+15	12	9									9	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									9	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									9	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									9	EQUIP_ARMOR_ARM	5	0,1125										
+15	12	9									9	EQUIP_ARMOR_ARM	6	0,1125										
+15	12	9									9	EQUIP_ARMOR_ARM	7	0,0825										
+15	12	9									9	EQUIP_ARMOR_ARM	8	0,0625										
+15	12	9									9	EQUIP_ARMOR_ARM	9	0,0625										
+15	12	9									9	EQUIP_ARMOR_ARM	10	0,0625										
+15	12	9									9	EQUIP_ARMOR_ARM	11	0,0625										
+15	12	9									9	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									9	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									9	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									10	EQUIP_ARMOR_ARM	0	1										
+15	12	9									10	EQUIP_ARMOR_ARM	1	1										
+15	12	9									10	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									10	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									10	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									10	EQUIP_ARMOR_ARM	5	0,075										
+15	12	9									10	EQUIP_ARMOR_ARM	6	0,075										
+15	12	9									10	EQUIP_ARMOR_ARM	7	0,0375										
+15	12	9									10	EQUIP_ARMOR_ARM	8	0,01875										
+15	12	9									10	EQUIP_ARMOR_ARM	9	0,01875										
+15	12	9									10	EQUIP_ARMOR_ARM	10	0,00945										
+15	12	9									10	EQUIP_ARMOR_ARM	11	0,00945										
+15	12	9									10	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									10	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									10	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									11	EQUIP_ARMOR_ARM	0	1										
+15	12	9									11	EQUIP_ARMOR_ARM	1	1										
+15	12	9									11	EQUIP_ARMOR_ARM	2	0,6										
+15	12	9									11	EQUIP_ARMOR_ARM	3	0,3										
+15	12	9									11	EQUIP_ARMOR_ARM	4	0,15										
+15	12	9									11	EQUIP_ARMOR_ARM	5	0,075										
+15	12	9									11	EQUIP_ARMOR_ARM	6	0,075										
+15	12	9									11	EQUIP_ARMOR_ARM	7	0,0375										
+15	12	9									11	EQUIP_ARMOR_ARM	8	0,01875										
+15	12	9									11	EQUIP_ARMOR_ARM	9	0,01875										
+15	12	9									11	EQUIP_ARMOR_ARM	10	0,00945										
+15	12	9									11	EQUIP_ARMOR_ARM	11	0,00945										
+15	12	9									11	EQUIP_ARMOR_ARM	12	0,045										
+15	12	9									11	EQUIP_ARMOR_ARM	13	0,045										
+15	12	9									11	EQUIP_ARMOR_ARM	14	0,045										
+15	12	9									1	EQUIP_ARMOR_LEG	0	1										
+15	12	9									1	EQUIP_ARMOR_LEG	1	1										
+15	12	9									1	EQUIP_ARMOR_LEG	2	0,7										
+15	12	9									1	EQUIP_ARMOR_LEG	3	0,4										
+15	12	9									1	EQUIP_ARMOR_LEG	4	0,25										
+15	12	9									1	EQUIP_ARMOR_LEG	5	0,175										
+15	12	9									1	EQUIP_ARMOR_LEG	6	0,175										
+15	12	9									1	EQUIP_ARMOR_LEG	7	0,1375										
+15	12	9									1	EQUIP_ARMOR_LEG	8	0,11875										
+15	12	9									1	EQUIP_ARMOR_LEG	9	0,11875										
+15	12	9									1	EQUIP_ARMOR_LEG	10	0,1095										
+15	12	9									1	EQUIP_ARMOR_LEG	11	0,1095										
+15	12	9									2	EQUIP_ARMOR_LEG	0	1										
+15	12	9									2	EQUIP_ARMOR_LEG	1	1										
+15	12	9									2	EQUIP_ARMOR_LEG	2	0,675										
+15	12	9									2	EQUIP_ARMOR_LEG	3	0,375										
+15	12	9									2	EQUIP_ARMOR_LEG	4	0,225										
+15	12	9									2	EQUIP_ARMOR_LEG	5	0,15										
+15	12	9									2	EQUIP_ARMOR_LEG	6	0,15										
+15	12	9									2	EQUIP_ARMOR_LEG	7	0,1125										
+15	12	9									2	EQUIP_ARMOR_LEG	8	0,09375										
+15	12	9									2	EQUIP_ARMOR_LEG	9	0,09375										
+15	12	9									2	EQUIP_ARMOR_LEG	10	0,0845										
+15	12	9									2	EQUIP_ARMOR_LEG	11	0,0845										
+15	12	9									3	EQUIP_ARMOR_LEG	0	1										
+15	12	9									3	EQUIP_ARMOR_LEG	1	1										
+15	12	9									3	EQUIP_ARMOR_LEG	2	0,65										
+15	12	9									3	EQUIP_ARMOR_LEG	3	0,35										
+15	12	9									3	EQUIP_ARMOR_LEG	4	0,2										
+15	12	9									3	EQUIP_ARMOR_LEG	5	0,125										
+15	12	9									3	EQUIP_ARMOR_LEG	6	0,125										
+15	12	9									3	EQUIP_ARMOR_LEG	7	0,0875										
+15	12	9									3	EQUIP_ARMOR_LEG	8	0,06875										
+15	12	9									3	EQUIP_ARMOR_LEG	9	0,06875										
+15	12	9									3	EQUIP_ARMOR_LEG	10	0,0595										
+15	12	9									3	EQUIP_ARMOR_LEG	11	0,0595										
+15	12	9									4	EQUIP_ARMOR_LEG	0	1										
+15	12	9									4	EQUIP_ARMOR_LEG	1	1										
+15	12	9									4	EQUIP_ARMOR_LEG	2	0,625										
+15	12	9									4	EQUIP_ARMOR_LEG	3	0,325										
+15	12	9									4	EQUIP_ARMOR_LEG	4	0,175										
+15	12	9									4	EQUIP_ARMOR_LEG	5	0,1										
+15	12	9									4	EQUIP_ARMOR_LEG	6	0,1										
+15	12	9									4	EQUIP_ARMOR_LEG	7	0,0625										
+15	12	9									4	EQUIP_ARMOR_LEG	8	0,04375										
+15	12	9									4	EQUIP_ARMOR_LEG	9	0,04375										
+15	12	9									4	EQUIP_ARMOR_LEG	10	0,0345										
+15	12	9									4	EQUIP_ARMOR_LEG	11	0,0345										
+15	12	9									5	EQUIP_ARMOR_LEG	0	1										
+15	12	9									5	EQUIP_ARMOR_LEG	1	1										
+15	12	9									5	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									5	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									5	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									5	EQUIP_ARMOR_LEG	5	0,075										
+15	12	9									5	EQUIP_ARMOR_LEG	6	0,075										
+15	12	9									5	EQUIP_ARMOR_LEG	7	0,0375										
+15	12	9									5	EQUIP_ARMOR_LEG	8	0,01875										
+15	12	9									5	EQUIP_ARMOR_LEG	9	0,01875										
+15	12	9									5	EQUIP_ARMOR_LEG	10	0,00945										
+15	12	9									5	EQUIP_ARMOR_LEG	11	0,00945										
+15	12	9									5	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									5	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									5	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									6	EQUIP_ARMOR_LEG	0	1										
+15	12	9									6	EQUIP_ARMOR_LEG	1	1										
+15	12	9									6	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									6	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									6	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									6	EQUIP_ARMOR_LEG	5	0,1125										
+15	12	9									6	EQUIP_ARMOR_LEG	6	0,1125										
+15	12	9									6	EQUIP_ARMOR_LEG	7	0,0825										
+15	12	9									6	EQUIP_ARMOR_LEG	8	0,0625										
+15	12	9									6	EQUIP_ARMOR_LEG	9	0,0625										
+15	12	9									6	EQUIP_ARMOR_LEG	10	0,0625										
+15	12	9									6	EQUIP_ARMOR_LEG	11	0,0625										
+15	12	9									6	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									6	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									6	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									7	EQUIP_ARMOR_LEG	0	1										
+15	12	9									7	EQUIP_ARMOR_LEG	1	1										
+15	12	9									7	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									7	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									7	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									7	EQUIP_ARMOR_LEG	5	0,1125										
+15	12	9									7	EQUIP_ARMOR_LEG	6	0,1125										
+15	12	9									7	EQUIP_ARMOR_LEG	7	0,0825										
+15	12	9									7	EQUIP_ARMOR_LEG	8	0,0625										
+15	12	9									7	EQUIP_ARMOR_LEG	9	0,0625										
+15	12	9									7	EQUIP_ARMOR_LEG	10	0,0625										
+15	12	9									7	EQUIP_ARMOR_LEG	11	0,0625										
+15	12	9									7	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									7	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									7	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									8	EQUIP_ARMOR_LEG	0	1										
+15	12	9									8	EQUIP_ARMOR_LEG	1	1										
+15	12	9									8	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									8	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									8	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									8	EQUIP_ARMOR_LEG	5	0,1125										
+15	12	9									8	EQUIP_ARMOR_LEG	6	0,1125										
+15	12	9									8	EQUIP_ARMOR_LEG	7	0,0825										
+15	12	9									8	EQUIP_ARMOR_LEG	8	0,0625										
+15	12	9									8	EQUIP_ARMOR_LEG	9	0,0625										
+15	12	9									8	EQUIP_ARMOR_LEG	10	0,0625										
+15	12	9									8	EQUIP_ARMOR_LEG	11	0,0625										
+15	12	9									8	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									8	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									8	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									9	EQUIP_ARMOR_LEG	0	1										
+15	12	9									9	EQUIP_ARMOR_LEG	1	1										
+15	12	9									9	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									9	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									9	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									9	EQUIP_ARMOR_LEG	5	0,1125										
+15	12	9									9	EQUIP_ARMOR_LEG	6	0,1125										
+15	12	9									9	EQUIP_ARMOR_LEG	7	0,0825										
+15	12	9									9	EQUIP_ARMOR_LEG	8	0,06275										
+15	12	9									9	EQUIP_ARMOR_LEG	9	0,0625										
+15	12	9									9	EQUIP_ARMOR_LEG	10	0,0625										
+15	12	9									9	EQUIP_ARMOR_LEG	11	0,0625										
+15	12	9									9	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									9	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									9	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									10	EQUIP_ARMOR_LEG	0	1										
+15	12	9									10	EQUIP_ARMOR_LEG	1	1										
+15	12	9									10	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									10	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									10	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									10	EQUIP_ARMOR_LEG	5	0,075										
+15	12	9									10	EQUIP_ARMOR_LEG	6	0,075										
+15	12	9									10	EQUIP_ARMOR_LEG	7	0,0375										
+15	12	9									10	EQUIP_ARMOR_LEG	8	0,01875										
+15	12	9									10	EQUIP_ARMOR_LEG	9	0,01875										
+15	12	9									10	EQUIP_ARMOR_LEG	10	0,00945										
+15	12	9									10	EQUIP_ARMOR_LEG	11	0,00945										
+15	12	9									10	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									10	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									10	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									11	EQUIP_ARMOR_LEG	0	1										
+15	12	9									11	EQUIP_ARMOR_LEG	1	1										
+15	12	9									11	EQUIP_ARMOR_LEG	2	0,6										
+15	12	9									11	EQUIP_ARMOR_LEG	3	0,3										
+15	12	9									11	EQUIP_ARMOR_LEG	4	0,15										
+15	12	9									11	EQUIP_ARMOR_LEG	5	0,075										
+15	12	9									11	EQUIP_ARMOR_LEG	6	0,075										
+15	12	9									11	EQUIP_ARMOR_LEG	7	0,0375										
+15	12	9									11	EQUIP_ARMOR_LEG	8	0,01875										
+15	12	9									11	EQUIP_ARMOR_LEG	9	0,01875										
+15	12	9									11	EQUIP_ARMOR_LEG	10	0,00945										
+15	12	9									11	EQUIP_ARMOR_LEG	11	0,00945										
+15	12	9									11	EQUIP_ARMOR_LEG	12	0,045										
+15	12	9									11	EQUIP_ARMOR_LEG	13	0,045										
+15	12	9									11	EQUIP_ARMOR_LEG	14	0,045										
+15	12	9									4	EQUIP_ACCESSORY	0	1										
+15	12	9									4	EQUIP_ACCESSORY	1	1										
+15	12	9									4	EQUIP_ACCESSORY	2	0,6										
+15	12	9									4	EQUIP_ACCESSORY	3	0,3										
+15	12	9									4	EQUIP_ACCESSORY	4	0,15										
+15	12	9									4	EQUIP_ACCESSORY	5	0,075										
+15	12	9									4	EQUIP_ACCESSORY	6	0,075										
+15	12	9									4	EQUIP_ACCESSORY	7	0,0375										
+15	12	9									4	EQUIP_ACCESSORY	8	0,01875										
+15	12	9									4	EQUIP_ACCESSORY	9	0,01875										
+15	12	9									4	EQUIP_ACCESSORY	10	0,00945										
+15	12	9									4	EQUIP_ACCESSORY	11	0,00945										
+15	12	9													1	33	60							
+15	12	9													2	33	60							
+15	12	9													3	33	60							
+15	12	9													4	25	50							
+15	12	9													5	15	30							
+15	12	9													6	15	30							
+15	12	9													7	15	30							
+15	12	9													8	10	30							
+15	12	9													9	9	30							
+15	12	9													10	9	30							
+15	12	9													11	6	30							
+15	12	9													12	6	30							
+15	12	9													13	33	100							
+15	12	9													14	33	100							
+15	12	9													15	33	100							
+15	12	9																1	EQUIP_WEAPON	1	0	4	8	
+15	12	9																1	EQUIP_WEAPON	1	1	8	8	
+15	12	9																1	EQUIP_WEAPON	1	2	24	8	
+15	12	9																1	EQUIP_WEAPON	1	3	48	8	
+15	12	9																1	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																1	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																1	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																1	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																1	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																1	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																1	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																1	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																1	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																1	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																1	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																1	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																2	EQUIP_WEAPON	1	0	4	8	
+15	12	9																2	EQUIP_WEAPON	1	1	8	8	
+15	12	9																2	EQUIP_WEAPON	1	2	24	8	
+15	12	9																2	EQUIP_WEAPON	1	3	48	8	
+15	12	9																2	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																2	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																2	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																2	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																2	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																2	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																2	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																2	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																2	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																2	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																2	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																2	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																3	EQUIP_WEAPON	1	0	4	8	
+15	12	9																3	EQUIP_WEAPON	1	1	8	8	
+15	12	9																3	EQUIP_WEAPON	1	2	24	8	
+15	12	9																3	EQUIP_WEAPON	1	3	48	8	
+15	12	9																3	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																3	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																3	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																3	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																3	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																3	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																3	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																3	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																3	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																3	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																3	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																3	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																4	EQUIP_WEAPON	1	0	4	8	
+15	12	9																4	EQUIP_WEAPON	1	1	8	8	
+15	12	9																4	EQUIP_WEAPON	1	2	24	8	
+15	12	9																4	EQUIP_WEAPON	1	3	48	8	
+15	12	9																4	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																4	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																4	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																4	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																4	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																4	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																4	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																4	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																4	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																4	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																4	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																4	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																5	EQUIP_WEAPON	1	0	4	8	
+15	12	9																5	EQUIP_WEAPON	1	1	8	8	
+15	12	9																5	EQUIP_WEAPON	1	2	24	8	
+15	12	9																5	EQUIP_WEAPON	1	3	48	8	
+15	12	9																5	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																5	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																5	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																5	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																5	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																5	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																5	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																5	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																5	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																5	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																5	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																5	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																6	EQUIP_WEAPON	1	0	4	8	
+15	12	9																6	EQUIP_WEAPON	1	1	8	8	
+15	12	9																6	EQUIP_WEAPON	1	2	24	8	
+15	12	9																6	EQUIP_WEAPON	1	3	48	8	
+15	12	9																6	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																6	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																6	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																6	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																6	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																6	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																6	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																6	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																6	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																6	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																6	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																6	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																7	EQUIP_WEAPON	1	0	4	8	
+15	12	9																7	EQUIP_WEAPON	1	1	8	8	
+15	12	9																7	EQUIP_WEAPON	1	2	24	8	
+15	12	9																7	EQUIP_WEAPON	1	3	48	8	
+15	12	9																7	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																7	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																7	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																7	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																7	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																7	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																7	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																7	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																7	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																7	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																7	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																7	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																8	EQUIP_WEAPON	1	0	4	8	
+15	12	9																8	EQUIP_WEAPON	1	1	8	8	
+15	12	9																8	EQUIP_WEAPON	1	2	24	8	
+15	12	9																8	EQUIP_WEAPON	1	3	48	8	
+15	12	9																8	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																8	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																8	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																8	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																8	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																8	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																8	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																8	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																8	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																8	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																8	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																8	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																9	EQUIP_WEAPON	1	0	4	8	
+15	12	9																9	EQUIP_WEAPON	1	1	8	8	
+15	12	9																9	EQUIP_WEAPON	1	2	24	8	
+15	12	9																9	EQUIP_WEAPON	1	3	48	8	
+15	12	9																9	EQUIP_ARMOR_BODY	1	0	3	8	
+15	12	9																9	EQUIP_ARMOR_BODY	1	1	6	8	
+15	12	9																9	EQUIP_ARMOR_BODY	1	2	18	8	
+15	12	9																9	EQUIP_ARMOR_BODY	1	3	36	8	
+15	12	9																9	EQUIP_ARMOR_ARM	1	0	2	8	
+15	12	9																9	EQUIP_ARMOR_ARM	1	1	4	8	
+15	12	9																9	EQUIP_ARMOR_ARM	1	2	12	8	
+15	12	9																9	EQUIP_ARMOR_ARM	1	3	24	8	
+15	12	9																9	EQUIP_ARMOR_LEG	1	0	2	8	
+15	12	9																9	EQUIP_ARMOR_LEG	1	1	4	8	
+15	12	9																9	EQUIP_ARMOR_LEG	1	2	12	8	
+15	12	9																9	EQUIP_ARMOR_LEG	1	3	24	8	
+15	12	9																10	EQUIP_WEAPON	1	0	4	16	
+15	12	9																10	EQUIP_WEAPON	1	1	8	16	
+15	12	9																10	EQUIP_WEAPON	1	2	24	16	
+15	12	9																10	EQUIP_WEAPON	1	3	48	16	
+15	12	9																10	EQUIP_ARMOR_BODY	1	0	3	16	
+15	12	9																10	EQUIP_ARMOR_BODY	1	1	6	16	
+15	12	9																10	EQUIP_ARMOR_BODY	1	2	18	16	
+15	12	9																10	EQUIP_ARMOR_BODY	1	3	36	16	
+15	12	9																10	EQUIP_ARMOR_ARM	1	0	2	16	
+15	12	9																10	EQUIP_ARMOR_ARM	1	1	4	16	
+15	12	9																10	EQUIP_ARMOR_ARM	1	2	12	16	
+15	12	9																10	EQUIP_ARMOR_ARM	1	3	24	16	
+15	12	9																10	EQUIP_ARMOR_LEG	1	0	2	16	
+15	12	9																10	EQUIP_ARMOR_LEG	1	1	4	16	
+15	12	9																10	EQUIP_ARMOR_LEG	1	2	12	16	
+15	12	9																10	EQUIP_ARMOR_LEG	1	3	24	16	
+15	12	9																11	EQUIP_WEAPON	1	0	4	16	
+15	12	9																11	EQUIP_WEAPON	1	1	8	16	
+15	12	9																11	EQUIP_WEAPON	1	2	24	16	
+15	12	9																11	EQUIP_WEAPON	1	3	48	16	
+15	12	9																11	EQUIP_ARMOR_BODY	1	0	3	16	
+15	12	9																11	EQUIP_ARMOR_BODY	1	1	6	16	
+15	12	9																11	EQUIP_ARMOR_BODY	1	2	18	16	
+15	12	9																11	EQUIP_ARMOR_BODY	1	3	36	16	
+15	12	9																11	EQUIP_ARMOR_ARM	1	0	2	16	
+15	12	9																11	EQUIP_ARMOR_ARM	1	1	4	16	
+15	12	9																11	EQUIP_ARMOR_ARM	1	2	12	16	
+15	12	9																11	EQUIP_ARMOR_ARM	1	3	24	16	
+15	12	9																11	EQUIP_ARMOR_LEG	1	0	2	16	
+15	12	9																11	EQUIP_ARMOR_LEG	1	1	4	16	
+15	12	9																11	EQUIP_ARMOR_LEG	1	2	12	16	
+15	12	9																11	EQUIP_ARMOR_LEG	1	3	24	16	
+15	12	9																5	EQUIP_WEAPON	13	0	200	100	447
+15	12	9																5	EQUIP_ARMOR_BODY	13	0	180	90	447
+15	12	9																5	EQUIP_ARMOR_ARM	13	0	150	75	447
+15	12	9																5	EQUIP_ARMOR_LEG	13	0	150	75	447
+15	12	9																6	EQUIP_WEAPON	13	0	200	100	447
+15	12	9																6	EQUIP_WEAPON	13	0	200	85	70102
+15	12	9																6	EQUIP_WEAPON	13	0	200	60	180859
+15	12	9																6	EQUIP_ARMOR_BODY	13	0	180	90	447
+15	12	9																6	EQUIP_ARMOR_BODY	13	0	180	77	70102
+15	12	9																6	EQUIP_ARMOR_BODY	13	0	180	55	180859
+15	12	9																6	EQUIP_ARMOR_ARM	13	0	150	75	447
+15	12	9																6	EQUIP_ARMOR_ARM	13	0	150	65	70102
+15	12	9																6	EQUIP_ARMOR_ARM	13	0	150	45	180859
+15	12	9																6	EQUIP_ARMOR_LEG	13	0	150	75	447
+15	12	9																6	EQUIP_ARMOR_LEG	13	0	150	65	70102
+15	12	9																6	EQUIP_ARMOR_LEG	13	0	150	45	180859
+15	12	9																7	EQUIP_WEAPON	13	0	200	100	447
+15	12	9																7	EQUIP_WEAPON	13	0	200	85	70102
+15	12	9																7	EQUIP_WEAPON	13	0	200	60	180859
+15	12	9																7	EQUIP_ARMOR_BODY	13	0	180	90	447
+15	12	9																7	EQUIP_ARMOR_BODY	13	0	180	77	70102
+15	12	9																7	EQUIP_ARMOR_BODY	13	0	180	55	180859
+15	12	9																7	EQUIP_ARMOR_ARM	13	0	150	75	447
+15	12	9																7	EQUIP_ARMOR_ARM	13	0	150	65	70102
+15	12	9																7	EQUIP_ARMOR_ARM	13	0	150	45	180859
+15	12	9																7	EQUIP_ARMOR_LEG	13	0	150	75	447
+15	12	9																7	EQUIP_ARMOR_LEG	13	0	150	65	70102
+15	12	9																7	EQUIP_ARMOR_LEG	13	0	150	45	180859
+15	12	9																8	EQUIP_WEAPON	13	0	200	100	447
+15	12	9																8	EQUIP_WEAPON	13	0	200	85	70102
+15	12	9																8	EQUIP_WEAPON	13	0	200	60	180859
+15	12	9																8	EQUIP_ARMOR_BODY	13	0	180	90	447
+15	12	9																8	EQUIP_ARMOR_BODY	13	0	180	77	70102
+15	12	9																8	EQUIP_ARMOR_BODY	13	0	180	55	180859
+15	12	9																8	EQUIP_ARMOR_ARM	13	0	150	75	447
+15	12	9																8	EQUIP_ARMOR_ARM	13	0	150	65	70102
+15	12	9																8	EQUIP_ARMOR_ARM	13	0	150	45	180859
+15	12	9																8	EQUIP_ARMOR_LEG	13	0	150	75	447
+15	12	9																8	EQUIP_ARMOR_LEG	13	0	150	65	70102
+15	12	9																8	EQUIP_ARMOR_LEG	13	0	150	45	180859
+15	12	9																9	EQUIP_WEAPON	13	0	200	100	447
+15	12	9																9	EQUIP_WEAPON	13	0	200	85	70102
+15	12	9																9	EQUIP_WEAPON	13	0	200	60	180859
+15	12	9																9	EQUIP_ARMOR_BODY	13	0	180	90	447
+15	12	9																9	EQUIP_ARMOR_BODY	13	0	180	77	70102
+15	12	9																9	EQUIP_ARMOR_BODY	13	0	180	55	180859
+15	12	9																9	EQUIP_ARMOR_ARM	13	0	150	75	447
+15	12	9																9	EQUIP_ARMOR_ARM	13	0	150	65	70102
+15	12	9																9	EQUIP_ARMOR_ARM	13	0	150	45	180859
+15	12	9																9	EQUIP_ARMOR_LEG	13	0	150	75	447
+15	12	9																9	EQUIP_ARMOR_LEG	13	0	150	65	70102
+15	12	9																9	EQUIP_ARMOR_LEG	13	0	150	45	180859
+15	12	9																10	EQUIP_WEAPON	13	0	200	100	447
+15	12	9																10	EQUIP_WEAPON	13	0	200	85	70102
+15	12	9																10	EQUIP_WEAPON	13	0	200	60	180859
+15	12	9																10	EQUIP_ARMOR_BODY	13	0	180	90	447
+15	12	9																10	EQUIP_ARMOR_BODY	13	0	180	77	70102
+15	12	9																10	EQUIP_ARMOR_BODY	13	0	180	55	180859
+15	12	9																10	EQUIP_ARMOR_ARM	13	0	150	75	447
+15	12	9																10	EQUIP_ARMOR_ARM	13	0	150	65	70102
+15	12	9																10	EQUIP_ARMOR_ARM	13	0	150	45	180859
+15	12	9																10	EQUIP_ARMOR_LEG	13	0	150	75	447
+15	12	9																10	EQUIP_ARMOR_LEG	13	0	150	65	70102
+15	12	9																10	EQUIP_ARMOR_LEG	13	0	150	45	180859
+15	12	9																11	EQUIP_WEAPON	13	0	200	200	447
+15	12	9																11	EQUIP_WEAPON	13	0	200	85	70102
+15	12	9																11	EQUIP_WEAPON	13	0	200	60	180859
+15	12	9																11	EQUIP_ARMOR_BODY	13	0	180	180	447
+15	12	9																11	EQUIP_ARMOR_BODY	13	0	180	77	70102
+15	12	9																11	EQUIP_ARMOR_BODY	13	0	180	55	180859
+15	12	9																11	EQUIP_ARMOR_ARM	13	0	150	150	447
+15	12	9																11	EQUIP_ARMOR_ARM	13	0	150	65	70102
+15	12	9																11	EQUIP_ARMOR_ARM	13	0	150	45	180859
+15	12	9																11	EQUIP_ARMOR_LEG	13	0	150	150	447
+15	12	9																11	EQUIP_ARMOR_LEG	13	0	150	65	70102
+15	12	9																11	EQUIP_ARMOR_LEG	13	0	150	45	180859
